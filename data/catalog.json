@@ -3,13 +3,6 @@
   "updated": "2026-10-31",
   "lessons": [
     {
-      "id": "demo-dengue",
-      "title": "Bài mẫu – Sốt xuất huyết Dengue",
-      "topic": "Bài mẫu",
-      "count": 10,
-      "updated": "2026-10-31"
-    },
-    {
       "id": "cmv-bam-sinh",
       "title": "Nhiễm CMV bẩm sinh (cCMV)",
       "topic": "Truyền nhiễm",

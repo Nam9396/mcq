@@ -59,7 +59,7 @@ File `skill/mcq-tu-bai-giang/SKILL.md` chứa toàn bộ quy trình và quy tắ
 
 **Cách 2: tự viết file JSON** theo định dạng ở mục dưới, rồi chạy `python3 tools/publish.py <file>.json` để kiểm tra và đưa vào repo.
 
-**Xoá bài**: xoá file trong `data/lessons/`, chạy `python3 tools/build_catalog.py`, rồi push. Bài mẫu `demo-dengue.json` có thể xoá khi đã có bài thật.
+**Xoá bài**: xoá file trong `data/lessons/`, chạy `python3 tools/build_catalog.py`, rồi push.
 
 ## Định dạng file bài học
 
