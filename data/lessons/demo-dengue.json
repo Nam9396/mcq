@@ -1,0 +1,225 @@
+{
+  "id": "demo-dengue",
+  "title": "Bài mẫu – Sốt xuất huyết Dengue",
+  "topic": "Bài mẫu",
+  "updated": "2026-10-31",
+  "source": "Bài mẫu để thử app, không phải bài giảng chính thức",
+  "sections": [
+    "Dịch tễ và bệnh sinh",
+    "Diễn tiến lâm sàng và dấu hiệu cảnh báo",
+    "Chẩn đoán",
+    "Điều trị"
+  ],
+  "questions": [
+    {
+      "id": "h7dd3d003",
+      "type": "nho",
+      "section": "Dịch tễ và bệnh sinh",
+      "stem": "",
+      "lead": "Trung gian truyền bệnh chủ yếu của sốt xuất huyết Dengue ở Việt Nam là gì?",
+      "options": [
+        "Muỗi Aedes aegypti",
+        "Muỗi Culex tritaeniorhynchus",
+        "Muỗi Anopheles minimus",
+        "Muỗi Mansonia uniformis"
+      ],
+      "answer": 0,
+      "explanation": "Aedes aegypti là véc-tơ chính, sống gần nhà, đốt người vào ban ngày; Aedes albopictus là véc-tơ phụ.",
+      "why_wrong": [
+        null,
+        "Culex tritaeniorhynchus truyền viêm não Nhật Bản.",
+        "Anopheles truyền sốt rét.",
+        "Mansonia liên quan đến bệnh giun chỉ."
+      ]
+    },
+    {
+      "id": "h85280168",
+      "type": "nho",
+      "section": "Dịch tễ và bệnh sinh",
+      "stem": "",
+      "lead": "Cơ chế chính gây sốc trong sốt xuất huyết Dengue là gì?",
+      "options": [
+        "Thoát huyết tương do tăng tính thấm thành mạch",
+        "Mất máu cấp do xuất huyết tiêu hoá ồ ạt",
+        "Suy co bóp cơ tim do viêm cơ tim cấp",
+        "Giãn mạch toàn thân do phóng thích độc tố"
+      ],
+      "answer": 0,
+      "explanation": "Sốc Dengue là sốc giảm thể tích do thoát huyết tương ra khoang kẽ, biểu hiện bằng Hct tăng, tràn dịch màng phổi, màng bụng.",
+      "why_wrong": [
+        null,
+        "Xuất huyết nặng có thể góp phần nhưng không phải cơ chế chính của sốc Dengue.",
+        "Viêm cơ tim là biến chứng hiếm, không phải cơ chế chính.",
+        "Dengue không gây sốc qua cơ chế độc tố như sốc nhiễm khuẩn."
+      ]
+    },
+    {
+      "id": "hbd25f50f",
+      "type": "nho",
+      "section": "Diễn tiến lâm sàng và dấu hiệu cảnh báo",
+      "stem": "",
+      "lead": "Giai đoạn nguy hiểm của sốt xuất huyết Dengue thường xảy ra vào thời điểm nào?",
+      "options": [
+        "Ngày 1–2 của bệnh, khi sốt cao liên tục",
+        "Ngày 3–7 của bệnh, quanh thời điểm hết sốt",
+        "Ngày 8–10 của bệnh, khi bắt đầu hồi phục",
+        "Sau ngày 10 của bệnh, khi tiểu cầu tăng lại"
+      ],
+      "answer": 1,
+      "explanation": "Thoát huyết tương thường xảy ra ngày 3–7, nhất là lúc sốt giảm. Đây là lúc cần theo dõi sát dấu hiệu cảnh báo và sốc.",
+      "why_wrong": [
+        "Ngày 1–2 là giai đoạn sốt, ít khi có thoát huyết tương.",
+        null,
+        "Ngày 8–10 thường đã vào giai đoạn hồi phục, nguy cơ là quá tải dịch.",
+        "Sau ngày 10 bệnh nhân thường đã hồi phục."
+      ]
+    },
+    {
+      "id": "h258c0064",
+      "type": "nho",
+      "section": "Diễn tiến lâm sàng và dấu hiệu cảnh báo",
+      "stem": "",
+      "lead": "Biểu hiện nào sau đây là dấu hiệu cảnh báo trong sốt xuất huyết Dengue?",
+      "options": [
+        "Gan to trên 2 cm dưới bờ sườn",
+        "Sốt cao liên tục 39–40 °C",
+        "Phát ban dạng sởi ở thân mình",
+        "Đau nhức cơ và khớp toàn thân"
+      ],
+      "answer": 0,
+      "explanation": "Dấu hiệu cảnh báo gồm: đau bụng, nôn nhiều, lừ đừ hoặc vật vã, gan to > 2 cm, xuất huyết niêm mạc, tiểu ít, Hct tăng kèm tiểu cầu giảm nhanh.",
+      "why_wrong": [
+        null,
+        "Sốt cao là biểu hiện thường gặp của giai đoạn sốt, không phải dấu hiệu cảnh báo.",
+        "Phát ban gặp ở nhiều ca Dengue không biến chứng.",
+        "Đau cơ khớp là triệu chứng chung của giai đoạn sốt."
+      ]
+    },
+    {
+      "id": "hda5cdc1a",
+      "type": "nho",
+      "section": "Chẩn đoán",
+      "stem": "",
+      "lead": "Xét nghiệm nào giúp xác định nhiễm Dengue sớm nhất, trong 5 ngày đầu của bệnh?",
+      "options": [
+        "Kháng nguyên NS1 Dengue",
+        "Kháng thể IgM Dengue",
+        "Kháng thể IgG Dengue",
+        "Dung tích hồng cầu (Hct)"
+      ],
+      "answer": 0,
+      "explanation": "NS1 dương tính sớm, thường trong 5 ngày đầu. IgM thường dương tính từ khoảng ngày 5 trở đi.",
+      "why_wrong": [
+        null,
+        "IgM thường chỉ dương tính từ khoảng ngày 5 của bệnh.",
+        "IgG tăng muộn hơn, chủ yếu gợi ý nhiễm thứ phát hoặc đã nhiễm trước đó.",
+        "Hct dùng để theo dõi thoát huyết tương, không xác định căn nguyên."
+      ]
+    },
+    {
+      "id": "h7680ac9e",
+      "type": "nho",
+      "section": "Chẩn đoán",
+      "stem": "",
+      "lead": "Huyết áp kẹp trong sốc Dengue được định nghĩa là hiệu áp bằng bao nhiêu?",
+      "options": [
+        "Hiệu áp ≤ 20 mmHg",
+        "Hiệu áp ≤ 30 mmHg",
+        "Hiệu áp ≤ 40 mmHg",
+        "Hiệu áp ≤ 10 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "Huyết áp kẹp khi hiệu áp (HA tâm thu trừ HA tâm trương) ≤ 20 mmHg, là dấu hiệu của sốc Dengue.",
+      "why_wrong": [
+        null,
+        "30 mmHg không phải ngưỡng định nghĩa huyết áp kẹp.",
+        "40 mmHg là hiệu áp bình thường ở nhiều trẻ.",
+        "Chờ đến hiệu áp ≤ 10 mmHg sẽ nhận diện sốc quá muộn."
+      ]
+    },
+    {
+      "id": "h278ec9fd",
+      "type": "lam-sang",
+      "section": "Chẩn đoán",
+      "stem": "Bệnh nhân nam, 7 tuổi, 22 kg, nhập viện vì sốt ngày 5.\n- N1–N3: sốt cao 39–40 °C, đau đầu, đau cơ.\n- N4: giảm sốt, đau bụng, nôn 3 lần.\n- N5: lừ đừ, tay chân lạnh.\nKhám: tỉnh, lừ đừ. Mạch 130 lần/phút, nhẹ. HA 100/85 mmHg. CRT 3 giây. Gan 3 cm dưới bờ sườn.\nCận lâm sàng: Hct 48% (N2: 38%), tiểu cầu 40.000/mm³.",
+      "lead": "Chẩn đoán phân độ phù hợp nhất là gì?",
+      "options": [
+        "Sốt xuất huyết Dengue có dấu hiệu cảnh báo",
+        "Sốc sốt xuất huyết Dengue",
+        "Sốc sốt xuất huyết Dengue nặng",
+        "Sốt xuất huyết Dengue nặng do xuất huyết"
+      ],
+      "answer": 1,
+      "explanation": "Trẻ có dấu hiệu sốc: mạch nhanh nhẹ, tay chân lạnh, CRT kéo dài, hiệu áp 15 mmHg (≤ 20 mmHg). Mạch và huyết áp còn đo được nên là sốc, chưa phải sốc nặng.",
+      "why_wrong": [
+        "Trẻ đã có dấu hiệu sốc, vượt quá mức chỉ có dấu hiệu cảnh báo.",
+        null,
+        "Sốc nặng khi mạch không bắt được và/hoặc huyết áp không đo được.",
+        "Không có biểu hiện xuất huyết nặng trong tình huống này."
+      ]
+    },
+    {
+      "id": "h50436a1e",
+      "type": "lam-sang",
+      "section": "Điều trị",
+      "stem": "Bệnh nhân nữ, 4 tuổi, 16 kg, đến khám vì sốt ngày 4.\n- N1–N3: sốt cao, ăn uống kém.\n- N4: hết sốt, nôn 5 lần, không uống được.\nKhám: tỉnh, mạch 110 lần/phút, rõ. HA 95/60 mmHg. CRT < 2 giây. Gan không to.\nCận lâm sàng: Hct 44% (N2: 38%), tiểu cầu 80.000/mm³. NS1 dương tính.",
+      "lead": "Hướng xử trí phù hợp nhất lúc này là gì?",
+      "options": [
+        "Nhập viện, truyền dịch điện giải đẳng trương",
+        "Cho về nhà, dặn uống oresol, tái khám mỗi ngày",
+        "Nhập viện, truyền tiểu cầu vì tiểu cầu giảm",
+        "Nhập viện, dùng corticoid để giảm thoát dịch"
+      ],
+      "answer": 0,
+      "explanation": "Trẻ có dấu hiệu cảnh báo (nôn nhiều, không uống được, Hct tăng kèm tiểu cầu giảm) nhưng chưa sốc. Cần nhập viện và truyền dịch đẳng trương (Ringer lactat hoặc NaCl 0,9%).",
+      "why_wrong": [
+        null,
+        "Trẻ không uống được và có dấu hiệu cảnh báo nên không điều trị ngoại trú.",
+        "Không truyền tiểu cầu dự phòng khi không có xuất huyết nặng.",
+        "Corticoid không có vai trò trong điều trị thoát huyết tương do Dengue."
+      ]
+    },
+    {
+      "id": "h46c13cbd",
+      "type": "lam-sang",
+      "section": "Điều trị",
+      "stem": "Bệnh nhân nam, 9 tuổi, 30 kg, nằm viện vì sốc sốt xuất huyết Dengue, đã ổn định sau chống sốc ngày 5.\n- N6–N7: tiếp tục truyền dịch duy trì.\n- N8: ăn uống được, nhưng thở nhanh, phù mi mắt, bụng chướng.\nKhám: mạch 90 lần/phút, rõ. HA 115/70 mmHg. Nhịp thở 36 lần/phút. Ran ẩm hai đáy phổi.\nCận lâm sàng: Hct 32%.",
+      "lead": "Xử trí phù hợp nhất lúc này là gì?",
+      "options": [
+        "Ngưng dịch truyền và dùng furosemide",
+        "Tăng tốc độ dịch truyền đẳng trương",
+        "Chuyển sang truyền dung dịch cao phân tử",
+        "Truyền hồng cầu lắng để nâng dung tích hồng cầu"
+      ],
+      "answer": 0,
+      "explanation": "Đây là quá tải dịch ở giai đoạn tái hấp thu: huyết động ổn, Hct giảm, có phù và ran phổi. Cần ngưng dịch và dùng lợi tiểu.",
+      "why_wrong": [
+        null,
+        "Tăng dịch sẽ làm quá tải nặng thêm.",
+        "Cao phân tử dùng khi sốc kéo dài, không dùng khi quá tải.",
+        "Hct giảm ở đây do pha loãng, không phải do mất máu."
+      ]
+    },
+    {
+      "id": "hb97f38ff",
+      "type": "lam-sang",
+      "section": "Điều trị",
+      "stem": "Bệnh nhân nữ, 6 tuổi, 20 kg, đến khám vì sốt ngày 2.\n- N1–N2: sốt 39 °C, đau đầu, đau cơ, ăn uống được.\nKhám: tỉnh, mạch 100 lần/phút, HA 100/60 mmHg, không xuất huyết, gan không to.\nCận lâm sàng: NS1 dương tính, Hct 38%, tiểu cầu 160.000/mm³.\nMẹ hỏi nên dùng thuốc hạ sốt nào.",
+      "lead": "Tư vấn thuốc hạ sốt phù hợp nhất là gì?",
+      "options": [
+        "Paracetamol 10–15 mg/kg mỗi 4–6 giờ",
+        "Ibuprofen 5–10 mg/kg mỗi 6–8 giờ",
+        "Aspirin 10–15 mg/kg mỗi 6 giờ",
+        "Xen kẽ paracetamol với ibuprofen"
+      ],
+      "answer": 0,
+      "explanation": "Paracetamol là thuốc hạ sốt được khuyến cáo. Tránh aspirin và NSAID vì tăng nguy cơ xuất huyết và toan chuyển hoá.",
+      "why_wrong": [
+        null,
+        "Ibuprofen là NSAID, tăng nguy cơ xuất huyết trong Dengue.",
+        "Aspirin chống chỉ định do tăng nguy cơ xuất huyết và hội chứng Reye.",
+        "Phác đồ xen kẽ vẫn đưa NSAID vào, không phù hợp với Dengue."
+      ]
+    }
+  ]
+}
