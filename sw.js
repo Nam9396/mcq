@@ -2,7 +2,7 @@
    - Giao diện (html/js/css/icon): trả bản đã lưu ngay, đồng thời tải bản mới ở nền
      (lần mở sau sẽ thấy bản cập nhật).
    - Dữ liệu (data/): luôn thử mạng trước để thấy bài mới; mất mạng thì dùng bản đã lưu. */
-const CACHE = 'mcq-v1';
+const CACHE = 'mcq-v2';
 const SHELL = [
   './', './index.html', './app.js', './styles.css', './manifest.webmanifest',
   './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'
