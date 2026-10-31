@@ -240,79 +240,69 @@ async function viewQuiz(id, mode) {
     if (!pool.length) return go('#/lesson/' + encodeURIComponent(id));
   }
   quiz = {
-    id, L, mode, idx: 0, submitted: false,
+    id, L, mode, submitted: false,
     items: shuffle(pool).map((q) => ({ q, order: shuffle(q.options.map((_, i) => i)), choice: null }))
   };
   leaveGuard = () => !quiz || quiz.submitted || quiz.items.every((i) => i.choice === null) ||
     confirm('Thoát khỏi bài đang làm? Kết quả lần này sẽ không được lưu.');
-  renderQuestion();
+  renderQuiz();
 }
 
-function renderQuestion() {
-  const { L, items, idx, mode } = quiz;
-  const it = items[idx];
+function renderQuiz() {
+  const { L, items, mode } = quiz;
   const total = items.length;
-  const answered = items.filter((i) => i.choice !== null).length;
-  const isLast = idx === total - 1;
   app.innerHTML =
     topbar({ title: L.title, sub: mode === 'wrong' ? 'Làm lại câu sai' : 'Làm toàn bộ', back: true }) +
-    '<div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="' + total + '" aria-valuenow="' + answered + '"><div style="width:' + pct(answered, total) + '%"></div></div>' +
+    '<div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="' + total + '" aria-valuenow="0"><div style="width:0%"></div></div>' +
     '<main class="page quiz">' +
-      '<div class="qcount">Câu ' + (idx + 1) + ' / ' + total + '<span>' + answered + ' đã trả lời</span></div>' +
-      '<article class="qcard">' + questionHtml(it.q, idx + 1) + '</article>' +
-      '<div class="options" role="radiogroup">' +
-        it.order.map((orig, k) =>
-          '<button class="opt' + (it.choice === orig ? ' selected' : '') + '" role="radio" aria-checked="' + (it.choice === orig) + '" data-orig="' + orig + '">' +
-            '<span class="opt-letter">' + LETTERS[k] + '</span><span class="opt-text">' + inline(it.q.options[orig]) + '</span>' +
-          '</button>'
-        ).join('') +
-      '</div>' +
+      items.map((it, i) =>
+        '<section class="qblock" id="q-' + i + '">' +
+          '<article class="qcard">' + questionHtml(it.q, i + 1) + '</article>' +
+          '<div class="options" role="radiogroup">' +
+            it.order.map((orig, k) =>
+              '<button class="opt" role="radio" aria-checked="false" data-i="' + i + '" data-orig="' + orig + '">' +
+                '<span class="opt-letter">' + LETTERS[k] + '</span><span class="opt-text">' + inline(it.q.options[orig]) + '</span>' +
+              '</button>'
+            ).join('') +
+          '</div>' +
+        '</section>'
+      ).join('') +
+      '<div class="quiz-end"><button class="btn btn-primary btn-block" data-act="submit">Nộp bài</button></div>' +
     '</main>' +
     '<footer class="qnav">' +
-      '<button class="btn btn-ghost" data-act="prev"' + (idx === 0 ? ' disabled' : '') + '>Trước</button>' +
-      '<button class="btn btn-ghost grid-btn" data-act="grid" aria-label="Danh sách câu">' + ICON.grid + '<span>' + answered + '/' + total + '</span></button>' +
-      (isLast
-        ? '<button class="btn btn-primary" data-act="submit">Nộp bài</button>'
-        : '<button class="btn btn-primary" data-act="next">Tiếp</button>') +
+      '<button class="btn btn-ghost grid-btn" data-act="grid" aria-label="Danh sách câu">' + ICON.grid + '<span>0/' + total + ' đã trả lời</span></button>' +
+      '<button class="btn btn-primary" data-act="submit">Nộp bài</button>' +
     '</footer>';
 
   bindBack('#/lesson/' + encodeURIComponent(quiz.id));
   app.querySelectorAll('.opt').forEach((b) => {
-    b.onclick = () => choose(Number(b.dataset.orig));
+    b.onclick = () => choose(Number(b.dataset.i), Number(b.dataset.orig));
   });
-  app.querySelector('[data-act="prev"]').onclick = () => move(-1);
-  const next = app.querySelector('[data-act="next"]');
-  if (next) next.onclick = () => move(1);
-  const sub = app.querySelector('[data-act="submit"]');
-  if (sub) sub.onclick = submit;
+  app.querySelectorAll('[data-act="submit"]').forEach((b) => { b.onclick = submit; });
   app.querySelector('[data-act="grid"]').onclick = openGrid;
 }
 
-function choose(orig) {
-  const it = quiz.items[quiz.idx];
-  const firstTime = it.choice === null;
+function choose(i, orig) {
+  const it = quiz.items[i];
   it.choice = orig;
-  app.querySelectorAll('.opt').forEach((b) => {
+  const block = document.getElementById('q-' + i);
+  block.classList.add('answered');
+  block.querySelectorAll('.opt').forEach((b) => {
     const on = Number(b.dataset.orig) === orig;
     b.classList.toggle('selected', on);
     b.setAttribute('aria-checked', on);
   });
-  const answered = quiz.items.filter((i) => i.choice !== null).length;
-  app.querySelector('.progress > div').style.width = pct(answered, quiz.items.length) + '%';
-  app.querySelector('.grid-btn span').textContent = answered + '/' + quiz.items.length;
-  app.querySelector('.qcount span').textContent = answered + ' đã trả lời';
-  if (firstTime && quiz.idx < quiz.items.length - 1) {
-    const at = quiz.idx;
-    setTimeout(() => { if (quiz && !quiz.submitted && quiz.idx === at) move(1); }, 260);
-  }
+  const answered = quiz.items.filter((x) => x.choice !== null).length;
+  const total = quiz.items.length;
+  const bar = app.querySelector('.progress');
+  bar.firstChild.style.width = pct(answered, total) + '%';
+  bar.setAttribute('aria-valuenow', answered);
+  app.querySelector('.grid-btn span').textContent = answered + '/' + total + ' đã trả lời';
 }
 
-function move(d) {
-  const n = quiz.idx + d;
-  if (n < 0 || n >= quiz.items.length) return;
-  quiz.idx = n;
-  renderQuestion();
-  window.scrollTo(0, 0);
+function scrollToQuestion(i) {
+  const el = document.getElementById('q-' + i);
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function openGrid() {
@@ -323,7 +313,7 @@ function openGrid() {
       '<div class="sheet-head"><b>Danh sách câu</b><button class="icon-btn" data-act="close" aria-label="Đóng">' + ICON.cross + '</button></div>' +
       '<div class="grid">' +
         quiz.items.map((it, i) =>
-          '<button class="cell' + (it.choice !== null ? ' done' : '') + (i === quiz.idx ? ' current' : '') + '" data-i="' + i + '">' + (i + 1) + '</button>'
+          '<button class="cell' + (it.choice !== null ? ' done' : '') + '" data-i="' + i + '">' + (i + 1) + '</button>'
         ).join('') +
       '</div>' +
       '<div class="sheet-legend"><span><i class="dot done"></i>Đã trả lời</span><span><i class="dot"></i>Chưa trả lời</span></div>' +
@@ -334,14 +324,17 @@ function openGrid() {
   sheet.addEventListener('click', (e) => { if (e.target === sheet) close(); });
   sheet.querySelector('[data-act="close"]').onclick = close;
   sheet.querySelectorAll('.cell').forEach((c) => {
-    c.onclick = () => { close(); quiz.idx = Number(c.dataset.i); renderQuestion(); window.scrollTo(0, 0); };
+    c.onclick = () => { close(); scrollToQuestion(Number(c.dataset.i)); };
   });
   sheet.querySelector('[data-act="submit"]').onclick = () => { close(); submit(); };
 }
 
 function submit() {
   const left = quiz.items.filter((i) => i.choice === null).length;
-  if (left && !confirm('Còn ' + left + ' câu chưa trả lời (sẽ tính là sai). Vẫn nộp bài?')) return;
+  if (left && !confirm('Còn ' + left + ' câu chưa trả lời (sẽ tính là sai). Vẫn nộp bài?')) {
+    scrollToQuestion(quiz.items.findIndex((i) => i.choice === null));
+    return;
+  }
   quiz.submitted = true;
   leaveGuard = null;
 
@@ -463,18 +456,6 @@ async function viewReview(id) {
   app.innerHTML = topbar({ title: L.title, sub: 'Đề và đáp án', back: true }) + '<main class="page">' + body + '</main>';
   bindBack('#/lesson/' + encodeURIComponent(id));
 }
-
-/* ---------- Phím tắt (khi dùng trên máy tính) ---------- */
-document.addEventListener('keydown', (e) => {
-  if (!quiz || quiz.submitted || document.querySelector('.sheet-wrap')) return;
-  if (e.target && /input|textarea/i.test(e.target.tagName)) return;
-  const k = e.key.toUpperCase();
-  const pos = '1234'.indexOf(k) >= 0 ? '1234'.indexOf(k) : 'ABCD'.indexOf(k);
-  const it = quiz.items[quiz.idx];
-  if (pos >= 0 && pos < it.order.length) { choose(it.order[pos]); }
-  else if (e.key === 'ArrowRight') move(1);
-  else if (e.key === 'ArrowLeft') move(-1);
-});
 
 /* ---------- Khởi động ---------- */
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
