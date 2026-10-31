@@ -21,6 +21,7 @@ App ôn bài bằng câu hỏi trắc nghiệm (MCQ), chạy trên điện tho�
     ├── publish.py                    # kiểm tra + chuẩn hoá + ghi vào data / + dựng danh mục
     ├── render_review.py              # tạo trang HTML duyệt đề
     ├── merge_parts.py                # ghép bài dài soạn theo từng phần
+    ├── shuffle_answers.py            # trộn vị trí đáp án đúng
     └── build_catalog.py              # dựng lại data/catalog.json
 └── skill/mcq-tu-bai-giang/SKILL.md   # skill cho Claude, để chia sẻ cùng app
 ```

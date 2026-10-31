@@ -95,6 +95,8 @@ def validate(data):
             err(w, "lead (câu hỏi dẫn) rỗng")
         if NUMBER_IN_TEXT.match(stem) or NUMBER_IN_TEXT.match(lead):
             err(w, "không ghi 'Câu x' trong nội dung, app tự đánh số")
+        if any(re.match(r"^\s*[-•]\s", ln) for ln in stem.split("\n")):
+            err(w, "tình huống có dòng bắt đầu bằng gạch đầu dòng; viết mỗi mốc thời gian là một dòng thường")
         if t == "lam-sang":
             if len(stem.strip()) < 60:
                 err(w, "câu lâm sàng cần tình huống trong 'stem'")
@@ -129,13 +131,16 @@ def validate(data):
         if not str(q.get("explanation") or "").strip():
             err(w, "thiếu giải thích")
         ww = q.get("why_wrong")
-        if ww is not None:
-            if not isinstance(ww, list) or len(ww) != 4:
-                err(w, "why_wrong phải là mảng 4 phần tử")
-            else:
-                for k in range(4):
-                    if k != a and not (isinstance(ww[k], str) and ww[k].strip()):
-                        warn(w, f"why_wrong thiếu lý do cho lựa chọn {k + 1}")
+        if ww is None:
+            err(w, "thiếu why_wrong (lý do sai của từng mồi nhử)")
+        elif not isinstance(ww, list) or len(ww) != 4:
+            err(w, "why_wrong phải là mảng 4 phần tử, song song với options")
+        else:
+            if ww[a] is not None:
+                err(w, f"why_wrong ở vị trí đáp án đúng ({a}) phải là null")
+            for k in range(4):
+                if k != a and not (isinstance(ww[k], str) and ww[k].strip()):
+                    err(w, f"why_wrong thiếu lý do cho lựa chọn {k + 1}")
 
         lens = [len(o.strip()) for o in opts]
         mx, mn = max(lens), min(lens)
@@ -164,6 +169,12 @@ def validate(data):
         warn("tỷ lệ", f"câu lâm sàng chiếm {share_case:.0%} (mục tiêu khoảng 45%, chấp nhận 40–50%)")
     if n >= 10 and longest_is_correct / n > 0.25:
         warn("độ dài", f"{longest_is_correct}/{n} câu có đáp án đúng dài nhất rõ rệt, người làm dễ đoán mò")
+    if n >= 8 and answer_pos:
+        pos, cnt = answer_pos.most_common(1)[0]
+        if cnt == n:
+            err("vị trí đáp án", f"tất cả {n} câu có đáp án đúng ở cùng vị trí {pos}; chạy tools/shuffle_answers.py")
+        elif n >= 20 and cnt / n > 0.4:
+            warn("vị trí đáp án", f"{cnt}/{n} câu có đáp án đúng ở vị trí {pos}; nên chạy tools/shuffle_answers.py")
     if n and negatives / n > 0.10:
         warn("phủ định", f"{negatives} câu dùng KHÔNG/NGOẠI TRỪ/SAI (nên ≤ 10%)")
 

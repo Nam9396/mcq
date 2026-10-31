@@ -8,6 +8,20 @@
       "topic": "Bài mẫu",
       "count": 10,
       "updated": "2026-10-31"
+    },
+    {
+      "id": "cmv-bam-sinh",
+      "title": "Nhiễm CMV bẩm sinh (cCMV)",
+      "topic": "Truyền nhiễm",
+      "count": 42,
+      "updated": "2026-10-31"
+    },
+    {
+      "id": "cmv-mac-phai-sau-sinh",
+      "title": "Nhiễm CMV mắc phải sau sinh ở trẻ em",
+      "topic": "Truyền nhiễm",
+      "count": 43,
+      "updated": "2026-10-31"
     }
   ]
 }

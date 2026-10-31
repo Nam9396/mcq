@@ -16,6 +16,7 @@ Các script kiểm tra nằm trong repo, thư mục `tools/`:
 - `publish.py <bai.json> --repo <repo>` — kiểm tra, đổi id câu thành mã ổn định, điền ngày, ghi vào `data/lessons/`, dựng lại `catalog.json`. `--out <dir>` để chỉ xuất file.
 - `render_review.py <bai.json> -o duyet_<id>.html` — trang HTML duyệt đề, mở trực tiếp.
 - `merge_parts.py header.json part_*.json -o <id>.json` — ghép bài dài soạn theo phần.
+- `shuffle_answers.py <bai.json>` — trộn vị trí đáp án đúng (options và why_wrong trộn cùng thứ tự).
 
 ---
 
@@ -36,6 +37,7 @@ Các script kiểm tra nằm trong repo, thư mục `tools/`:
 ### Bước 4. Soạn và tự rà soát
 - Viết theo mục "Quy tắc", "Mẫu tình huống", đúng "Định dạng JSON".
 - Bài trên 40 câu: soạn `parts/header.json` (không có questions) và `parts/part_01.json`, `part_02.json`… (mỗi part là mảng câu hỏi), rồi ghép bằng `merge_parts.py`.
+- Khi soạn, có thể luôn đặt đáp án đúng ở vị trí 0 cho dễ kiểm soát; sau đó **bắt buộc** chạy `python3 repo/tools/shuffle_answers.py <id>.json` để trộn vị trí (chạy một lần).
 - Đọc lại toàn bộ theo checklist "Tự rà soát" trước khi chạy validator.
 
 ### Bước 5. Kiểm tra tự động
@@ -101,7 +103,7 @@ Gửi file `<id>.json` cho người dùng, kèm hướng dẫn: chép vào `data
 
 ### Giải thích
 - `explanation`: 1–3 câu, vì sao đáp án đúng, bám bài giảng. Câu lâm sàng thì chỉ ra dữ kiện nào dẫn đến đáp án.
-- `why_wrong`: mảng 4 phần tử theo thứ tự `options`, mỗi mồi nhử 1 câu ngắn nói vì sao sai, `null` ở vị trí đáp án đúng.
+- `why_wrong` (**bắt buộc**): mảng 4 phần tử theo thứ tự `options`, mỗi mồi nhử 1 câu ngắn nói vì sao sai, `null` ở vị trí đáp án đúng. Thiếu là validator báo lỗi.
 
 ### Bám nguồn
 - Đáp án, con số, ngưỡng, liều lấy từ bài giảng. Kiến thức nội tại chỉ dùng để dựng tình huống và viết mồi nhử.
@@ -124,22 +126,22 @@ Viết theo ngôn ngữ của bài giảng (mặc định tiếng Việt), thu�
 
 ```
 Bệnh nhân [nam/nữ], [tuổi], [cân nặng] kg (nếu liên quan), [nhập viện / đến khám] vì [lý do], [ngày bệnh thứ n].
-- N1–N2: [sự kiện]
-- N3: [sự kiện]
-- N4: [sự kiện dẫn đến nhập viện]
+N1–N2: [sự kiện]
+N3: [sự kiện]
+N4: [sự kiện dẫn đến nhập viện]
 Tiền căn: [chỉ ghi nếu liên quan]
 Điều trị trước đó: [nếu có]
 Khám: [tri giác]. Mạch …, HA …, nhịp thở …, nhiệt độ …, SpO₂ …, CRT …. [dấu hiệu chính].
 Cận lâm sàng: [kết quả cần cho câu hỏi, kèm giá trị so sánh nếu cần].
 ```
-- `stem` khoảng 60–120 từ, không quá 700 ký tự. Mỗi dòng một sự kiện theo dòng thời gian, đầu dòng `- ` để app hiển thị gạch đầu dòng.
+- `stem` khoảng 60–120 từ, không quá 700 ký tự. Mỗi dòng một sự kiện theo dòng thời gian, xuống dòng bằng `\n`. **Không** dùng gạch đầu dòng (`- `, `•`) trong tình huống.
 - Chỉ đưa dữ kiện cần cho câu hỏi, cộng 1–2 dữ kiện nhiễu hợp lý. Bỏ các dòng không dùng (tiền căn, điều trị trước).
 - Sinh hiệu, cân nặng hợp lý theo tuổi. Trẻ em ghi cân nặng; sơ sinh ghi ngày tuổi, tuổi thai, cân nặng lúc sinh khi cần.
 - Không tiết lộ đáp án trong tình huống.
 - `lead` một câu, hỏi một việc: "Chẩn đoán phù hợp nhất là gì?", "Xử trí tiếp theo phù hợp nhất là gì?".
 
 **Ví dụ tốt**
-- stem: "Bệnh nhân nam, 7 tuổi, 22 kg, nhập viện vì sốt ngày 5.\n- N1–N3: sốt cao 39–40 °C, đau đầu, đau cơ.\n- N4: giảm sốt, đau bụng, nôn 3 lần.\n- N5: lừ đừ, tay chân lạnh.\nKhám: tỉnh, lừ đừ. Mạch 130 lần/phút, nhẹ. HA 100/85 mmHg. CRT 3 giây. Gan 3 cm dưới bờ sườn.\nCận lâm sàng: Hct 48% (N2: 38%), tiểu cầu 40.000/mm³."
+- stem: "Bệnh nhân nam, 7 tuổi, 22 kg, nhập viện vì sốt ngày 5.\nN1–N3: sốt cao 39–40 °C, đau đầu, đau cơ.\nN4: giảm sốt, đau bụng, nôn 3 lần.\nN5: lừ đừ, tay chân lạnh.\nKhám: tỉnh, lừ đừ. Mạch 130 lần/phút, nhẹ. HA 100/85 mmHg. CRT 3 giây. Gan 3 cm dưới bờ sườn.\nCận lâm sàng: Hct 48% (N2: 38%), tiểu cầu 40.000/mm³."
 - lead: "Chẩn đoán phân độ phù hợp nhất là gì?"
 - options: "Sốt xuất huyết Dengue có dấu hiệu cảnh báo" / "Sốc sốt xuất huyết Dengue" (đúng) / "Sốc sốt xuất huyết Dengue nặng" / "Sốt xuất huyết Dengue nặng do xuất huyết"
 - Vì sao tốt: 4 lựa chọn cùng loại, độ dài tương đương; mồi nhử là các mức độ liền kề; phải đọc sinh hiệu mới trả lời được.
@@ -172,8 +174,9 @@ Cận lâm sàng: [kết quả cần cho câu hỏi, kèm giá trị so sánh n�
 }
 ```
 - `id` bài = tên file. `section` của câu phải trùng một mục trong `sections`.
-- `type`: `"nho"` hoặc `"lam-sang"`. `answer`: chỉ số 0–3 trong `options`.
-- `stem`, `lead`, `explanation` hỗ trợ `\n`, dòng bắt đầu `- `, `**đậm**`, `*nghiêng*`.
+- `type`: `"nho"` hoặc `"lam-sang"`. `answer`: chỉ số 0–3 trong `options`; vị trí đáp án đúng phải phân bố đều giữa các câu (dùng `shuffle_answers.py`).
+- Mọi trường trong mẫu đều bắt buộc, kể cả `why_wrong`; `source` có thể bỏ trống.
+- `stem`, `lead`, `explanation` hỗ trợ `\n`, `**đậm**`, `*nghiêng*`. Không dùng dòng bắt đầu bằng `- ` trong `stem` (validator báo lỗi).
 - `publish.py` tự đổi `id` câu thành mã băm từ nội dung (giữ đúng lịch sử câu sai trên điện thoại khi bài được cập nhật) và tự điền `updated`.
 
 ## Ràng buộc

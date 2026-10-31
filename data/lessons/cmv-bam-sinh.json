@@ -1,0 +1,902 @@
+{
+  "id": "cmv-bam-sinh",
+  "title": "Nhiễm CMV bẩm sinh (cCMV)",
+  "topic": "Truyền nhiễm",
+  "source": "cmv-congenital-v2.md",
+  "sections": [
+    "Đại cương và dịch tễ",
+    "Phân loại mức độ",
+    "Biểu hiện lâm sàng và hình ảnh học",
+    "Điếc tiếp nhận và biến chứng muộn",
+    "Chẩn đoán",
+    "Chẩn đoán phân biệt",
+    "Điều trị",
+    "Theo dõi",
+    "Bú mẹ, kiểm soát nhiễm khuẩn và tư vấn"
+  ],
+  "questions": [
+    {
+      "id": "hbfe52470",
+      "type": "nho",
+      "section": "Đại cương và dịch tễ",
+      "stem": "",
+      "lead": "Tỷ lệ nhiễm CMV bẩm sinh ở Hoa Kỳ khoảng bao nhiêu?",
+      "options": [
+        "Khoảng 5/10.000 trẻ sinh sống",
+        "Khoảng 5/100.000 trẻ sinh sống",
+        "Khoảng 5/100 trẻ sinh sống",
+        "Khoảng 5/1000 trẻ sinh sống"
+      ],
+      "answer": 3,
+      "explanation": "cCMV là nhiễm virus bẩm sinh thường gặp nhất ở Hoa Kỳ, khoảng 5/1000 trẻ sinh sống (AAP, 2024).",
+      "why_wrong": [
+        "Thấp hơn 10 lần số liệu trong bài.",
+        "Thấp hơn 1000 lần số liệu trong bài.",
+        "Cao gấp 10 lần số liệu trong bài.",
+        null
+      ]
+    },
+    {
+      "id": "h9064a5f7",
+      "type": "nho",
+      "section": "Đại cương và dịch tễ",
+      "stem": "",
+      "lead": "cCMV là nguyên nhân hàng đầu của bệnh lý nào ở trẻ em Hoa Kỳ?",
+      "options": [
+        "Điếc tiếp nhận không do di truyền",
+        "Vàng da ứ mật kéo dài ở nhũ nhi",
+        "Đục thủy tinh thể bẩm sinh hai bên",
+        "Điếc dẫn truyền bẩm sinh ở trẻ em"
+      ],
+      "answer": 0,
+      "explanation": "cCMV là nguyên nhân hàng đầu gây điếc tiếp nhận không do di truyền: khoảng 20% ca điếc lúc sinh và 25% ca điếc lúc 4 tuổi (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "cCMV có thể gây vàng da ứ mật nhưng không phải nguyên nhân hàng đầu; bài nhấn mạnh phải tầm soát teo đường mật song song.",
+        "Đục thủy tinh thể không phải biểu hiện điển hình của cCMV; gợi ý nguyên nhân khác như rubella bẩm sinh.",
+        "Tổn thương thính giác do cCMV là điếc tiếp nhận, không phải dẫn truyền."
+      ]
+    },
+    {
+      "id": "ha56dfe2f",
+      "type": "nho",
+      "section": "Đại cương và dịch tễ",
+      "stem": "",
+      "lead": "Ở Hoa Kỳ, phần lớn trẻ cCMV được sinh ra từ nhóm mẹ nào?",
+      "options": [
+        "Mẹ nhiễm CMV không nguyên phát",
+        "Mẹ nhiễm nguyên phát ở tam cá nguyệt 1",
+        "Mẹ nhiễm nguyên phát ở tam cá nguyệt 3",
+        "Mẹ có CMV IgG âm tính lúc sinh"
+      ],
+      "answer": 0,
+      "explanation": "Hơn 3/4 trẻ cCMV ở Hoa Kỳ sinh ra từ mẹ nhiễm không nguyên phát (tái nhiễm chủng khác hoặc tái hoạt). Vì vậy mẹ đã có IgG không loại trừ cCMV ở con.",
+      "why_wrong": [
+        null,
+        "Nhiễm nguyên phát ở tam cá nguyệt 1 làm di chứng nặng hơn, nhưng không chiếm đa số ca.",
+        "Nhiễm nguyên phát không phải nhóm chiếm đa số ca cCMV.",
+        "Mẹ có IgG âm tính lúc sinh thì loại trừ được cCMV ở con."
+      ]
+    },
+    {
+      "id": "h392ee70d",
+      "type": "nho",
+      "section": "Đại cương và dịch tễ",
+      "stem": "",
+      "lead": "Mẹ nhiễm CMV ở thời điểm nào của thai kỳ thường gây di chứng nặng hơn cho thai?",
+      "options": [
+        "Giai đoạn chuyển dạ",
+        "Tam cá nguyệt thứ ba",
+        "Tam cá nguyệt thứ nhất",
+        "Tam cá nguyệt thứ hai"
+      ],
+      "answer": 2,
+      "explanation": "Nhiễm ở bất kỳ tam cá nguyệt nào cũng có thể gây cCMV và di chứng, nhưng di chứng nặng thường gặp hơn khi nhiễm trong tam cá nguyệt thứ nhất (AAP, 2024).",
+      "why_wrong": [
+        "Lây lúc sinh là nhiễm chu sinh (mắc phải), không phải cCMV.",
+        "Có thể gây di chứng nhưng thường ít nặng hơn tam cá nguyệt thứ nhất.",
+        null,
+        "Có thể gây di chứng nhưng thường ít nặng hơn tam cá nguyệt thứ nhất."
+      ]
+    },
+    {
+      "id": "h4118c278",
+      "type": "nho",
+      "section": "Phân loại mức độ",
+      "stem": "",
+      "lead": "Theo AAP (2024), tiêu chuẩn nào xếp cCMV vào thể nhẹ?",
+      "options": [
+        "Điếc tiếp nhận, không kèm dấu hiệu khác",
+        "Đầu nhỏ đơn độc, không kèm dấu hiệu khác",
+        "Nhiều dấu hiệu kéo dài từ 2 tuần trở lên",
+        "Hai dấu hiệu trở xuống, thoáng qua dưới 2 tuần"
+      ],
+      "answer": 3,
+      "explanation": "Thể nhẹ: hai hoặc ít hơn dấu hiệu thoáng qua (< 2 tuần) hoặc không có ý nghĩa lâm sàng, ví dụ xuất huyết dạng chấm, gan to nhẹ, giảm tiểu cầu, tăng ALT.",
+      "why_wrong": [
+        "Đây là nhóm điếc tiếp nhận đơn độc, phân loại riêng.",
+        "Đầu nhỏ là tổn thương thần kinh trung ương, xếp vào thể vừa – nặng.",
+        "Nhiều biểu hiện kéo dài ≥ 2 tuần được xếp vào thể vừa – nặng.",
+        null
+      ]
+    },
+    {
+      "id": "h0b9c7dd4",
+      "type": "lam-sang",
+      "section": "Phân loại mức độ",
+      "stem": "Bệnh nhân nữ, 10 ngày tuổi, sinh đủ tháng, cân nặng lúc sinh 2900 g, tái khám vì PCR CMV nước tiểu (lấy N3) dương tính.\nN1: xuất huyết dạng chấm rải rác ở thân, tiểu cầu 85.000/mm³.\nN6: hết xuất huyết, tiểu cầu 160.000/mm³.\nKhám: tỉnh, bú tốt. Vòng đầu 34 cm. Gan, lách không to.\nCận lâm sàng: ALT, bilirubin bình thường. Siêu âm xuyên thóp, đáy mắt bình thường. ABR chẩn đoán bình thường hai tai.",
+      "lead": "Phân loại mức độ cCMV phù hợp nhất là gì?",
+      "options": [
+        "Nhiễm cCMV không triệu chứng",
+        "Bệnh cCMV mức độ vừa – nặng",
+        "Bệnh cCMV mức độ nhẹ",
+        "Điếc tiếp nhận đơn độc do cCMV"
+      ],
+      "answer": 2,
+      "explanation": "Trẻ có 2 dấu hiệu (xuất huyết dạng chấm, giảm tiểu cầu) thoáng qua dưới 2 tuần. Vòng đầu, siêu âm xuyên thóp, đáy mắt và thính lực bình thường, nên xếp thể nhẹ.",
+      "why_wrong": [
+        "Trẻ đã có xuất huyết dạng chấm và giảm tiểu cầu.",
+        "Không có tổn thương thần kinh, không có biểu hiện kéo dài ≥ 2 tuần, không quá 2 biểu hiện nhẹ.",
+        null,
+        "ABR hai tai bình thường."
+      ]
+    },
+    {
+      "id": "h0e7dc2e3",
+      "type": "lam-sang",
+      "section": "Phân loại mức độ",
+      "stem": "Bệnh nhân nam, 3 tuần tuổi, sinh đủ tháng, 2400 g, nhập viện vì vàng da kéo dài.\nN2: vàng da, gan 3 cm dưới bờ sườn, lách to. PCR CMV nước tiểu dương tính.\nN10 và N20: vẫn vàng da, gan lách to không giảm.\nKhám: tỉnh, bú được. Vòng đầu 34 cm.\nCận lâm sàng N20: bilirubin trực tiếp 3,5 mg/dL, ALT 180 U/L, tiểu cầu 70.000/mm³. Siêu âm xuyên thóp, đáy mắt, ABR bình thường.",
+      "lead": "Mức độ bệnh cCMV của trẻ này được phân loại là gì?",
+      "options": [
+        "Điếc tiếp nhận đơn độc do cCMV",
+        "Bệnh cCMV mức độ nhẹ",
+        "Bệnh cCMV mức độ vừa – nặng",
+        "Nhiễm cCMV không triệu chứng"
+      ],
+      "answer": 2,
+      "explanation": "Trẻ có nhiều biểu hiện kéo dài ≥ 2 tuần (gan lách to, viêm gan với tăng ALT và bilirubin trực tiếp, giảm tiểu cầu), nên xếp thể vừa – nặng dù chưa có tổn thương thần kinh.",
+      "why_wrong": [
+        "Thính lực bình thường, và trẻ có nhiều biểu hiện khác.",
+        "Thể nhẹ chỉ khi ≤ 2 dấu hiệu thoáng qua dưới 2 tuần; ở đây biểu hiện kéo dài 20 ngày.",
+        null,
+        "Trẻ có nhiều biểu hiện lâm sàng và cận lâm sàng."
+      ]
+    },
+    {
+      "id": "h7c72e363",
+      "type": "nho",
+      "section": "Biểu hiện lâm sàng và hình ảnh học",
+      "stem": "",
+      "lead": "Khoảng bao nhiêu phần trăm trẻ nhiễm cCMV có triệu chứng lúc sinh?",
+      "options": [
+        "Khoảng 10%",
+        "Khoảng 1%",
+        "Khoảng 35%",
+        "Khoảng 50%"
+      ],
+      "answer": 0,
+      "explanation": "Khoảng 10% trẻ nhiễm cCMV có biểu hiện rõ lúc sinh; khoảng 90% không triệu chứng (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Thấp hơn nhiều so với số liệu trong bài.",
+        "35% là tỷ lệ điếc phát hiện lúc sinh ở trẻ có triệu chứng.",
+        "50% là tỷ lệ điếc tiếp nhận tối đa ở trẻ có triệu chứng."
+      ]
+    },
+    {
+      "id": "hbace6bb8",
+      "type": "nho",
+      "section": "Biểu hiện lâm sàng và hình ảnh học",
+      "stem": "",
+      "lead": "Vôi hóa nội sọ điển hình của cCMV nằm ở vị trí nào?",
+      "options": [
+        "Rải rác khắp nhu mô não",
+        "Quanh não thất",
+        "Hạch nền và đồi thị",
+        "Vỏ não vùng đỉnh – chẩm"
+      ],
+      "answer": 1,
+      "explanation": "Vôi hóa quanh não thất đặc trưng cho cCMV; trên CT sọ não, vị trí vôi hóa giúp định hướng nguyên nhân.",
+      "why_wrong": [
+        "Không phải kiểu phân bố đặc trưng của cCMV; gợi ý nguyên nhân khác như toxoplasma bẩm sinh.",
+        null,
+        "Không phải vị trí đặc trưng của cCMV.",
+        "Không phải vị trí đặc trưng của cCMV."
+      ]
+    },
+    {
+      "id": "h9da2321c",
+      "type": "nho",
+      "section": "Biểu hiện lâm sàng và hình ảnh học",
+      "stem": "",
+      "lead": "Bất thường mắt thường gặp nhất ở trẻ cCMV là gì?",
+      "options": [
+        "Mắt nhỏ",
+        "Đục thủy tinh thể",
+        "Viêm hắc võng mạc",
+        "Teo gai thị"
+      ],
+      "answer": 2,
+      "explanation": "Viêm hắc võng mạc là bất thường mắt thường gặp nhất của cCMV và liên quan tiên lượng thần kinh kém.",
+      "why_wrong": [
+        "Không điển hình của cCMV; nếu có cần tìm nguyên nhân khác.",
+        "Không điển hình của cCMV; nếu có cần tìm nguyên nhân khác như rubella bẩm sinh.",
+        null,
+        "Có thể gặp nhưng ít hơn viêm hắc võng mạc."
+      ]
+    },
+    {
+      "id": "ha24ded31",
+      "type": "nho",
+      "section": "Biểu hiện lâm sàng và hình ảnh học",
+      "stem": "",
+      "lead": "Trên hình ảnh học, bất thường nào liên quan chặt với tiên lượng phát triển thần kinh kém?",
+      "options": [
+        "Vách ngăn trong não thất",
+        "Bất thường di trú vỏ não",
+        "Nang đám rối mạch mạc",
+        "Nang dưới màng nội tủy"
+      ],
+      "answer": 1,
+      "explanation": "Đầu nhỏ, vôi hóa nội sọ và bất thường di trú vỏ não (đa hồi não nhỏ, não hồi thô, não trơn) liên quan chặt với tiên lượng phát triển thần kinh kém.",
+      "why_wrong": [
+        "Được liệt kê trong các bất thường khác, không phải yếu tố tiên lượng chính.",
+        null,
+        "Thuộc nhóm bất thường tiềm ẩn ở trẻ không triệu chứng, không được nêu là yếu tố tiên lượng chính.",
+        "Thuộc nhóm bất thường tiềm ẩn ở trẻ không triệu chứng, không được nêu là yếu tố tiên lượng chính."
+      ]
+    },
+    {
+      "id": "hab0dd30a",
+      "type": "lam-sang",
+      "section": "Biểu hiện lâm sàng và hình ảnh học",
+      "stem": "Bệnh nhân nữ, 5 ngày tuổi, sinh 38 tuần, 2100 g, chuyển viện vì xuất huyết dưới da.\nN1: nhỏ so với tuổi thai, xuất huyết dạng chấm ở thân.\nN3: vàng da, gan lách to.\nKhám: tỉnh, bú yếu. Khám mắt: đục thủy tinh thể hai bên.\nCận lâm sàng: tiểu cầu 50.000/mm³, bilirubin trực tiếp 2,8 mg/dL.",
+      "lead": "Dấu hiệu nào gợi ý cần tìm nguyên nhân khác ngoài cCMV?",
+      "options": [
+        "Nhỏ so với tuổi thai",
+        "Xuất huyết dạng chấm",
+        "Đục thủy tinh thể hai bên",
+        "Gan lách to"
+      ],
+      "answer": 2,
+      "explanation": "Đục thủy tinh thể và mắt nhỏ không phải biểu hiện điển hình của cCMV; khi có cần tìm nguyên nhân khác, ví dụ rubella bẩm sinh. Các dấu hiệu còn lại đều thường gặp ở cCMV có triệu chứng.",
+      "why_wrong": [
+        "SGA gặp ở 40–50% trẻ cCMV có triệu chứng.",
+        "Xuất huyết dạng chấm gặp ở 50–75% trẻ cCMV có triệu chứng.",
+        null,
+        "Gan lách to gặp ở 40–60% trẻ cCMV có triệu chứng."
+      ]
+    },
+    {
+      "id": "hdb56c241",
+      "type": "nho",
+      "section": "Điếc tiếp nhận và biến chứng muộn",
+      "stem": "",
+      "lead": "Ở trẻ cCMV không triệu chứng lúc sinh, tỷ lệ điếc tiếp nhận có thể lên tới bao nhiêu?",
+      "options": [
+        "Tới 15%",
+        "Tới 80%",
+        "Tới 50%",
+        "Tới 1%"
+      ],
+      "answer": 0,
+      "explanation": "Điếc tiếp nhận gặp ở tới 50% trẻ có triệu chứng và tới 15% trẻ không triệu chứng (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Gần với tỷ lệ biến chứng muộn (70–80%) ở trẻ có triệu chứng rầm rộ.",
+        "Đây là tỷ lệ ở trẻ có triệu chứng lúc sinh.",
+        "Thấp hơn số liệu trong bài."
+      ]
+    },
+    {
+      "id": "h0e83355c",
+      "type": "nho",
+      "section": "Điếc tiếp nhận và biến chứng muộn",
+      "stem": "",
+      "lead": "Biến chứng muộn gặp ở khoảng bao nhiêu phần trăm trẻ cCMV có triệu chứng rầm rộ lúc sinh?",
+      "options": [
+        "95–100%",
+        "30–40%",
+        "10–15%",
+        "70–80%"
+      ],
+      "answer": 3,
+      "explanation": "Biến chứng muộn (thính giác, thần kinh – nhận thức, thị giác, răng…) gặp ở 70–80% trẻ có triệu chứng rầm rộ lúc sinh.",
+      "why_wrong": [
+        "Cao hơn số liệu trong bài.",
+        "Thấp hơn số liệu trong bài.",
+        "Thấp hơn nhiều so với số liệu trong bài.",
+        null
+      ]
+    },
+    {
+      "id": "ha5c170dd",
+      "type": "lam-sang",
+      "section": "Điếc tiếp nhận và biến chứng muộn",
+      "stem": "Bệnh nhân nam, 1 tháng tuổi, tái khám sau xuất viện. Phát hiện cCMV nhờ PCR nước tiểu N5 (mẹ có chuyển đảo huyết thanh trong thai kỳ).\nLúc sinh: qua sàng lọc thính lực sơ sinh hai tai.\nKhám: bình thường, vòng đầu 36 cm.\nCận lâm sàng: CTM, men gan, siêu âm xuyên thóp, đáy mắt bình thường. ABR chẩn đoán bình thường.\nMẹ hỏi: \"Bé nghe tốt rồi, sau này có cần đo tai nữa không?\"",
+      "lead": "Tư vấn phù hợp nhất là gì?",
+      "options": [
+        "Chỉ cần đo lại một lần trước khi vào lớp 1",
+        "Chỉ cần đo lại nếu bé chậm nói sau 2 tuổi",
+        "Không cần đo lại vì đã qua sàng lọc và ABR",
+        "Cần đo định kỳ vì điếc có thể khởi phát muộn"
+      ],
+      "answer": 3,
+      "explanation": "Khoảng 40% trẻ cuối cùng bị điếc không phát hiện được điếc trong tháng đầu, và khoảng 50% điếc tiến triển. Mọi trẻ cCMV, kể cả không triệu chứng, cần đo thính lực định kỳ suốt thời thơ ấu.",
+      "why_wrong": [
+        "Lịch theo dõi dày hơn nhiều: 4, 6, 9, 12, 15, 18, 24, 30 tháng rồi 4, 5, 6, 8, 10 tuổi.",
+        "Chờ đến khi chậm nói sẽ bỏ lỡ thời điểm can thiệp sớm.",
+        "Sàng lọc và ABR bình thường lúc sơ sinh không loại trừ điếc khởi phát muộn.",
+        null
+      ]
+    },
+    {
+      "id": "hdc3b9c55",
+      "type": "nho",
+      "section": "Chẩn đoán",
+      "stem": "",
+      "lead": "Xét nghiệm được lựa chọn hàng đầu để chẩn đoán cCMV là gì?",
+      "options": [
+        "PCR CMV nước tiểu",
+        "PCR CMV huyết tương",
+        "PCR CMV mẫu máu khô",
+        "Nuôi cấy CMV nước bọt"
+      ],
+      "answer": 0,
+      "explanation": "Hầu hết trẻ cCMV có tải lượng DNA CMV rất cao trong nước tiểu. PCR nước tiểu là lựa chọn hàng đầu và dùng để xác nhận mọi kết quả nước bọt dương tính (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Có thể âm tính giả nếu trẻ không có virus huyết lúc lấy mẫu; không dùng làm xét nghiệm đầu tay.",
+        "Độ nhạy thấp hơn; dùng để chẩn đoán hồi cứu sau 3 tuần tuổi.",
+        "Nuôi cấy ít dùng, thời gian chờ kéo dài; PCR nhạy hơn."
+      ]
+    },
+    {
+      "id": "he3b96c3f",
+      "type": "nho",
+      "section": "Chẩn đoán",
+      "stem": "",
+      "lead": "Để chẩn đoán xác định cCMV, mẫu nước tiểu hoặc nước bọt phải được lấy trong khoảng thời gian nào sau sinh?",
+      "options": [
+        "21 ngày đầu",
+        "7 ngày đầu",
+        "6 tuần đầu",
+        "13 tuần đầu"
+      ],
+      "answer": 0,
+      "explanation": "Phát hiện CMV trong mẫu lấy trong 3 tuần (21 ngày) đầu khẳng định cCMV; phát hiện sau thời điểm này có thể là nhiễm mắc phải sau sinh (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Mốc chuẩn là 21 ngày, không cần giới hạn trong 7 ngày.",
+        "Sau 3 tuần không phân biệt được với nhiễm sau sinh.",
+        "13 tuần là mốc bắt đầu điều trị, không phải mốc lấy mẫu chẩn đoán."
+      ]
+    },
+    {
+      "id": "h32e3bebc",
+      "type": "nho",
+      "section": "Chẩn đoán",
+      "stem": "",
+      "lead": "Vai trò của CMV IgM huyết thanh của trẻ trong chẩn đoán cCMV là gì?",
+      "options": [
+        "Xét nghiệm sàng lọc đầu tay lúc sinh",
+        "Phân biệt cCMV với nhiễm sau sinh",
+        "Khẳng định chẩn đoán khi PCR âm tính",
+        "Không khuyến cáo vì độ tin cậy thấp"
+      ],
+      "answer": 3,
+      "explanation": "IgM có độ nhạy và độ đặc hiệu giảm, có thể dương giả; chẩn đoán cCMV bằng huyết thanh không đáng tin cậy (AAP, 2024).",
+      "why_wrong": [
+        "Xét nghiệm đầu tay là PCR nước tiểu hoặc nước bọt.",
+        "IgM không phân biệt được bẩm sinh với mắc phải; mốc 21 ngày và DBS mới giúp phân biệt.",
+        "IgM không đủ tin cậy để khẳng định chẩn đoán.",
+        null
+      ]
+    },
+    {
+      "id": "h05151489",
+      "type": "nho",
+      "section": "Chẩn đoán",
+      "stem": "",
+      "lead": "Kết quả xét nghiệm nào lúc sinh giúp loại trừ cCMV?",
+      "options": [
+        "PCR CMV huyết tương trẻ âm tính",
+        "CMV IgG dương tính ở trẻ",
+        "CMV IgG âm tính ở mẹ",
+        "CMV IgM âm tính ở trẻ"
+      ],
+      "answer": 2,
+      "explanation": "IgG âm tính (mẹ hoặc trẻ) lúc sinh cho biết mẹ chưa có kháng thể, nên loại trừ cCMV. IgG dương thì không khẳng định cũng không loại trừ.",
+      "why_wrong": [
+        "PCR máu có thể âm tính giả khi trẻ không có virus huyết lúc lấy mẫu.",
+        "IgG của trẻ chủ yếu là kháng thể mẹ; dương tính không khẳng định cũng không loại trừ.",
+        null,
+        "IgM không đủ tin cậy để chẩn đoán hay loại trừ cCMV."
+      ]
+    },
+    {
+      "id": "hc3bebd3f",
+      "type": "lam-sang",
+      "section": "Chẩn đoán",
+      "stem": "Bệnh nhân nam, 2 ngày tuổi, sinh 39 tuần, 2200 g, được khám vì nhỏ so với tuổi thai.\nTiền căn: mẹ có CMV IgG dương tính từ trước khi mang thai.\nKhám: tỉnh, bú được. Vòng đầu 31 cm. Xuất huyết dạng chấm ở thân. Gan 2 cm dưới bờ sườn.\nCận lâm sàng: tiểu cầu 60.000/mm³.",
+      "lead": "Hướng xử trí phù hợp nhất về CMV là gì?",
+      "options": [
+        "Làm CMV IgM huyết thanh của trẻ",
+        "Làm PCR CMV nước tiểu ngay",
+        "Không làm vì mẹ đã có miễn dịch",
+        "Làm CMV IgG huyết thanh của trẻ"
+      ],
+      "answer": 1,
+      "explanation": "Mẹ đã có IgG vẫn có thể nhiễm không nguyên phát và sinh con cCMV. Trẻ có nhiều dấu hiệu gợi ý (SGA, đầu nhỏ, xuất huyết dạng chấm, giảm tiểu cầu), cần PCR nước tiểu trong 21 ngày đầu.",
+      "why_wrong": [
+        "IgM không đáng tin cậy để chẩn đoán cCMV.",
+        null,
+        "Mẹ có IgG trước thai kỳ không loại trừ cCMV; hơn 3/4 ca cCMV ở Hoa Kỳ từ mẹ nhiễm không nguyên phát.",
+        "IgG của trẻ chủ yếu là kháng thể mẹ, không giúp chẩn đoán."
+      ]
+    },
+    {
+      "id": "h5c5d68d8",
+      "type": "lam-sang",
+      "section": "Chẩn đoán",
+      "stem": "Bệnh nhân nữ, 6 tuần tuổi, đến khám vì vòng đầu chậm tăng.\nLúc sinh: 2600 g, không làm xét nghiệm CMV.\n6 tuần: vòng đầu 34 cm (dưới bách phân vị 3).\nKhám: tỉnh, không vàng da, gan lách không to.\nCận lâm sàng: PCR CMV nước tiểu dương tính.",
+      "lead": "Bước tiếp theo phù hợp nhất để xác định cCMV là gì?",
+      "options": [
+        "Kết luận cCMV xác định theo PCR nước tiểu",
+        "Làm CMV IgM huyết thanh của trẻ",
+        "PCR CMV trên mẫu máu khô lúc sinh",
+        "Làm CMV IgG huyết thanh của trẻ"
+      ],
+      "answer": 2,
+      "explanation": "Sau 3 tuần, PCR nước tiểu dương không phân biệt được cCMV với nhiễm sau sinh. PCR trên mẫu máu khô (DBS) lúc sinh: dương tính khẳng định cCMV; âm tính không loại trừ.",
+      "why_wrong": [
+        "Mẫu lấy lúc 6 tuần tuổi có thể phản ánh nhiễm sau sinh (sữa mẹ, đường sinh dục).",
+        "IgM không đáng tin cậy để chẩn đoán cCMV.",
+        null,
+        "Ở tuổi này IgG dương có thể vẫn là kháng thể của mẹ."
+      ]
+    },
+    {
+      "id": "h28ab072a",
+      "type": "lam-sang",
+      "section": "Chẩn đoán",
+      "stem": "Bệnh nhân nam, 7 tuần tuổi, đến khám vì không qua sàng lọc thính lực lúc 6 tuần.\nLúc sinh: 2700 g, không làm xét nghiệm CMV.\nKhám: tỉnh, vòng đầu bình thường, gan lách không to.\nCận lâm sàng: ABR: điếc tiếp nhận hai tai. PCR CMV nước tiểu dương tính. PCR CMV trên mẫu máu khô lúc sinh âm tính. Đã loại trừ các nguyên nhân gây điếc khác.",
+      "lead": "Kết luận phù hợp nhất về tình trạng CMV của trẻ là gì?",
+      "options": [
+        "Có thể cCMV",
+        "cCMV xác định",
+        "Loại trừ được cCMV",
+        "Chắc chắn nhiễm sau sinh"
+      ],
+      "answer": 0,
+      "explanation": "Sau 3 tuần và DBS âm tính: không khẳng định cũng không loại trừ cCMV. Trẻ có dấu hiệu phù hợp (điếc tiếp nhận), đã loại trừ nguyên nhân khác, PCR nước tiểu dương trong khoảng 3 tuần – 1 tuổi, nên kết luận có thể cCMV.",
+      "why_wrong": [
+        null,
+        "Muốn xác định cần mẫu dương trong 21 ngày đầu hoặc DBS dương tính.",
+        "DBS âm tính không loại trừ cCMV.",
+        "Sau 3 tuần không phân biệt chắc chắn được bẩm sinh với mắc phải."
+      ]
+    },
+    {
+      "id": "h24240ae4",
+      "type": "lam-sang",
+      "section": "Chẩn đoán",
+      "stem": "Bệnh nhân nữ, 2 ngày tuổi, sinh 39 tuần, 3100 g.\nTiền căn: mẹ có chuyển đảo huyết thanh CMV ở tuần 20 thai kỳ; siêu âm thai không ghi nhận bất thường.\nKhám: tỉnh, bú tốt, vòng đầu 34 cm, không vàng da, gan lách không to.\nCận lâm sàng: chưa làm.",
+      "lead": "Xử trí phù hợp nhất lúc này là gì?",
+      "options": [
+        "PCR CMV nước tiểu trước 21 ngày tuổi",
+        "Không cần xét nghiệm vì trẻ khỏe mạnh",
+        "CMV IgG huyết thanh trẻ lúc 3 tháng tuổi",
+        "CMV IgM huyết thanh trẻ trước xuất viện"
+      ],
+      "answer": 0,
+      "explanation": "Mẹ có chuyển đảo huyết thanh trong thai kỳ là chỉ định xét nghiệm cCMV, kể cả khi trẻ không triệu chứng. Cần PCR nước tiểu hoặc nước bọt trong 21 ngày đầu.",
+      "why_wrong": [
+        null,
+        "Khoảng 90% trẻ cCMV không triệu chứng nhưng vẫn có nguy cơ điếc tới 15%.",
+        "Sau 3 tuần không còn chẩn đoán xác định được; IgG trẻ còn là kháng thể mẹ.",
+        "IgM không đáng tin cậy để chẩn đoán cCMV."
+      ]
+    },
+    {
+      "id": "hab197aeb",
+      "type": "lam-sang",
+      "section": "Chẩn đoán",
+      "stem": "Bệnh nhân nam, 5 ngày tuổi, sinh đủ tháng, 3000 g, khám trước xuất viện.\nTiền căn: mẹ nhiễm HIV, đang điều trị ARV; trẻ đang dùng ARV dự phòng.\nKhám: tỉnh, bú tốt, không vàng da, gan lách không to.\nCận lâm sàng: PCR HIV của trẻ đang chờ kết quả.",
+      "lead": "Khuyến cáo phù hợp nhất về xét nghiệm CMV cho trẻ là gì?",
+      "options": [
+        "Xét nghiệm cCMV trong 21 ngày đầu",
+        "Chờ PCR HIV dương mới xét nghiệm cCMV",
+        "Xét nghiệm CMV IgG lúc 18 tháng tuổi",
+        "Chỉ xét nghiệm khi có triệu chứng"
+      ],
+      "answer": 0,
+      "explanation": "Hướng dẫn NIH gợi ý xét nghiệm cCMV trong 21 ngày đầu cho mọi trẻ phơi nhiễm HIV, vì cCMV chẩn đoán tốt nhất trong 3 tuần đầu, khi tình trạng HIV của trẻ thường chưa xác định (Panel OI, 2023).",
+      "why_wrong": [
+        null,
+        "Chờ kết quả HIV sẽ bỏ lỡ cửa sổ 21 ngày.",
+        "IgG lúc 18 tháng không phân biệt được cCMV với nhiễm sau sinh.",
+        "Phần lớn trẻ cCMV không triệu chứng."
+      ]
+    },
+    {
+      "id": "h3b484733",
+      "type": "lam-sang",
+      "section": "Chẩn đoán",
+      "stem": "Bệnh nhân nữ, 4 ngày tuổi, sinh đủ tháng, 2900 g, bú mẹ hoàn toàn.\nLúc sinh: không qua sàng lọc thính lực tai phải.\nN3: làm PCR CMV nước bọt, lấy ngay sau cữ bú.\nKhám: bình thường.\nCận lâm sàng: PCR CMV nước bọt dương tính.",
+      "lead": "Bước tiếp theo phù hợp nhất là gì?",
+      "options": [
+        "Làm CMV IgM huyết thanh để xác nhận",
+        "Xác nhận bằng PCR CMV nước tiểu",
+        "Bắt đầu valganciclovir ngay",
+        "Kết luận cCMV, không cần làm thêm"
+      ],
+      "answer": 1,
+      "explanation": "Nước bọt có thể dương tính do CMV từ sữa mẹ, nhất là khi lấy ngay sau bú. Mọi kết quả nước bọt dương phải xác nhận bằng nước tiểu (AAP, 2024).",
+      "why_wrong": [
+        "IgM không đáng tin cậy để chẩn đoán cCMV.",
+        null,
+        "Chưa xác định chẩn đoán và chưa đánh giá mức độ bệnh.",
+        "Nước bọt dương có thể dương giả do sữa mẹ."
+      ]
+    },
+    {
+      "id": "h6e15a190",
+      "type": "lam-sang",
+      "section": "Chẩn đoán phân biệt",
+      "stem": "Bệnh nhân nam, 5 tuần tuổi, cCMV thể vừa – nặng (PCR nước tiểu N4 dương tính), đang dùng valganciclovir uống từ tuần 2.\nTuần 3–5: vàng da tăng dần, phân bạc màu.\nKhám: vàng da, gan 4 cm dưới bờ sườn, chắc.\nCận lâm sàng: bilirubin toàn phần 11 mg/dL, trực tiếp 8 mg/dL. Tiểu cầu 150.000/mm³.",
+      "lead": "Hướng xử trí tiếp theo phù hợp nhất là gì?",
+      "options": [
+        "Tiếp tục điều trị đến đủ 6 tháng",
+        "Tầm soát song song teo đường mật",
+        "Tăng liều valganciclovir",
+        "Chuyển sang ganciclovir tĩnh mạch"
+      ],
+      "answer": 1,
+      "explanation": "CMV có thể đồng tồn tại với bệnh gan khác. Trẻ cCMV có tăng bilirubin trực tiếp kéo dài, phân bạc màu vẫn phải tầm soát song song teo đường mật (và thiếu alpha-1 antitrypsin).",
+      "why_wrong": [
+        "Bỏ sót teo đường mật nếu chỉ chờ hết đợt điều trị.",
+        null,
+        "Liều chỉnh theo cân nặng mỗi tháng, không tăng liều vì vàng da.",
+        "Không có chỉ định chuyển đường dùng; vấn đề là phải loại trừ bệnh gan khác."
+      ]
+    },
+    {
+      "id": "h903f4e43",
+      "type": "nho",
+      "section": "Điều trị",
+      "stem": "",
+      "lead": "Liều valganciclovir uống điều trị cCMV là bao nhiêu?",
+      "options": [
+        "8 mg/kg/liều mỗi 12 giờ",
+        "16 mg/kg/liều mỗi 24 giờ",
+        "6 mg/kg/liều mỗi 12 giờ",
+        "16 mg/kg/liều mỗi 12 giờ"
+      ],
+      "answer": 3,
+      "explanation": "Valganciclovir uống 16 mg/kg/liều mỗi 12 giờ (Kimberlin et al., 2015).",
+      "why_wrong": [
+        "Bằng một nửa liều khuyến cáo.",
+        "Đúng mức liều nhưng sai khoảng cách; dùng mỗi 12 giờ.",
+        "6 mg/kg mỗi 12 giờ là liều ganciclovir tĩnh mạch.",
+        null
+      ]
+    },
+    {
+      "id": "h4fde386f",
+      "type": "nho",
+      "section": "Điều trị",
+      "stem": "",
+      "lead": "Liều ganciclovir tĩnh mạch điều trị cCMV là bao nhiêu?",
+      "options": [
+        "16 mg/kg/liều mỗi 12 giờ",
+        "6 mg/kg/liều mỗi 12 giờ",
+        "6 mg/kg/liều mỗi 24 giờ",
+        "12 mg/kg/liều mỗi 12 giờ"
+      ],
+      "answer": 1,
+      "explanation": "Ganciclovir TM 6 mg/kg/liều mỗi 12 giờ (Kimberlin et al., 2003).",
+      "why_wrong": [
+        "16 mg/kg mỗi 12 giờ là liều valganciclovir uống.",
+        null,
+        "Đúng mức liều nhưng sai khoảng cách; dùng mỗi 12 giờ.",
+        "Gấp đôi liều khuyến cáo."
+      ]
+    },
+    {
+      "id": "hc80935cf",
+      "type": "nho",
+      "section": "Điều trị",
+      "stem": "",
+      "lead": "Theo AAP (2024), điều trị kháng virus cho cCMV nên bắt đầu trong khoảng thời gian nào?",
+      "options": [
+        "13 tuần đầu sau sinh",
+        "21 ngày đầu sau sinh",
+        "6 tháng đầu sau sinh",
+        "6 tuần đầu sau sinh"
+      ],
+      "answer": 0,
+      "explanation": "Bắt đầu trong 13 tuần đầu (tới 12 tuần 6 ngày tuổi). Tuy vậy nên bắt đầu ngay khi xác định chẩn đoán và hoàn tất đánh giá, không trì hoãn vì có mốc 13 tuần.",
+      "why_wrong": [
+        null,
+        "21 ngày là cửa sổ lấy mẫu chẩn đoán, không phải mốc bắt đầu điều trị.",
+        "6 tháng là thời gian điều trị thể vừa – nặng.",
+        "Không phải mốc trong khuyến cáo AAP 2024."
+      ]
+    },
+    {
+      "id": "he5132d76",
+      "type": "nho",
+      "section": "Điều trị",
+      "stem": "",
+      "lead": "Trường hợp nào nên dùng ganciclovir tĩnh mạch lúc đầu thay cho valganciclovir uống?",
+      "options": [
+        "Trẻ không hấp thu tốt qua đường tiêu hóa",
+        "Trẻ có điếc tiếp nhận hai bên đơn độc",
+        "Trẻ có vôi hóa nội sọ quanh não thất",
+        "Trẻ có mẹ nhiễm CMV nguyên phát"
+      ],
+      "answer": 0,
+      "explanation": "Valganciclovir uống dùng được cho toàn đợt vì đạt nồng độ tương đương ganciclovir TM. Ganciclovir TM dùng lúc đầu khi trẻ không hấp thu thuốc đáng tin cậy qua tiêu hóa, như viêm ruột hoại tử (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Điếc đơn độc dùng valganciclovir uống 6 tuần.",
+        "Tổn thương thần kinh trung ương vẫn dùng valganciclovir uống nếu hấp thu tốt.",
+        "Kiểu nhiễm của mẹ không quyết định đường dùng thuốc."
+      ]
+    },
+    {
+      "id": "h7a088efb",
+      "type": "nho",
+      "section": "Điều trị",
+      "stem": "",
+      "lead": "So với 6 tuần, valganciclovir 6 tháng ở trẻ cCMV vừa – nặng cải thiện kết cục nào?",
+      "options": [
+        "Tỷ lệ tử vong trong năm đầu đời",
+        "Thính lực và phát triển thần kinh",
+        "Tỷ lệ viêm hắc võng mạc lúc 1 tuổi",
+        "Thời gian thải virus qua nước tiểu"
+      ],
+      "answer": 1,
+      "explanation": "Thử nghiệm của Kimberlin et al. (2015): valganciclovir 6 tháng cải thiện kết cục thính lực và phát triển thần kinh lúc 2 tuổi so với 6 tuần.",
+      "why_wrong": [
+        "Không phải kết cục được nêu trong bài.",
+        null,
+        "Không phải kết cục được nêu trong bài.",
+        "Không phải kết cục được nêu trong bài."
+      ]
+    },
+    {
+      "id": "h48c597bd",
+      "type": "lam-sang",
+      "section": "Điều trị",
+      "stem": "Bệnh nhân nam, 18 ngày tuổi, sinh đủ tháng, 3200 g, đến khám vì không qua sàng lọc thính lực hai tai.\nN10: PCR CMV nước tiểu dương tính.\nKhám: tỉnh, bú tốt. Vòng đầu 35 cm. Không vàng da, gan lách không to.\nCận lâm sàng: CTM, ALT, bilirubin bình thường. Siêu âm xuyên thóp, đáy mắt bình thường. ABR chẩn đoán: điếc tiếp nhận hai tai.",
+      "lead": "Hướng điều trị phù hợp nhất là gì?",
+      "options": [
+        "Có thể dùng valganciclovir uống 6 tuần",
+        "Không điều trị, chỉ theo dõi thính lực",
+        "Bắt buộc valganciclovir uống 6 tháng",
+        "Ganciclovir tĩnh mạch trong 6 tuần"
+      ],
+      "answer": 0,
+      "explanation": "cCMV xác định (PCR nước tiểu N10), không có dấu hiệu khác, chỉ có điếc tiếp nhận: thuộc nhóm điếc đơn độc. Có thể đề nghị valganciclovir uống 6 tuần, bắt đầu trong 13 tuần đầu (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Điếc đơn độc có bằng chứng cải thiện thính lực với 6 tuần valganciclovir.",
+        "6 tháng dành cho thể vừa – nặng.",
+        "Trẻ hấp thu tốt, không có chỉ định đường tĩnh mạch."
+      ]
+    },
+    {
+      "id": "h49aed5b0",
+      "type": "lam-sang",
+      "section": "Điều trị",
+      "stem": "Bệnh nhân nữ, 3 tuần tuổi, sinh đủ tháng, 2800 g, đến khám vì vòng đầu nhỏ.\nN5: PCR CMV nước tiểu dương tính.\nKhám: tỉnh, bú tốt. Vòng đầu 31,5 cm. Không vàng da, gan lách không to, không xuất huyết.\nCận lâm sàng: CTM, ALT bình thường. Siêu âm xuyên thóp: vôi hóa quanh não thất. Đáy mắt, ABR bình thường.",
+      "lead": "Phác đồ kháng virus phù hợp nhất là gì?",
+      "options": [
+        "Theo dõi, chưa dùng kháng virus",
+        "Ganciclovir TM 2 tuần rồi đánh giá lại",
+        "Valganciclovir uống trong 6 tuần",
+        "Valganciclovir uống trong 6 tháng"
+      ],
+      "answer": 3,
+      "explanation": "Đầu nhỏ và vôi hóa quanh não thất là tổn thương thần kinh trung ương, xếp thể vừa – nặng (kiểu hình thần kinh nguyên phát), dù không có triệu chứng toàn thân. Điều trị valganciclovir uống 6 tháng.",
+      "why_wrong": [
+        "Tổn thương thần kinh trung ương là chỉ định điều trị.",
+        "Đây là cách tiếp cận cho nhiễm CMV sau sinh ở trẻ sinh non, không áp dụng cho cCMV.",
+        "6 tuần dành cho điếc tiếp nhận đơn độc.",
+        null
+      ]
+    },
+    {
+      "id": "h24ffb5af",
+      "type": "lam-sang",
+      "section": "Điều trị",
+      "stem": "Bệnh nhân nữ, 12 ngày tuổi, sinh 34 tuần, 1900 g, đang nằm khoa sơ sinh.\nN3: PCR CMV nước tiểu dương tính. Gan lách to, tiểu cầu 40.000/mm³, vôi hóa quanh não thất.\nN10: chướng bụng, dịch dạ dày lẫn mật; X-quang bụng có hơi trong thành ruột. Đang nhịn ăn hoàn toàn.\nKhám: lừ đừ, bụng chướng.",
+      "lead": "Lựa chọn kháng virus ban đầu phù hợp nhất là gì?",
+      "options": [
+        "Hoãn kháng virus đến khi ăn lại được",
+        "Valganciclovir uống 16 mg/kg mỗi 12 giờ",
+        "Ganciclovir TM 6 mg/kg mỗi 12 giờ",
+        "Ganciclovir TM 6 mg/kg mỗi 24 giờ"
+      ],
+      "answer": 2,
+      "explanation": "Trẻ cCMV vừa – nặng đang viêm ruột hoại tử, nhịn ăn, không hấp thu thuốc đáng tin cậy qua tiêu hóa, nên dùng ganciclovir TM 6 mg/kg mỗi 12 giờ lúc đầu, chuyển uống khi ổn định.",
+      "why_wrong": [
+        "Không trì hoãn điều trị khi đã có chỉ định.",
+        "Trẻ đang nhịn ăn, không hấp thu đường uống đáng tin cậy.",
+        null,
+        "Sai khoảng cách liều; dùng mỗi 12 giờ."
+      ]
+    },
+    {
+      "id": "h77c85d9d",
+      "type": "lam-sang",
+      "section": "Điều trị",
+      "stem": "Bệnh nhân nam, 3 tuần tuổi, sinh đủ tháng, 3300 g. Phát hiện cCMV qua chương trình sàng lọc (PCR CMV nước bọt N2 dương, nước tiểu N5 dương).\nKhám: tỉnh, bú tốt, vòng đầu 35 cm, không vàng da, gan lách không to.\nCận lâm sàng: CTM, ALT, bilirubin bình thường. Siêu âm xuyên thóp, đáy mắt bình thường. ABR chẩn đoán bình thường hai tai.",
+      "lead": "Hướng xử trí phù hợp nhất là gì?",
+      "options": [
+        "Valganciclovir uống trong 6 tháng",
+        "Valganciclovir uống trong 6 tuần",
+        "Không dùng thuốc, đo thính lực định kỳ",
+        "Không dùng thuốc, đo lại lúc 3 tháng"
+      ],
+      "answer": 2,
+      "explanation": "Nhiễm cCMV không triệu chứng, thính lực bình thường: không khuyến cáo điều trị ngoài nghiên cứu, nhưng bắt buộc theo dõi thính lực định kỳ suốt thời thơ ấu.",
+      "why_wrong": [
+        "6 tháng dành cho thể vừa – nặng.",
+        "6 tuần dành cho điếc tiếp nhận đơn độc.",
+        null,
+        "Theo dõi thính lực phải kéo dài suốt thời thơ ấu, không dừng ở 3 tháng."
+      ]
+    },
+    {
+      "id": "h89761470",
+      "type": "nho",
+      "section": "Theo dõi",
+      "stem": "",
+      "lead": "Lịch theo dõi ANC ở trẻ cCMV đang dùng valganciclovir là gì?",
+      "options": [
+        "Mỗi 2 tuần một lần trong suốt đợt điều trị",
+        "Mỗi tuần trong 6 tuần, tuần 8, sau đó mỗi tháng",
+        "Mỗi tháng một lần trong suốt đợt điều trị",
+        "Mỗi tuần một lần trong suốt đợt điều trị"
+      ],
+      "answer": 1,
+      "explanation": "ANC mỗi tuần trong 6 tuần đầu, tuần thứ 8, sau đó mỗi tháng đến hết đợt; ALT và cân nặng mỗi tháng (AAP, 2024).",
+      "why_wrong": [
+        "Không phải lịch khuyến cáo.",
+        null,
+        "Mỗi tháng là lịch của ALT và cân nặng; ANC cần dày hơn giai đoạn đầu.",
+        "Sau tuần 8 chỉ cần mỗi tháng."
+      ]
+    },
+    {
+      "id": "h0655a4fd",
+      "type": "nho",
+      "section": "Theo dõi",
+      "stem": "",
+      "lead": "Giảm bạch cầu hạt đáng kể gặp ở khoảng bao nhiêu phần trăm trẻ dùng valganciclovir uống?",
+      "options": [
+        "Khoảng 20%",
+        "Khoảng 45%",
+        "Khoảng 5%",
+        "Khoảng 65%"
+      ],
+      "answer": 0,
+      "explanation": "Giảm bạch cầu hạt đáng kể gặp ở khoảng 20% trẻ dùng valganciclovir uống và 65% trẻ dùng ganciclovir TM, thường trong 4–6 tuần đầu (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Không phải số liệu trong bài.",
+        "Thấp hơn số liệu trong bài.",
+        "65% là tỷ lệ ở trẻ dùng ganciclovir TM."
+      ]
+    },
+    {
+      "id": "h6e5170cd",
+      "type": "lam-sang",
+      "section": "Theo dõi",
+      "stem": "Bệnh nhân nữ, 7 tuần tuổi, 4 kg, cCMV thể vừa – nặng, đang dùng valganciclovir uống từ tuần 2.\nTuần 5: ANC 450/mm³.\nTuần 6 (làm lại): ANC 420/mm³.\nKhám: tỉnh, không sốt, bú tốt.\nCận lâm sàng: Hb 10,5 g/dL, tiểu cầu 210.000/mm³, ALT bình thường.",
+      "lead": "Xử trí phù hợp nhất với kết quả ANC là gì?",
+      "options": [
+        "Ngưng hẳn valganciclovir, không dùng lại",
+        "Tạm ngưng thuốc đến khi ANC trên 750/mm³",
+        "Chuyển sang ganciclovir tĩnh mạch",
+        "Giảm nửa liều và tiếp tục điều trị"
+      ],
+      "answer": 1,
+      "explanation": "ANC < 500/mm³ lặp lại: tạm ngưng thuốc đến khi ANC > 750/mm³, hoặc dùng G-CSF mỗi ngày một lần trong 1–3 ngày (AAP, 2024).",
+      "why_wrong": [
+        "Tạm ngưng rồi dùng lại khi ANC hồi phục, để hoàn thành đợt 6 tháng.",
+        null,
+        "Ganciclovir TM gây giảm bạch cầu hạt nhiều hơn (65% so với 20%).",
+        "Không phải cách xử trí được khuyến cáo."
+      ]
+    },
+    {
+      "id": "h7fc8865f",
+      "type": "lam-sang",
+      "section": "Theo dõi",
+      "stem": "Bệnh nhân nam, 18 tháng tuổi, cCMV không triệu chứng, không điều trị kháng virus.\nĐo thính lực lúc 4, 6, 9, 12 và 15 tháng: bình thường.\nKhám: phát triển phù hợp tuổi, nói được 10 từ.\nMẹ hỏi có cần tiếp tục đo thính lực không.",
+      "lead": "Kế hoạch theo dõi thính lực phù hợp nhất là gì?",
+      "options": [
+        "Chỉ đo lại khi trẻ chậm nói",
+        "Ngưng đo vì đã 5 lần bình thường",
+        "Đo lại một lần duy nhất lúc 5 tuổi",
+        "Đo tiếp lúc 18, 24 và 30 tháng tuổi"
+      ],
+      "answer": 3,
+      "explanation": "Theo Bright Futures, trẻ cCMV đo thính lực lúc 4, 6, 9, 12, 15, 18, 24 và 30 tháng; sau đó lúc 4, 5, 6, 8, 10 tuổi như mọi trẻ. Lý do: điếc có thể khởi phát muộn và tiến triển.",
+      "why_wrong": [
+        "Chờ chậm nói sẽ phát hiện muộn.",
+        "Điếc do cCMV có thể khởi phát muộn dù các lần trước bình thường.",
+        "Lịch theo dõi dày hơn nhiều.",
+        null
+      ]
+    },
+    {
+      "id": "h25151984",
+      "type": "nho",
+      "section": "Bú mẹ, kiểm soát nhiễm khuẩn và tư vấn",
+      "stem": "",
+      "lead": "Khuyến cáo về bú mẹ ở trẻ đã nhiễm cCMV là gì?",
+      "options": [
+        "Ngưng bú, dùng sữa công thức",
+        "Chỉ cho bú sữa mẹ đã thanh trùng",
+        "Chỉ cho bú sữa mẹ đã đông lạnh",
+        "Tiếp tục cho bú sữa mẹ"
+      ],
+      "answer": 3,
+      "explanation": "Với trẻ đã nhiễm CMV, lợi ích của sữa mẹ ruột vượt trội nguy cơ phơi nhiễm thêm CMV; tiếp tục cho bú (AAP, 2024).",
+      "why_wrong": [
+        "Không cần ngưng bú; lợi ích sữa mẹ vượt trội.",
+        "Không cần xử lý sữa mẹ ruột cho trẻ đã nhiễm.",
+        "Không cần xử lý sữa mẹ ruột cho trẻ đã nhiễm.",
+        null
+      ]
+    },
+    {
+      "id": "hd172fe63",
+      "type": "nho",
+      "section": "Bú mẹ, kiểm soát nhiễm khuẩn và tư vấn",
+      "stem": "",
+      "lead": "Biện pháp kiểm soát nhiễm khuẩn phù hợp cho trẻ cCMV nằm viện là gì?",
+      "options": [
+        "Phòng ngừa qua không khí",
+        "Phòng ngừa tiếp xúc",
+        "Phòng ngừa chuẩn",
+        "Phòng ngừa giọt bắn"
+      ],
+      "answer": 2,
+      "explanation": "Trong bệnh viện, phòng ngừa chuẩn là đủ với trẻ cCMV (AAP, 2024).",
+      "why_wrong": [
+        "Không cần với CMV.",
+        "Không cần với CMV.",
+        null,
+        "Không cần với CMV."
+      ]
+    },
+    {
+      "id": "h8bc7003f",
+      "type": "lam-sang",
+      "section": "Bú mẹ, kiểm soát nhiễm khuẩn và tư vấn",
+      "stem": "Mẹ của bệnh nhân nữ 2 tháng tuổi (cCMV thể vừa – nặng, đang dùng valganciclovir) đến khám cùng con.\nMẹ đang mang thai 8 tuần, vẫn cho con bú mẹ.\nBé sắp được gửi nhà trẻ.\nMẹ hỏi cách giảm nguy cơ lây CMV cho thai.",
+      "lead": "Lời khuyên phù hợp nhất là gì?",
+      "options": [
+        "Rửa tay sau thay tã, không dùng chung muỗng ly",
+        "Tiêm globulin miễn dịch CMV trong thai kỳ",
+        "Ngưng cho bé bú để giảm tiếp xúc nước bọt",
+        "Không gửi bé đi nhà trẻ, cách ly bé tại nhà"
+      ],
+      "answer": 0,
+      "explanation": "Người mang thai tiếp xúc trẻ cCMV: vệ sinh tay, nhất là sau thay tã; không dùng chung muỗng, ly; tránh hôn vào miệng trẻ (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "CMVIG không hiệu quả trong thử nghiệm ngẫu nhiên, không được khuyến cáo.",
+        "Trẻ đã nhiễm vẫn nên tiếp tục bú mẹ.",
+        "Trẻ cCMV không cần được đối xử khác với các trẻ khác ở nhà trẻ."
+      ]
+    }
+  ],
+  "updated": "2026-10-31"
+}

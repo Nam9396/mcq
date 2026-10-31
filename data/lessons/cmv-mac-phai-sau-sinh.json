@@ -1,0 +1,922 @@
+{
+  "id": "cmv-mac-phai-sau-sinh",
+  "title": "Nhiễm CMV mắc phải sau sinh ở trẻ em",
+  "topic": "Truyền nhiễm",
+  "source": "cmv-postnatal-acquired.md",
+  "sections": [
+    "Đại cương và lây truyền",
+    "Nhiễm và bệnh, diễn giải xét nghiệm",
+    "Phân biệt với cCMV",
+    "Trẻ sinh non",
+    "Trẻ miễn dịch bình thường",
+    "Trẻ suy giảm miễn dịch",
+    "Thuốc kháng virus",
+    "Phòng ngừa và kiểm soát nhiễm khuẩn"
+  ],
+  "questions": [
+    {
+      "id": "h8817ea88",
+      "type": "nho",
+      "section": "Đại cương và lây truyền",
+      "stem": "",
+      "lead": "Đường lây CMV phổ biến nhất ở trẻ em và trong gia đình là gì?",
+      "options": [
+        "Qua sữa mẹ trong năm đầu",
+        "Qua dịch sinh dục lúc sinh",
+        "Truyền máu và chế phẩm máu",
+        "Đường miệng và tiếp xúc gần"
+      ],
+      "answer": 3,
+      "explanation": "Đường miệng và tiếp xúc gần là phổ biến nhất: virus có nhiều trong nước bọt, nước tiểu của trẻ nhỏ và được thải kéo dài; lây qua dùng chung đồ ăn uống, đồ chơi dính nước bọt, hôn, thay tã rồi đưa tay lên mặt.",
+      "why_wrong": [
+        "Là đường lây chính ở trẻ sinh non, không phải ở trẻ em nói chung.",
+        "Là một đường lây chu sinh, không phải phổ biến nhất ở trẻ em.",
+        "Gây bệnh nặng ở nhóm nguy cơ, nhưng không phải đường lây phổ biến nhất.",
+        null
+      ]
+    },
+    {
+      "id": "h9f0436db",
+      "type": "nho",
+      "section": "Đại cương và lây truyền",
+      "stem": "",
+      "lead": "Tỷ lệ thải CMV qua nước tiểu hoặc nước bọt ở trẻ 1–3 tuổi đi nhà trẻ thường là bao nhiêu?",
+      "options": [
+        "15–20%",
+        "5–10%",
+        "80–90%",
+        "30–40%"
+      ],
+      "answer": 3,
+      "explanation": "Ở trẻ 1–3 tuổi đi nhà trẻ, tỷ lệ thải virus thường 30–40%, có thể đến 70%, với lượng virus lớn trong thời gian dài (AAP, 2024).",
+      "why_wrong": [
+        "Thấp hơn số liệu trong bài.",
+        "Thấp hơn nhiều so với số liệu trong bài.",
+        "Cao hơn mức thường gặp (tối đa khoảng 70%).",
+        null
+      ]
+    },
+    {
+      "id": "hd4678632",
+      "type": "nho",
+      "section": "Đại cương và lây truyền",
+      "stem": "",
+      "lead": "Thời gian từ khi truyền máu đến khi biểu hiện nhiễm CMV thường là bao lâu?",
+      "options": [
+        "1–2 tuần sau truyền",
+        "3–12 tuần sau truyền",
+        "1–4 tháng sau truyền",
+        "6–12 tháng sau truyền"
+      ],
+      "answer": 1,
+      "explanation": "Theo AAP (2024): truyền máu 3–12 tuần; ghép tạng 1–4 tháng; qua sữa mẹ ở trẻ sinh non trung vị 7 tuần (3–24 tuần).",
+      "why_wrong": [
+        "Quá ngắn so với số liệu trong bài.",
+        null,
+        "Đây là thời gian sau ghép tạng.",
+        "Quá dài so với số liệu trong bài."
+      ]
+    },
+    {
+      "id": "hbaef700d",
+      "type": "nho",
+      "section": "Đại cương và lây truyền",
+      "stem": "",
+      "lead": "Ở trẻ sinh non, nguồn lây CMV sau sinh chủ yếu là gì?",
+      "options": [
+        "Dịch cổ tử cung lúc sinh",
+        "Truyền khối hồng cầu",
+        "Sữa của mẹ huyết thanh dương",
+        "Lây chéo từ trẻ cùng phòng"
+      ],
+      "answer": 2,
+      "explanation": "Sữa mẹ là đường lây sau sinh chính ở trẻ sinh non; DNA CMV trong sữa đạt đỉnh tuần 2–8 cho bú. Trong đoàn hệ trẻ VLBW, đa số ca nhiễm có nguồn từ sữa mẹ, không phải truyền máu.",
+      "why_wrong": [
+        "Có thể gây nhiễm chu sinh nhưng không phải nguồn chính ở trẻ sinh non.",
+        "Với máu âm tính CMV và lọc bạch cầu, lây qua truyền máu gần như đã được loại bỏ.",
+        null,
+        "Không được nêu là nguồn lây chính."
+      ]
+    },
+    {
+      "id": "he76ba3d3",
+      "type": "nho",
+      "section": "Nhiễm và bệnh, diễn giải xét nghiệm",
+      "stem": "",
+      "lead": "Theo đồng thuận quốc tế 2025, \"bệnh CMV\" (CMV disease) được định nghĩa là gì?",
+      "options": [
+        "Nhiễm CMV kèm triệu chứng quy được cho CMV",
+        "Có bằng chứng virus nhân lên trong dịch cơ thể",
+        "CMV IgG dương tính kèm IgM dương tính",
+        "Phát hiện DNA CMV trong máu bằng QNAT"
+      ],
+      "answer": 0,
+      "explanation": "Bệnh CMV là nhiễm CMV kèm triệu chứng quy được cho CMV, gồm hội chứng CMV và bệnh cơ quan đích. Đây là đối tượng cần điều trị (Kotton et al., 2025).",
+      "why_wrong": [
+        null,
+        "Đây là định nghĩa nhiễm CMV, bất kể có triệu chứng hay không.",
+        "Huyết thanh học không định nghĩa bệnh CMV; IgM còn có thể dương khi tái hoạt.",
+        "Đây là định nghĩa DNAemia, có thể gặp ở trẻ không triệu chứng."
+      ]
+    },
+    {
+      "id": "hbe7f66a6",
+      "type": "nho",
+      "section": "Nhiễm và bệnh, diễn giải xét nghiệm",
+      "stem": "",
+      "lead": "Khi theo dõi PCR CMV định lượng máu với giá trị ban đầu từ 3 log₁₀ IU/mL trở lên, thay đổi bao nhiêu thì có ý nghĩa?",
+      "options": [
+        "Trên 2 log₁₀ IU/mL",
+        "Trên 0,7 log₁₀ IU/mL",
+        "Trên 0,1 log₁₀ IU/mL",
+        "Trên 0,5 log₁₀ IU/mL"
+      ],
+      "answer": 3,
+      "explanation": "Thay đổi > 0,5 log₁₀ IU/mL (gấp 3 lần) được coi là có ý nghĩa; ngưỡng > 0,7 log₁₀ IU/mL chỉ áp dụng khi giá trị ban đầu < 3 log₁₀ IU/mL (Kotton et al., 2025).",
+      "why_wrong": [
+        "Quá cao, sẽ bỏ sót thay đổi có ý nghĩa.",
+        "Ngưỡng này dành cho giá trị ban đầu dưới 3 log₁₀ IU/mL.",
+        "Nằm trong sai số của xét nghiệm.",
+        null
+      ]
+    },
+    {
+      "id": "h25e824ea",
+      "type": "lam-sang",
+      "section": "Nhiễm và bệnh, diễn giải xét nghiệm",
+      "stem": "Bệnh nhân nam, 2 tuổi, 12 kg, đi nhà trẻ, đến khám vì sốt ngày 3.\nN1–N3: sốt 38,5–39 °C, chảy mũi, ho ít.\nKhám: tỉnh, họng đỏ, không hạch to, gan lách không to.\nCận lâm sàng: CTM bình thường. PCR CMV nước tiểu (làm theo yêu cầu gia đình): dương tính.",
+      "lead": "Diễn giải phù hợp nhất về kết quả PCR CMV nước tiểu là gì?",
+      "options": [
+        "Kết quả dương giả do sai kỹ thuật",
+        "Nhiễm CMV cấp, cần valganciclovir",
+        "Không chứng minh CMV gây đợt sốt này",
+        "Nhiễm CMV cấp, cần PCR máu theo dõi"
+      ],
+      "answer": 2,
+      "explanation": "Trẻ đi nhà trẻ thải CMV qua nước tiểu kéo dài sau nhiễm nguyên phát, nên PCR nước tiểu dương không chứng minh CMV là nguyên nhân gây sốt. Câu hỏi đúng là \"CMV có giải thích được bệnh cảnh không?\".",
+      "why_wrong": [
+        "Kết quả có thể đúng; trẻ nhỏ thải virus phổ biến.",
+        "Trẻ miễn dịch bình thường hầu như không cần kháng virus.",
+        null,
+        "PCR nước tiểu dương không đồng nghĩa nhiễm cấp; không cần theo dõi tải lượng ở trẻ này."
+      ]
+    },
+    {
+      "id": "h0540621f",
+      "type": "lam-sang",
+      "section": "Nhiễm và bệnh, diễn giải xét nghiệm",
+      "stem": "Bệnh nhân nữ, 10 tuổi, 28 kg, ghép thận 2 tháng, theo dõi PCR CMV định lượng hằng tuần.\nTuần trước: 3,8 log₁₀ IU/mL (huyết tương, bệnh viện A).\nTuần này: 4,6 log₁₀ IU/mL (máu toàn phần, phòng xét nghiệm B).\nKhám: không sốt, không triệu chứng.\nCận lâm sàng: CTM, creatinine ổn định.",
+      "lead": "Diễn giải phù hợp nhất về thay đổi tải lượng này là gì?",
+      "options": [
+        "Không đáng kể vì dưới 1 log₁₀ IU/mL",
+        "Không so sánh được do khác mẫu và xét nghiệm",
+        "Tăng có ý nghĩa vì vượt 0,5 log₁₀ IU/mL",
+        "Tăng có ý nghĩa, cần điều trị ngay"
+      ],
+      "answer": 1,
+      "explanation": "Kết quả trên huyết tương và máu toàn phần không so sánh được với nhau, và không so sánh giữa các phòng xét nghiệm. Với mỗi bệnh nhân phải giữ cùng loại mẫu, cùng một xét nghiệm.",
+      "why_wrong": [
+        "Ngưỡng có ý nghĩa là 0,5 log, nhưng ở đây không so sánh được.",
+        null,
+        "Chỉ diễn giải mức thay đổi khi cùng loại mẫu và cùng xét nghiệm.",
+        "Chưa thể kết luận tăng khi hai kết quả không so sánh được."
+      ]
+    },
+    {
+      "id": "h3b7534a5",
+      "type": "nho",
+      "section": "Phân biệt với cCMV",
+      "stem": "",
+      "lead": "Khi xét nghiệm sau 21 ngày tuổi, kết quả nào khẳng định trẻ nhiễm CMV bẩm sinh?",
+      "options": [
+        "PCR dương tính trên mẫu máu khô lúc sinh",
+        "CMV IgM dương tính lúc 6 tuần tuổi",
+        "CMV IgG dương tính lúc 6 tuần tuổi",
+        "PCR nước tiểu dương tính lúc 6 tuần tuổi"
+      ],
+      "answer": 0,
+      "explanation": "DBS dương tính khẳng định cCMV; DBS âm tính không loại trừ (AAP, 2024). Độ nhạy gộp khoảng 84%, độ đặc hiệu khoảng 99,9%.",
+      "why_wrong": [
+        null,
+        "IgM không đáng tin cậy để chẩn đoán cCMV.",
+        "IgG ở nhũ nhi có thể là kháng thể mẹ.",
+        "Sau 21 ngày, PCR nước tiểu dương không phân biệt được bẩm sinh với mắc phải."
+      ]
+    },
+    {
+      "id": "h7090c5aa",
+      "type": "lam-sang",
+      "section": "Phân biệt với cCMV",
+      "stem": "Bệnh nhân nữ, 8 tuần tuổi, sinh 28 tuần, cân nặng lúc sinh 1050 g, đang nằm khoa sơ sinh, bú sữa mẹ.\nN5: PCR CMV nước tiểu âm tính (xét nghiệm tầm soát).\nTuần 8: tăng nhu cầu oxy, gan to, tiểu cầu 60.000/mm³; cấy máu âm tính.\nCận lâm sàng: PCR CMV nước tiểu dương tính.",
+      "lead": "Chẩn đoán phù hợp nhất là gì?",
+      "options": [
+        "Nhiễm CMV tiềm ẩn, không ý nghĩa",
+        "Nhiễm CMV bẩm sinh xác định",
+        "Nhiễm CMV mắc phải sau sinh",
+        "Có thể nhiễm CMV bẩm sinh"
+      ],
+      "answer": 2,
+      "explanation": "Chẩn đoán xác định nhiễm sau sinh cần cả hai: PCR dương trên mẫu lấy khi có triệu chứng, và PCR âm trên mẫu lấy trong 21 ngày đầu (Salomè et al., 2026). Trẻ có đủ cả hai.",
+      "why_wrong": [
+        "Trẻ có bằng chứng virus nhân lên kèm bệnh cảnh phù hợp.",
+        "Mẫu trong 21 ngày đầu âm tính đã loại trừ cCMV.",
+        null,
+        "\"Có thể cCMV\" chỉ đặt ra khi không có mẫu trong 21 ngày đầu hoặc DBS."
+      ]
+    },
+    {
+      "id": "hcc39a490",
+      "type": "lam-sang",
+      "section": "Phân biệt với cCMV",
+      "stem": "Bệnh nhân nam, 5 tuần tuổi, sinh đủ tháng, 2500 g, đến khám vì rung giật nhãn cầu.\nLúc sinh: không làm xét nghiệm CMV; mẫu máu khô sàng lọc không còn lưu.\nKhám: vòng đầu 34 cm. Soi đáy mắt: viêm hắc võng mạc hai bên.\nCận lâm sàng: PCR CMV nước tiểu dương tính. Đã loại trừ toxoplasma và các nguyên nhân khác.",
+      "lead": "Hướng tiếp cận phù hợp nhất là gì?",
+      "options": [
+        "Chờ làm lại PCR nước tiểu sau 4 tuần",
+        "Xử trí như có thể nhiễm CMV bẩm sinh",
+        "Xử trí như nhiễm CMV mắc phải sau sinh",
+        "Làm CMV IgM để phân biệt bẩm sinh"
+      ],
+      "answer": 1,
+      "explanation": "Không có mẫu trước đó để loại trừ cCMV. Sau 3 tuần, biểu hiện đặc trưng như viêm hắc võng mạc gợi ý cCMV, nên xử trí như cCMV có thể (possible cCMV).",
+      "why_wrong": [
+        "PCR lặp lại vẫn không phân biệt được bẩm sinh với mắc phải.",
+        null,
+        "Chưa loại trừ được cCMV, và viêm hắc võng mạc là biểu hiện đặc trưng của cCMV.",
+        "IgM không đáng tin cậy để chẩn đoán cCMV."
+      ]
+    },
+    {
+      "id": "h4ac7d02f",
+      "type": "nho",
+      "section": "Trẻ sinh non",
+      "stem": "",
+      "lead": "Nhóm trẻ nào có nguy cơ cao bị nhiễm CMV sau sinh có triệu chứng?",
+      "options": [
+        "Trẻ sinh dưới 32 tuần và dưới 1500 g",
+        "Trẻ đủ tháng sinh mổ từ mẹ IgG dương",
+        "Trẻ đủ tháng bú sữa mẹ hoàn toàn",
+        "Trẻ đủ tháng có mẹ IgG âm tính"
+      ],
+      "answer": 0,
+      "explanation": "Nguy cơ có triệu chứng tăng ở trẻ sinh < 32 tuần và < 1500 g (AAP, 2024; Salomè et al., 2026). Ở trẻ đủ tháng, nhiễm qua sữa mẹ hay lúc sinh thường không gây bệnh.",
+      "why_wrong": [
+        null,
+        "Trẻ đủ tháng thường không có triệu chứng.",
+        "Trẻ đủ tháng nhiễm qua sữa mẹ thường không gây bệnh.",
+        "Không được nêu là nhóm nguy cơ cao."
+      ]
+    },
+    {
+      "id": "hfbe5225e",
+      "type": "nho",
+      "section": "Trẻ sinh non",
+      "stem": "",
+      "lead": "Qua sữa mẹ, thời gian trung vị đến khi trẻ sinh non có virus niệu là bao lâu?",
+      "options": [
+        "2 tuần",
+        "4 tháng",
+        "12 tháng",
+        "7 tuần"
+      ],
+      "answer": 3,
+      "explanation": "Thời gian trung vị đến khi có virus niệu là 7 tuần (khoảng 3–24 tuần); bệnh thường biểu hiện ở tháng thứ 2–3 (AAP, 2024).",
+      "why_wrong": [
+        "Quá sớm; 2–8 tuần là thời gian DNA CMV trong sữa đạt đỉnh.",
+        "Muộn hơn trung vị.",
+        "Muộn hơn nhiều so với số liệu.",
+        null
+      ]
+    },
+    {
+      "id": "hf45d57e7",
+      "type": "nho",
+      "section": "Trẻ sinh non",
+      "stem": "",
+      "lead": "Vì sao valganciclovir nói chung không thay thế được ganciclovir TM ở trẻ sinh non nhiễm CMV bệnh nặng?",
+      "options": [
+        "Hấp thu và chuyển hóa thuốc không ổn định",
+        "Không qua được hàng rào máu não",
+        "Valganciclovir độc với tủy xương hơn",
+        "Valganciclovir không có dạng dung dịch uống"
+      ],
+      "answer": 0,
+      "explanation": "Trẻ bệnh nặng có thể bị ảnh hưởng hấp thu qua tiêu hóa và chuyển hóa bước đầu qua gan thành ganciclovir (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Không phải lý do được nêu trong bài.",
+        "Ngược lại, valganciclovir uống ít gây giảm bạch cầu hạt hơn ganciclovir TM.",
+        "Valganciclovir có dạng viên và bột pha dung dịch uống."
+      ]
+    },
+    {
+      "id": "h3f197932",
+      "type": "nho",
+      "section": "Trẻ sinh non",
+      "stem": "",
+      "lead": "Khi lấy PCR CMV nước bọt ở trẻ bú sữa mẹ, nên lấy vào thời điểm nào?",
+      "options": [
+        "Bất kỳ lúc nào, không phụ thuộc cữ bú",
+        "Sau bú 15 phút để giảm lẫn sữa",
+        "Ngay sau cữ bú để có đủ nước bọt",
+        "Trước bú hoặc sau bú ít nhất 1 giờ"
+      ],
+      "answer": 3,
+      "explanation": "Nước bọt có thể dương tính giả do sữa mẹ có virus. Lấy trước bú hoặc sau bú ít nhất 1 giờ, và xác nhận mọi kết quả dương bằng nước tiểu (Salomè et al., 2026).",
+      "why_wrong": [
+        "Thời điểm lấy mẫu ảnh hưởng đến kết quả.",
+        "Chưa đủ thời gian; cần ít nhất 1 giờ.",
+        "Dễ dương tính giả do sữa mẹ.",
+        null
+      ]
+    },
+    {
+      "id": "h326dd823",
+      "type": "nho",
+      "section": "Trẻ sinh non",
+      "stem": "",
+      "lead": "So với cCMV, nhiễm CMV sau sinh ở trẻ sinh non khác biệt then chốt ở điểm nào?",
+      "options": [
+        "Nguy cơ vôi hóa quanh não thất cao hơn",
+        "Không có nguy cơ điếc tiếp nhận rõ rệt",
+        "Cần điều trị valganciclovir 6 tháng",
+        "Tỷ lệ tử vong cao hơn cCMV có triệu chứng"
+      ],
+      "answer": 1,
+      "explanation": "Đa số nghiên cứu không thấy tăng nguy cơ điếc vĩnh viễn ở nhiễm sau sinh, nên không cần chương trình theo dõi thính lực dày như cCMV.",
+      "why_wrong": [
+        "Vôi hóa quanh não thất là biểu hiện đặc trưng của cCMV.",
+        null,
+        "Quy tắc điều trị 6 tháng của cCMV không áp dụng cho nhiễm sau sinh.",
+        "Không được nêu trong bài."
+      ]
+    },
+    {
+      "id": "h47a31ff3",
+      "type": "lam-sang",
+      "section": "Trẻ sinh non",
+      "stem": "Bệnh nhân nam, 9 tuần tuổi, sinh 27 tuần, cân nặng lúc sinh 950 g, hiện 1800 g, bú sữa mẹ qua sonde.\nN7: PCR CMV nước tiểu âm tính.\nTuần 9: li bì, cơn ngưng thở, bụng chướng nhẹ, gan to.\nKhám: CRT 3 giây, SpO₂ 90% với oxy 2 L/phút.\nCận lâm sàng: tiểu cầu 45.000/mm³, ALT 210 U/L. Cấy máu âm tính. PCR CMV nước tiểu dương tính, PCR CMV máu 4,5 log₁₀ IU/mL.",
+      "lead": "Hướng điều trị phù hợp nhất là gì?",
+      "options": [
+        "Không dùng kháng virus, chỉ nâng đỡ",
+        "Ganciclovir TM 2 tuần rồi đánh giá lại",
+        "Valganciclovir uống 6 tuần",
+        "Valganciclovir uống 6 tháng"
+      ],
+      "answer": 1,
+      "explanation": "Trẻ sinh non, mẫu N7 âm tính, nay bệnh nặng (giống nhiễm trùng huyết, giảm tiểu cầu, viêm gan) kèm virus huyết, nên cân nhắc điều trị. AAP: ganciclovir TM 2 tuần rồi đánh giá lại, thêm 1–2 tuần nếu có lợi mà chưa hết triệu chứng.",
+      "why_wrong": [
+        "Bệnh nặng có virus huyết là chỉ định cân nhắc điều trị.",
+        null,
+        "Valganciclovir uống không phải lựa chọn hợp lý ở trẻ bệnh nặng.",
+        "Quy tắc 6 tháng của cCMV không áp dụng cho nhiễm sau sinh."
+      ]
+    },
+    {
+      "id": "he5392201",
+      "type": "lam-sang",
+      "section": "Trẻ sinh non",
+      "stem": "Bệnh nhân nữ, 2 tháng tuổi, sinh đủ tháng, 3100 g, bú mẹ hoàn toàn, khám sức khỏe định kỳ.\n3 ngày tuổi: PCR CMV nước bọt âm tính (sàng lọc).\n2 tháng: gia đình tự làm PCR CMV nước tiểu cho bé: dương tính. Mẹ có CMV IgG dương.\nKhám: bé tăng cân tốt, không vàng da, gan lách không to.\nCận lâm sàng: CTM, ALT bình thường.",
+      "lead": "Xử trí phù hợp nhất là gì?",
+      "options": [
+        "Đông lạnh sữa mẹ trước khi cho bú",
+        "Ngưng bú mẹ, chuyển sữa công thức",
+        "Valganciclovir uống trong 6 tuần",
+        "Tiếp tục bú mẹ, không cần kháng virus"
+      ],
+      "answer": 3,
+      "explanation": "Trẻ đủ tháng nhiễm CMV qua sữa mẹ thường không gây bệnh và hầu hết không cần điều trị; tiếp tục bú mẹ bình thường (AAP, 2024).",
+      "why_wrong": [
+        "Không khuyến cáo đông lạnh sữa chỉ để phòng CMV.",
+        "Trẻ đã nhiễm: lợi ích sữa mẹ vượt trội nguy cơ phơi nhiễm thêm.",
+        "Trẻ khỏe mạnh, không có chỉ định điều trị.",
+        null
+      ]
+    },
+    {
+      "id": "h743c6909",
+      "type": "lam-sang",
+      "section": "Trẻ sinh non",
+      "stem": "Bệnh nhân nữ, 11 tuần tuổi, sinh 29 tuần, hiện 2000 g, đang dùng ganciclovir TM 6 mg/kg mỗi 12 giờ (ngày 10) vì bệnh CMV sau sinh có virus huyết.\nNgày 7: ANC 480/mm³.\nNgày 10 (làm lại): ANC 450/mm³.\nKhám: tỉnh, bú qua sonde, không sốt.\nCận lâm sàng: tiểu cầu 110.000/mm³.",
+      "lead": "Xử trí phù hợp nhất với tình trạng giảm bạch cầu hạt là gì?",
+      "options": [
+        "Chuyển ngay sang valganciclovir uống",
+        "Ngưng hẳn kháng virus, không dùng lại",
+        "Giảm nửa liều, tiếp tục điều trị",
+        "Tạm ngưng thuốc đến khi ANC trên 750/mm³"
+      ],
+      "answer": 3,
+      "explanation": "ANC < 500 lặp lại: tạm ngưng thuốc đến khi ANC > 750, hoặc dùng G-CSF mỗi ngày một lần trong 1–3 ngày (AAP, 2024; Salomè et al., 2026).",
+      "why_wrong": [
+        "Không giải quyết giảm bạch cầu hạt; trẻ sinh non bệnh nặng không phù hợp valganciclovir uống.",
+        "Tạm ngưng rồi dùng lại khi ANC hồi phục.",
+        "Không phải cách xử trí được khuyến cáo.",
+        null
+      ]
+    },
+    {
+      "id": "hd892adab",
+      "type": "nho",
+      "section": "Trẻ miễn dịch bình thường",
+      "stem": "",
+      "lead": "Theo Tzialla et al. (2025), biểu hiện thường gặp nhất ở trẻ miễn dịch bình thường nhiễm CMV nguyên phát là gì?",
+      "options": [
+        "Viêm đại tràng",
+        "Viêm não",
+        "Tổn thương gan",
+        "Viêm phổi"
+      ],
+      "answer": 2,
+      "explanation": "Gan là biểu hiện thường gặp nhất, chiếm khoảng một nửa số ca nhiễm nguyên phát.",
+      "why_wrong": [
+        "Có gặp nhưng ít hơn tổn thương gan.",
+        "Chủ yếu ở nhũ nhi 4–6 tháng, ít gặp hơn tổn thương gan.",
+        null,
+        "Có gặp nhưng ít hơn tổn thương gan."
+      ]
+    },
+    {
+      "id": "hea069599",
+      "type": "nho",
+      "section": "Trẻ miễn dịch bình thường",
+      "stem": "",
+      "lead": "Bằng chứng ưu tiên nhất để chẩn đoán nhiễm CMV mới ở trẻ miễn dịch bình thường là gì?",
+      "options": [
+        "IgM dương trên một mẫu huyết thanh",
+        "Chuyển đảo hoặc tăng hiệu giá IgG",
+        "PCR CMV nước tiểu dương tính",
+        "PCR CMV định lượng máu dương tính"
+      ],
+      "answer": 1,
+      "explanation": "Thứ tự ưu tiên: (1) chuyển đảo huyết thanh IgG hoặc IgG tăng hiệu giá cách nhau ≥ 2 tuần; (2) IgM dương kèm IgG ái lực thấp; (3) IgM dương đơn độc chỉ là gợi ý.",
+      "why_wrong": [
+        "IgM đơn độc chỉ gợi ý; IgM có thể dương khi tái hoạt hoặc tái nhiễm.",
+        null,
+        "Trẻ nhỏ thải virus kéo dài; không chứng minh nhiễm mới.",
+        "PCR máu chỉ hỗ trợ; dương tính không nhất thiết phản ánh nhiễm hoạt động."
+      ]
+    },
+    {
+      "id": "hf2ddcc56",
+      "type": "nho",
+      "section": "Trẻ miễn dịch bình thường",
+      "stem": "",
+      "lead": "Hướng điều trị CMV ở trẻ miễn dịch bình thường là gì?",
+      "options": [
+        "Ganciclovir TM 2 tuần cho mọi ca có triệu chứng",
+        "Valganciclovir uống đến khi hết thải virus",
+        "Valganciclovir uống 6 tuần khi PCR máu dương",
+        "Nâng đỡ, kháng virus chỉ khi đe dọa tính mạng"
+      ],
+      "answer": 3,
+      "explanation": "Bệnh tự giới hạn; điều trị triệu chứng và nâng đỡ. Không có hướng dẫn chỉ định kháng virus; thực hành thường chỉ cân nhắc khi bệnh nặng đe dọa tính mạng (viêm não, viêm phổi nặng, viêm cơ tim).",
+      "why_wrong": [
+        "Phác đồ 2 tuần là của trẻ sinh non bệnh nặng.",
+        "Thuốc không loại bỏ được virus; thải virus kéo dài là bình thường.",
+        "PCR máu dương ở trẻ miễn dịch bình thường không nhất thiết là nhiễm hoạt động.",
+        null
+      ]
+    },
+    {
+      "id": "h0ac80245",
+      "type": "lam-sang",
+      "section": "Trẻ miễn dịch bình thường",
+      "stem": "Bệnh nhân nữ, 16 tuổi, 50 kg, đến khám vì sốt ngày 10.\nN1–N10: sốt 38–39 °C, mệt mỏi, đau họng nhẹ.\nKhám: hạch cổ nhỏ hai bên, gan 2 cm dưới bờ sườn, không vàng da.\nCận lâm sàng: lympho bào tăng, ALT 150 U/L. Monospot âm tính. CMV IgM dương tính, IgG ái lực thấp.",
+      "lead": "Chẩn đoán phù hợp nhất cho bệnh cảnh này là gì?",
+      "options": [
+        "Hội chứng giống tăng bạch cầu đơn nhân do CMV",
+        "Tái hoạt CMV, không liên quan bệnh cảnh",
+        "Viêm gan virus A cấp có ứ mật",
+        "Tăng bạch cầu đơn nhân nhiễm trùng do EBV"
+      ],
+      "answer": 0,
+      "explanation": "Vị thành niên sốt kéo dài, mệt, hạch cổ, viêm gan, monospot âm tính; IgM dương kèm IgG ái lực thấp là bằng chứng nhiễm CMV mới.",
+      "why_wrong": [
+        null,
+        "IgG ái lực thấp gợi ý nhiễm gần đây, không phải tái hoạt.",
+        "Bệnh cảnh và huyết thanh học hướng về CMV.",
+        "Monospot âm tính ở tuổi 16 không ủng hộ EBV; bằng chứng huyết thanh hướng về CMV."
+      ]
+    },
+    {
+      "id": "h88f87b08",
+      "type": "lam-sang",
+      "section": "Trẻ miễn dịch bình thường",
+      "stem": "Bệnh nhân nam, 6 tuần tuổi, sinh đủ tháng, 3000 g, đến khám vì vàng da kéo dài.\nTuần 2–6: vàng da tăng dần, phân màu nhạt.\nKhám: vàng da, gan 3 cm dưới bờ sườn, lách không to.\nCận lâm sàng: bilirubin toàn phần 9 mg/dL, trực tiếp 6,5 mg/dL; GGT tăng. PCR CMV nước tiểu dương tính. Không có mẫu sàng lọc lúc sinh.",
+      "lead": "Bước xử trí tiếp theo phù hợp nhất là gì?",
+      "options": [
+        "Chẩn đoán viêm gan CMV, theo dõi",
+        "Bắt đầu ganciclovir TM ngay",
+        "Valganciclovir uống trong 6 tháng",
+        "Khảo sát loại trừ teo đường mật"
+      ],
+      "answer": 3,
+      "explanation": "Nhũ nhi vàng da ứ mật có CMV dương: không dừng ở chẩn đoán \"viêm gan do CMV\" khi chưa loại trừ teo đường mật, vì kết quả phẫu thuật Kasai phụ thuộc thời gian.",
+      "why_wrong": [
+        "Có nguy cơ bỏ sót teo đường mật.",
+        "Chưa xác định ứ mật do CMV; cần loại trừ teo đường mật trước.",
+        "Không có chỉ định phác đồ cCMV; chưa xác định cCMV.",
+        null
+      ]
+    },
+    {
+      "id": "h58421d0d",
+      "type": "lam-sang",
+      "section": "Trẻ miễn dịch bình thường",
+      "stem": "Bệnh nhân nữ, 3 tuổi, 14 kg, đến khám vì sốt ngày 7 kèm hạch cổ.\nN1–N7: sốt, mệt, hạch cổ to dần.\nKhám: amiđan sưng, hạch cổ 1,5 cm hai bên, gan lách to nhẹ.\nCận lâm sàng: lympho bào không điển hình 15%, ALT 90 U/L. Monospot âm tính.",
+      "lead": "Xét nghiệm phù hợp nhất để đánh giá EBV ở trẻ này là gì?",
+      "options": [
+        "CMV IgG một mẫu huyết thanh",
+        "Làm lại monospot sau 1 tuần",
+        "PCR CMV nước tiểu định tính",
+        "Huyết thanh EBV đặc hiệu"
+      ],
+      "answer": 3,
+      "explanation": "Ở trẻ < 4 tuổi, kháng thể dị thể thường không xuất hiện ngay cả khi nhiễm EBV, nên monospot âm không loại trừ EBV. Cần huyết thanh EBV đặc hiệu (VCA IgM/IgG, EBNA).",
+      "why_wrong": [
+        "IgG dương chỉ cho biết đã từng nhiễm CMV.",
+        "Monospot vẫn không đáng tin ở trẻ dưới 4 tuổi.",
+        "Không đánh giá EBV; trẻ nhỏ thải CMV phổ biến.",
+        null
+      ]
+    },
+    {
+      "id": "hbffd1373",
+      "type": "nho",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "",
+      "lead": "Ở ghép tạng đặc, cặp huyết thanh người cho/người nhận nào có nguy cơ bệnh CMV cao nhất?",
+      "options": [
+        "D+/R−",
+        "D−/R+",
+        "D−/R−",
+        "D+/R+"
+      ],
+      "answer": 0,
+      "explanation": "Ở ghép tạng đặc, bệnh nặng dễ xảy ra hơn khi người nhận âm tính trước ghép; nguy cơ cao nhất là D+/R− (AAP, 2024; Kotton et al., 2025).",
+      "why_wrong": [
+        null,
+        "Đây là cặp nguy cơ cao nhất ở ghép tế bào gốc dị thân, không phải ghép tạng đặc.",
+        "Nguy cơ thấp nhất.",
+        "Nguy cơ thấp hơn D+/R−."
+      ]
+    },
+    {
+      "id": "h445377c6",
+      "type": "nho",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "",
+      "lead": "Ở ghép tế bào gốc tạo máu dị thân, cặp người cho/người nhận nào có nguy cơ bệnh CMV cao nhất?",
+      "options": [
+        "D−/R+",
+        "D+/R+",
+        "D+/R−",
+        "D−/R−"
+      ],
+      "answer": 0,
+      "explanation": "Ngược với ghép tạng đặc, người nhận dương tính nhận tế bào gốc từ người cho âm tính (D−/R+) có nguy cơ cao nhất, có lẽ vì mảnh ghép không mang miễn dịch với CMV (AAP, 2024).",
+      "why_wrong": [
+        null,
+        "Không phải cặp nguy cơ cao nhất.",
+        "Đây là cặp nguy cơ cao nhất ở ghép tạng đặc.",
+        "Nguy cơ thấp nhất."
+      ]
+    },
+    {
+      "id": "h34bb62bb",
+      "type": "nho",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "",
+      "lead": "Xét nghiệm trung tâm để chẩn đoán và theo dõi CMV ở trẻ suy giảm miễn dịch là gì?",
+      "options": [
+        "PCR CMV định lượng máu",
+        "PCR CMV nước tiểu định tính",
+        "Nuôi cấy CMV dịch tiết miệng",
+        "CMV IgM và IgG huyết thanh"
+      ],
+      "answer": 0,
+      "explanation": "PCR định lượng máu (chuẩn WHO, log₁₀ IU/mL) là trung tâm. Huyết thanh học, PCR nước tiểu, phân, dịch tiết miệng không được khuyến cáo để giám sát hay chẩn đoán bệnh CMV (Kotton et al., 2025).",
+      "why_wrong": [
+        null,
+        "Không được khuyến cáo để giám sát hay chẩn đoán ở trẻ ghép.",
+        "Không được khuyến cáo; tải lượng dịch tiết chưa chuẩn hóa.",
+        "Phần lớn trẻ đã có IgG do nhiễm trước hoặc truyền chế phẩm máu; không chẩn đoán được nhiễm hoạt động."
+      ]
+    },
+    {
+      "id": "ha0611de5",
+      "type": "nho",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "",
+      "lead": "Thời gian điều trị CMV ở trẻ suy giảm miễn dịch là bao lâu?",
+      "options": [
+        "Đến khi hết DNAemia, tối thiểu 2 tuần",
+        "Cố định 6 tháng như phác đồ cCMV",
+        "Đến khi PCR nước tiểu âm tính",
+        "Cố định 6 tuần, không phụ thuộc tải lượng"
+      ],
+      "answer": 0,
+      "explanation": "Điều trị đến khi hết DNAemia, tối thiểu 2 tuần (Kotton et al., 2025), theo dõi PCR định lượng máu hằng tuần.",
+      "why_wrong": [
+        null,
+        "Quy tắc của cCMV không áp dụng.",
+        "PCR nước tiểu không dùng để theo dõi ở trẻ suy giảm miễn dịch.",
+        "Thời gian dựa trên đáp ứng tải lượng máu, không cố định."
+      ]
+    },
+    {
+      "id": "hee4cda7f",
+      "type": "nho",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "",
+      "lead": "Đột biến ở gen nào liên quan đến kháng letermovir?",
+      "options": [
+        "UL83",
+        "UL56",
+        "UL54",
+        "UL97"
+      ],
+      "answer": 1,
+      "explanation": "UL97: kháng ganciclovir; UL54 (DNA polymerase): ganciclovir, foscarnet, cidofovir; UL56: letermovir.",
+      "why_wrong": [
+        "Không được nêu trong bài là gen kháng thuốc.",
+        null,
+        "Liên quan kháng ganciclovir, foscarnet, cidofovir.",
+        "Liên quan kháng ganciclovir."
+      ]
+    },
+    {
+      "id": "h8d4d6f68",
+      "type": "nho",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "",
+      "lead": "Công thức tính liều valganciclovir uống ở trẻ em suy giảm miễn dịch là gì?",
+      "options": [
+        "Liều (mg) = 7 × BSA × CrCl",
+        "Liều (mg) = 16 × cân nặng (kg)",
+        "Liều (mg) = 7 × cân nặng × CrCl",
+        "Liều (mg) = 900 × BSA / 1,73"
+      ],
+      "answer": 0,
+      "explanation": "Trẻ em: liều (mg) = 7 × BSA × CrCl (CrCl theo Schwartz); công thức đã tự tính đến chức năng thận (Vaudry et al., 2009).",
+      "why_wrong": [
+        null,
+        "16 mg/kg mỗi 12 giờ là liều cho sơ sinh, nhũ nhi cCMV.",
+        "Công thức dùng diện tích da, không dùng cân nặng.",
+        "900 mg mỗi 12 giờ là liều người lớn."
+      ]
+    },
+    {
+      "id": "h18278630",
+      "type": "lam-sang",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "Bệnh nhân nam, 12 tuổi, 35 kg, ghép tế bào gốc dị thân 6 tuần, đang dùng ganciclovir TM đúng liều theo chức năng thận vì DNAemia.\nNgày 0: PCR CMV máu 4,2 log₁₀ IU/mL.\nNgày 7: 4,4 log₁₀ IU/mL.\nNgày 15: 4,9 log₁₀ IU/mL.\nKhám: sốt nhẹ, chưa có triệu chứng cơ quan.\nCận lâm sàng: creatinine ổn định. Cùng loại mẫu, cùng phòng xét nghiệm.",
+      "lead": "Bước tiếp theo phù hợp nhất là gì?",
+      "options": [
+        "Chuyển sang valganciclovir uống",
+        "Thêm CMVIG và giữ nguyên ganciclovir",
+        "Xét nghiệm đột biến kháng thuốc UL97/UL54",
+        "Tiếp tục ganciclovir thêm 2 tuần rồi đánh giá"
+      ],
+      "answer": 2,
+      "explanation": "DNAemia tăng sau ≥ 2 tuần điều trị đúng liều (đã kiểm tra liều theo thận): nghi trơ với điều trị. Cần xét nghiệm đột biến kháng thuốc, đồng thời giảm ức chế miễn dịch nếu có thể và tìm nguyên nhân khác.",
+      "why_wrong": [
+        "Valganciclovir chuyển thành ganciclovir; không giải quyết nghi kháng thuốc.",
+        "CMVIG không phải hướng xử trí cho nghi kháng thuốc.",
+        null,
+        "Đã đủ 2 tuần không đáp ứng; tiếp tục chờ sẽ trì hoãn xử trí."
+      ]
+    },
+    {
+      "id": "hca75e3c0",
+      "type": "lam-sang",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "Bệnh nhân nữ, 8 tuổi, 24 kg, ghép thận 3 tháng, điều trị đón đầu bằng valganciclovir uống liều theo BSA × CrCl.\nNgày 0: PCR CMV máu 4,0 log₁₀ IU/mL.\nNgày 7: 4,2 log₁₀ IU/mL (cùng loại mẫu, cùng phòng xét nghiệm).\nKhám: không sốt, không triệu chứng.\nCận lâm sàng: creatinine ổn định, ANC bình thường.",
+      "lead": "Xử trí phù hợp nhất lúc này là gì?",
+      "options": [
+        "Ngưng thuốc vì không đáp ứng",
+        "Xét nghiệm đột biến kháng thuốc ngay",
+        "Tiếp tục điều trị, theo dõi PCR hằng tuần",
+        "Chuyển sang foscarnet vì nghi kháng thuốc"
+      ],
+      "answer": 2,
+      "explanation": "Trong 1–2 tuần đầu, tải lượng có thể chưa giảm dù điều trị đúng. Thay đổi 0,2 log chưa có ý nghĩa (< 0,5 log). Không nghi kháng thuốc quá sớm; tiếp tục và theo dõi PCR hằng tuần.",
+      "why_wrong": [
+        "Quá sớm để kết luận không đáp ứng.",
+        "Nghi trơ khi không giảm hoặc tăng sau ít nhất 2 tuần điều trị đúng liều.",
+        null,
+        "Chưa đủ tiêu chuẩn nghi kháng; foscarnet độc thận."
+      ]
+    },
+    {
+      "id": "h67d3a93c",
+      "type": "lam-sang",
+      "section": "Trẻ suy giảm miễn dịch",
+      "stem": "Bệnh nhân nam, 4 tuổi, 15 kg, nhiễm HIV, viêm võng mạc CMV cách đây 10 tháng, đã điều trị tấn công rồi duy trì valganciclovir.\nARV từ 9 tháng nay, tải lượng HIV dưới ngưỡng phát hiện.\nCD4%: 8% (9 tháng trước), 16% (7 tháng trước), 19% (hiện tại); ổn định trên 15% suốt 7 tháng.\nKhám: thị lực ổn định. Đã hội chẩn nhãn khoa: tổn thương võng mạc không hoạt động.",
+      "lead": "Quyết định phù hợp nhất về điều trị duy trì CMV là gì?",
+      "options": [
+        "Có thể cân nhắc ngưng điều trị duy trì",
+        "Chỉ ngưng khi CD4% trên 25%",
+        "Duy trì suốt đời vì đã viêm võng mạc",
+        "Ngưng ngay và không cần khám mắt thêm"
+      ],
+      "answer": 0,
+      "explanation": "Đủ điều kiện ngưng dự phòng thứ phát (Panel OI, 2023): ARV ≥ 6 tháng; CD4% ≥ 15% ổn định > 6 tháng ở trẻ < 6 tuổi; đã hội chẩn nhãn khoa. Sau ngưng vẫn khám mắt mỗi 3–6 tháng.",
+      "why_wrong": [
+        null,
+        "Ngưỡng cho trẻ < 6 tuổi là CD4% ≥ 15%.",
+        "Dự phòng thứ phát kéo dài đến khi miễn dịch phục hồi, không nhất thiết suốt đời.",
+        "Sau ngưng vẫn cần khám mắt mỗi 3–6 tháng để phát hiện tái phát và viêm màng bồ đào do phục hồi miễn dịch."
+      ]
+    },
+    {
+      "id": "h2134f697",
+      "type": "nho",
+      "section": "Thuốc kháng virus",
+      "stem": "",
+      "lead": "Không dùng ganciclovir khi ANC dưới ngưỡng nào?",
+      "options": [
+        "Dưới 500/µL",
+        "Dưới 250/µL",
+        "Dưới 1500/µL",
+        "Dưới 1000/µL"
+      ],
+      "answer": 0,
+      "explanation": "Cảnh báo đóng khung: không dùng ganciclovir khi ANC < 500/µL hoặc tiểu cầu < 25.000/µL (Phelps et al., 2013).",
+      "why_wrong": [
+        null,
+        "Thấp hơn ngưỡng chống chỉ định.",
+        "Cao hơn ngưỡng chống chỉ định.",
+        "Cao hơn ngưỡng chống chỉ định."
+      ]
+    },
+    {
+      "id": "hf2336ab8",
+      "type": "nho",
+      "section": "Thuốc kháng virus",
+      "stem": "",
+      "lead": "Nồng độ tối đa khi pha loãng ganciclovir để truyền tĩnh mạch là bao nhiêu?",
+      "options": [
+        "1 mg/mL",
+        "10 mg/mL",
+        "50 mg/mL",
+        "100 mg/mL"
+      ],
+      "answer": 1,
+      "explanation": "Nồng độ tối đa 10 mg/mL, truyền ngắt quãng trong 1 giờ (Phelps et al., 2013).",
+      "why_wrong": [
+        "Thấp hơn nồng độ tối đa cho phép.",
+        null,
+        "Vượt nồng độ tối đa.",
+        "Vượt nhiều lần nồng độ tối đa."
+      ]
+    },
+    {
+      "id": "h71a6111a",
+      "type": "nho",
+      "section": "Thuốc kháng virus",
+      "stem": "",
+      "lead": "Vì sao không dùng nước cất kìm khuẩn để hoàn nguyên ganciclovir?",
+      "options": [
+        "Paraben trong dung môi gây tủa thuốc",
+        "Làm giảm pH dung dịch xuống dưới 7",
+        "Làm thuốc mất hoạt tính sau 1 giờ",
+        "Gây độc thận khi truyền liều cao"
+      ],
+      "answer": 0,
+      "explanation": "Hoàn nguyên lọ 500 mg bằng 10 mL nước cất pha tiêm; không dùng nước cất kìm khuẩn chứa paraben vì gây tủa (Phelps et al., 2013).",
+      "why_wrong": [
+        null,
+        "Không phải lý do được nêu; dung dịch hoàn nguyên có pH 11.",
+        "Không phải lý do được nêu.",
+        "Không phải lý do được nêu."
+      ]
+    },
+    {
+      "id": "hb2ae2ec4",
+      "type": "lam-sang",
+      "section": "Thuốc kháng virus",
+      "stem": "Bệnh nhân nữ, 14 tuổi, 40 kg, ghép gan 2 tháng, nhập viện vì viêm đại tràng CMV (sinh thiết xác định), cần ganciclovir TM tấn công.\nKhám: tỉnh, tiêu phân lỏng 6 lần/ngày.\nCận lâm sàng: CrCl ước tính 55 mL/phút. PCR CMV máu 4,8 log₁₀ IU/mL.",
+      "lead": "Liều ganciclovir tấn công phù hợp nhất là bao nhiêu?",
+      "options": [
+        "1,25 mg/kg mỗi 24 giờ",
+        "2,5 mg/kg mỗi 12 giờ",
+        "5 mg/kg mỗi 12 giờ",
+        "2,5 mg/kg mỗi 24 giờ"
+      ],
+      "answer": 1,
+      "explanation": "Theo nhãn thuốc, CrCl 50–69 mL/phút: liều tấn công 2,5 mg/kg mỗi 12 giờ, duy trì 2,5 mg/kg mỗi 24 giờ.",
+      "why_wrong": [
+        "Liều cho CrCl 10–24 mL/phút.",
+        null,
+        "Liều cho CrCl ≥ 70 mL/phút.",
+        "Liều cho CrCl 25–49 mL/phút."
+      ]
+    },
+    {
+      "id": "hfaed2f82",
+      "type": "lam-sang",
+      "section": "Thuốc kháng virus",
+      "stem": "Bệnh nhân nam, 6 tuần tuổi, sinh 30 tuần, 1600 g, cần ganciclovir TM vì bệnh CMV sau sinh nặng, dự kiến điều trị ít nhất 2 tuần.\nKhám: chỉ có đường truyền ngoại biên ở mu bàn tay, tĩnh mạch nhỏ.",
+      "lead": "Cách truyền ganciclovir phù hợp nhất là gì?",
+      "options": [
+        "Tiêm TM chậm qua đường ngoại biên",
+        "Đặt PICC, truyền ngắt quãng trong 1 giờ",
+        "Tiêm bắp khi không có đường truyền",
+        "Truyền liên tục 24 giờ qua ngoại biên"
+      ],
+      "answer": 1,
+      "explanation": "Ganciclovir có pH 11, gây viêm tĩnh mạch, loét, hoại tử khi thoát mạch; nên truyền qua đường trung tâm hoặc PICC, truyền ngắt quãng trong 1 giờ. Chống chỉ định tiêm TM trực tiếp, tiêm bắp, tiêm dưới da.",
+      "why_wrong": [
+        "Chống chỉ định tiêm tĩnh mạch trực tiếp.",
+        null,
+        "Không tiêm bắp do kích ứng mô nặng.",
+        "Chưa có dữ liệu truyền liên tục; tĩnh mạch nhỏ dễ thoát mạch."
+      ]
+    },
+    {
+      "id": "h0e12f91e",
+      "type": "nho",
+      "section": "Phòng ngừa và kiểm soát nhiễm khuẩn",
+      "stem": "",
+      "lead": "Thông số của phương pháp thanh trùng Holder đối với sữa hiến tặng là gì?",
+      "options": [
+        "100 °C trong 5 phút",
+        "62,5 °C trong 30 phút",
+        "56 °C trong 60 phút",
+        "72 °C trong 15 giây"
+      ],
+      "answer": 1,
+      "explanation": "Thanh trùng Holder 62,5 °C trong 30 phút; thanh trùng ngắn hạn 72 °C trong 15 giây. Cả hai đều có vẻ bất hoạt được CMV (AAP, 2024).",
+      "why_wrong": [
+        "Không phải thông số trong bài.",
+        null,
+        "Không phải thông số trong bài.",
+        "Đây là thanh trùng ngắn hạn, không phải Holder."
+      ]
+    },
+    {
+      "id": "h6c85a762",
+      "type": "nho",
+      "section": "Phòng ngừa và kiểm soát nhiễm khuẩn",
+      "stem": "",
+      "lead": "Biện pháp nào gần như loại bỏ lây CMV qua truyền máu ở trẻ sơ sinh?",
+      "options": [
+        "Chiếu xạ khối hồng cầu trước truyền",
+        "Dùng máu dự trữ trên 14 ngày",
+        "Máu âm tính CMV và đã lọc bạch cầu",
+        "Truyền IVIG trước mỗi lần truyền máu"
+      ],
+      "answer": 2,
+      "explanation": "Lây CMV qua truyền máu cho sơ sinh và người suy giảm miễn dịch gần như đã được loại bỏ nhờ máu từ người cho âm tính kháng thể CMV và chế phẩm đã lọc bạch cầu (AAP, 2024).",
+      "why_wrong": [
+        "Không phải biện pháp được nêu trong bài.",
+        "Không phải biện pháp được nêu trong bài.",
+        null,
+        "Không phải biện pháp được nêu trong bài."
+      ]
+    },
+    {
+      "id": "ha247db4f",
+      "type": "lam-sang",
+      "section": "Phòng ngừa và kiểm soát nhiễm khuẩn",
+      "stem": "Mẹ của bệnh nhân nam 3 tuần tuổi, sinh 28 tuần, 1100 g, đang nằm khoa sơ sinh, bú sữa mẹ vắt qua sonde.\nMẹ có CMV IgG dương tính.\nBé: PCR CMV nước tiểu N5 âm tính, hiện ổn định.\nMẹ hỏi có nên đông lạnh sữa ở −20 °C trước khi cho bé bú để phòng lây CMV.",
+      "lead": "Tư vấn phù hợp nhất theo AAP (2024) là gì?",
+      "options": [
+        "Không cần đông lạnh chỉ để phòng CMV",
+        "Nên đông lạnh vì bất hoạt hoàn toàn CMV",
+        "Nên ngưng sữa mẹ, chuyển sữa công thức",
+        "Nên đông lạnh vì giảm hẳn nguy cơ CMV-SLS"
+      ],
+      "answer": 0,
+      "explanation": "AAP không khuyến cáo đông lạnh sữa ở −20 °C chỉ để giảm lây CMV: có thể giảm tải lượng nhưng không thay đổi nguy cơ CMV-SLS (5% so với 4%), và làm giảm hoạt tính sinh học của sữa.",
+      "why_wrong": [
+        null,
+        "Đông lạnh không bất hoạt hoàn toàn CMV.",
+        "Không có khuyến cáo ngưng sữa mẹ ruột.",
+        "Tỷ lệ CMV-SLS với sữa đông lạnh 5%, không thấp hơn sữa chưa xử lý (4%)."
+      ]
+    },
+    {
+      "id": "h7a6f4b5a",
+      "type": "lam-sang",
+      "section": "Phòng ngừa và kiểm soát nhiễm khuẩn",
+      "stem": "Điều dưỡng nữ, 28 tuổi, đang mang thai 12 tuần, được phân công chăm sóc bệnh nhân nam 3 tháng tuổi, sinh non, đang điều trị bệnh CMV sau sinh.\nĐiều dưỡng hỏi có cần đổi phân công hoặc dùng biện pháp cách ly đặc biệt không.",
+      "lead": "Tư vấn phù hợp nhất là gì?",
+      "options": [
+        "Phòng ngừa chuẩn là đủ, chú ý vệ sinh tay",
+        "Cần phòng riêng và phòng ngừa giọt bắn",
+        "Cần đeo khẩu trang N95 khi chăm sóc",
+        "Phải đổi phân công trong suốt thai kỳ"
+      ],
+      "answer": 0,
+      "explanation": "Khi người mang thai (kể cả nhân viên y tế) tiếp xúc bệnh nhân nhiễm CMV có biểu hiện lâm sàng, phòng ngừa chuẩn vẫn đủ để ngăn lây truyền (AAP, 2024). Nhấn mạnh vệ sinh tay sau tiếp xúc tã, nước tiểu, nước bọt.",
+      "why_wrong": [
+        null,
+        "Không cần cách ly với CMV.",
+        "CMV không lây qua không khí.",
+        "Không cần; phòng ngừa chuẩn là đủ."
+      ]
+    }
+  ],
+  "updated": "2026-10-31"
+}
