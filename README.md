@@ -18,7 +18,7 @@ App ôn bài bằng câu hỏi trắc nghiệm (MCQ), chạy trên điện tho�
 │   └── lessons/<id>.json             # mỗi bài một file
 └── tools/                            # script Python 3, không cần cài thêm thư viện
     ├── validate_mcq.py               # kiểm tra file bài học
-    ├── publish.py                    # kiểm tra + chuẩn hoá + ghi vào data/ + dựng danh mục
+    ├── publish.py                    # kiểm tra + chuẩn hoá + ghi vào data / + dựng danh mục
     ├── render_review.py              # tạo trang HTML duyệt đề
     ├── merge_parts.py                # ghép bài dài soạn theo từng phần
     └── build_catalog.py              # dựng lại data/catalog.json
