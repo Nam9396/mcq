@@ -1,0 +1,1489 @@
+{
+  "id": "giang-mai-bam-sinh",
+  "title": "Giang mai bẩm sinh",
+  "topic": "Truyền nhiễm",
+  "updated": "2026-11-05",
+  "source": "giang-mai-bam-sinh.md",
+  "sections": [
+    "Dịch tễ và lây truyền",
+    "Lâm sàng giang mai bẩm sinh sớm",
+    "Giang mai bẩm sinh muộn",
+    "Xét nghiệm huyết thanh và chẩn đoán",
+    "Đánh giá trẻ nghi ngờ",
+    "Điều trị dự phòng ở mẹ",
+    "Điều trị giang mai bẩm sinh",
+    "Theo dõi sau điều trị"
+  ],
+  "questions": [
+    {
+      "id": "h63ad36af",
+      "type": "nho",
+      "section": "Dịch tễ và lây truyền",
+      "stem": "",
+      "lead": "Con đường lây truyền giang mai bẩm sinh phổ biến nhất là gì?",
+      "options": [
+        "Qua nhau thai trong tử cung",
+        "Qua tiếp xúc da sau sinh",
+        "Qua ống sinh khi chuyển dạ",
+        "Qua sữa mẹ khi cho bú"
+      ],
+      "answer": 0,
+      "explanation": "Xoắn khuẩn trong máu mẹ xuyên qua hàng rào nhau thai vào tuần hoàn thai nhi; đây là con đường phổ biến nhất.",
+      "why_wrong": [
+        null,
+        "Không phải con đường lây chính được mô tả trong bài.",
+        "Có xảy ra khi mẹ có săng ở đường sinh dục nhưng ít gặp hơn đường nhau thai.",
+        "Bài không nêu sữa mẹ là con đường lây chính."
+      ]
+    },
+    {
+      "id": "h7e4d630d",
+      "type": "nho",
+      "section": "Dịch tễ và lây truyền",
+      "stem": "",
+      "lead": "Nguy cơ lây truyền giang mai qua nhau thai thay đổi thế nào theo tuổi thai?",
+      "options": [
+        "Tăng dần khi tuổi thai càng lớn",
+        "Chỉ xảy ra sau tuần thứ 20",
+        "Không thay đổi theo tuổi thai",
+        "Cao nhất trong 3 tháng đầu"
+      ],
+      "answer": 0,
+      "explanation": "Lây truyền có thể xảy ra ở bất kỳ tháng nào, nhưng nguy cơ tăng dần khi tuổi thai lớn do nhau thai mỏng đi và lưu lượng máu tăng.",
+      "why_wrong": [
+        null,
+        "Lây truyền có thể xảy ra ở bất kỳ tháng nào của thai kỳ.",
+        "Nguy cơ có thay đổi, tăng dần theo tuổi thai.",
+        "Ngược với bài: nguy cơ tăng theo tuổi thai."
+      ]
+    },
+    {
+      "id": "hf9acbafc",
+      "type": "nho",
+      "section": "Dịch tễ và lây truyền",
+      "stem": "",
+      "lead": "Theo nghiên cứu tại BV Nhi Trung ương (2018–2021), bao nhiêu bà mẹ có con mắc giang mai bẩm sinh không biết mình mắc bệnh?",
+      "options": [
+        "51,9%",
+        "31,9%",
+        "15,9%",
+        "71,9%"
+      ],
+      "answer": 0,
+      "explanation": "51,9% bà mẹ có con mắc giang mai bẩm sinh không biết tình trạng bệnh của mình trước đó.",
+      "why_wrong": [
+        null,
+        "Thấp hơn số liệu trong bài.",
+        "Thấp hơn nhiều so với số liệu trong bài.",
+        "Cao hơn số liệu trong bài."
+      ]
+    },
+    {
+      "id": "h4b1f0717",
+      "type": "nho",
+      "section": "Dịch tễ và lây truyền",
+      "stem": "",
+      "lead": "Tỷ lệ tử vong ở trẻ sơ sinh mắc giang mai bẩm sinh tại các tuyến trung ương Việt Nam khoảng bao nhiêu?",
+      "options": [
+        "13,7%",
+        "3,7%",
+        "33,7%",
+        "23,7%"
+      ],
+      "answer": 0,
+      "explanation": "Tỷ lệ tử vong được ghi nhận khoảng 13,7% tại các tuyến trung ương.",
+      "why_wrong": [
+        null,
+        "Thấp hơn số liệu trong bài.",
+        "Cao hơn nhiều so với số liệu trong bài.",
+        "Cao hơn số liệu trong bài."
+      ]
+    },
+    {
+      "id": "h2521b78d",
+      "type": "nho",
+      "section": "Dịch tễ và lây truyền",
+      "stem": "",
+      "lead": "Tỷ lệ mới mắc giang mai bẩm sinh tại Hoa Kỳ năm 2023 khoảng bao nhiêu?",
+      "options": [
+        "106 ca/100.000 trẻ đẻ sống",
+        "10,6 ca/100.000 trẻ đẻ sống",
+        "106 ca/10.000 trẻ đẻ sống",
+        "1,06 ca/100.000 trẻ đẻ sống"
+      ],
+      "answer": 0,
+      "explanation": "Năm 2023 tỷ lệ đạt mức kỷ lục 106/100.000 trẻ đẻ sống, tăng hơn 700% so với một thập kỷ trước.",
+      "why_wrong": [
+        null,
+        "Thấp hơn 10 lần số liệu trong bài.",
+        "Cao hơn 10 lần số liệu trong bài.",
+        "Thấp hơn 100 lần số liệu trong bài."
+      ]
+    },
+    {
+      "id": "h2ed200bc",
+      "type": "nho",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "",
+      "lead": "Giang mai bẩm sinh sớm được định nghĩa là các biểu hiện xuất hiện trước bao nhiêu tuổi?",
+      "options": [
+        "1 tuổi",
+        "3 tháng tuổi",
+        "2 tuổi",
+        "5 tuổi"
+      ],
+      "answer": 2,
+      "explanation": "Giang mai bẩm sinh sớm là biểu hiện xuất hiện trước 2 tuổi; sau 2 tuổi là giang mai bẩm sinh muộn.",
+      "why_wrong": [
+        "Mốc phân chia trong bài là 2 tuổi, không phải 1 tuổi.",
+        "3 tháng là thời điểm khởi phát thường gặp, không phải mốc định nghĩa.",
+        null,
+        "Mốc 5 tuổi không được dùng để phân loại."
+      ]
+    },
+    {
+      "id": "hc18e3126",
+      "type": "nho",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "",
+      "lead": "Tỷ lệ trẻ sơ sinh mắc giang mai bẩm sinh không có triệu chứng tại thời điểm sinh là bao nhiêu?",
+      "options": [
+        "10–30%",
+        "30–50%",
+        "60–90%",
+        "95–100%"
+      ],
+      "answer": 2,
+      "explanation": "60–90% trẻ không có triệu chứng lúc sinh, nên không thể dựa vào lâm sàng để loại trừ.",
+      "why_wrong": [
+        "Thấp hơn nhiều so với bài.",
+        "Thấp hơn so với bài.",
+        null,
+        "Quá cao; vẫn có một tỷ lệ trẻ có triệu chứng lúc sinh."
+      ]
+    },
+    {
+      "id": "h0cbdf71b",
+      "type": "nho",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "",
+      "lead": "Hình ảnh dây rốn \"cột đèn thợ cắt tóc\" (barber's pole) trong giang mai bẩm sinh tương ứng với tổn thương nào?",
+      "options": [
+        "Viêm dây rốn hoại tử",
+        "Dây rốn một động mạch",
+        "Dây rốn bám màng",
+        "Thắt nút thật dây rốn"
+      ],
+      "answer": 0,
+      "explanation": "Dây rốn phù nề với dải đỏ, xanh lơ xen vệt trắng phấn là hình ảnh của viêm dây rốn hoại tử (necrotizing funisitis).",
+      "why_wrong": [
+        null,
+        "Là bất thường giải phẫu bẩm sinh, không do nhiễm trùng.",
+        "Là bất thường vị trí bám, không liên quan giang mai.",
+        "Là bất thường cơ học, không liên quan nhiễm xoắn khuẩn."
+      ]
+    },
+    {
+      "id": "h11560832",
+      "type": "nho",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "",
+      "lead": "Sờ thấy hạch ở vị trí nào ở trẻ sơ sinh gợi ý rất cao giang mai bẩm sinh?",
+      "options": [
+        "Hạch nách một bên",
+        "Hạch cổ hai bên",
+        "Hạch bẹn hai bên",
+        "Hạch trên ròng rọc"
+      ],
+      "answer": 3,
+      "explanation": "Hạch trên ròng rọc (epitrochlear) sờ thấy ở trẻ sơ sinh là dấu hiệu đặc trưng, gợi ý rất cao giang mai bẩm sinh.",
+      "why_wrong": [
+        "Hạch nách một bên gợi ý nguyên nhân tại chỗ.",
+        "Hạch cổ có thể gặp trong hạch toàn thân nhưng không đặc trưng.",
+        "Hạch bẹn ít giá trị gợi ý đặc hiệu.",
+        null
+      ]
+    },
+    {
+      "id": "h909aab6a",
+      "type": "nho",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "",
+      "lead": "Liệt giả Parrot trong giang mai bẩm sinh là do cơ chế nào?",
+      "options": [
+        "Xuất huyết não do giảm tiểu cầu",
+        "Tổn thương đám rối thần kinh cánh tay",
+        "Viêm màng xương gây đau khi cử động chi",
+        "Viêm tủy sống do xoắn khuẩn xâm nhập"
+      ],
+      "answer": 2,
+      "explanation": "Viêm màng xương gây đau khiến trẻ không cử động chi, tạo hình ảnh giả liệt (liệt giả Parrot).",
+      "why_wrong": [
+        "Không phải cơ chế; trẻ không liệt thật mà hạn chế cử động do đau.",
+        "Là nguyên nhân liệt do sang chấn sản khoa, không phải cơ chế của liệt giả Parrot.",
+        null,
+        "Không phải cơ chế; tổn thương nằm ở xương."
+      ]
+    },
+    {
+      "id": "h5f6f667d",
+      "type": "nho",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "",
+      "lead": "Hình ảnh X-quang phổi kinh điển của viêm phổi do giang mai bẩm sinh là gì?",
+      "options": [
+        "Đông đặc thùy trên phải",
+        "Phổi trắng (pneumonia alba)",
+        "Phổi tăng sáng hai bên",
+        "Tràn khí màng phổi hai bên"
+      ],
+      "answer": 1,
+      "explanation": "Pneumonia alba: mờ hoàn toàn cả hai phế trường, hình ảnh kinh điển của viêm phổi do giang mai bẩm sinh.",
+      "why_wrong": [
+        "Đông đặc khu trú một thùy gợi ý viêm phổi vi khuẩn thông thường.",
+        null,
+        "Tăng sáng không phải hình ảnh của viêm phổi giang mai.",
+        "Tràn khí không phải biểu hiện đặc trưng."
+      ]
+    },
+    {
+      "id": "ha6e90d14",
+      "type": "nho",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "",
+      "lead": "Dấu hiệu Wimberger trên X-quang xương là gì?",
+      "options": [
+        "Gãy nhiều xương sườn ở các giai đoạn lành khác nhau",
+        "Bong màng xương đơn độc ở thân xương cánh tay",
+        "Khuyết xương đối xứng bờ trong hành xương chày gần",
+        "Dải đặc xương ở hành xương đùi đoạn xa"
+      ],
+      "answer": 2,
+      "explanation": "Wimberger là khử khoáng và phá hủy xương khu trú, đối xứng ở phần trong hành xương chày gần.",
+      "why_wrong": [
+        "Gợi ý bạo hành trẻ em, không phải dấu hiệu Wimberger.",
+        "Viêm màng xương trong giang mai thường đối xứng, đa xương, không đơn độc.",
+        null,
+        "Không phải mô tả của Wimberger; bài nêu dải thấu quang chứ không phải dải đặc."
+      ]
+    },
+    {
+      "id": "h98f9f4fd",
+      "type": "lam-sang",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "Bệnh nhi nam, 5 tuần tuổi, 3,8 kg, đến khám vì chảy mũi kéo dài.\nTuần 1–2: chảy mũi dịch trắng, có lúc lẫn máu, không sốt.\nTuần 4: nổi ban sẩn hồng ở lưng, mông, lòng bàn tay, bàn chân, sau đó bong vảy.\nTiền căn: mẹ không khám thai.\nKhám: tỉnh. Mạch 140 lần/phút, nhịp thở 42 lần/phút, nhiệt độ 37,2 °C. Gan 3 cm dưới bờ sườn, lách mấp mé. Vàng da nhẹ.",
+      "lead": "Chẩn đoán phù hợp nhất là gì?",
+      "options": [
+        "Nhiễm Rubella bẩm sinh",
+        "Nhiễm CMV bẩm sinh",
+        "Viêm mũi họng virus kèm chàm",
+        "Giang mai bẩm sinh sớm"
+      ],
+      "answer": 3,
+      "explanation": "Viêm mũi (snuffles) dịch lẫn máu kéo dài, ban lòng bàn tay chân bong vảy xuất hiện sau viêm mũi, gan lách to, mẹ không khám thai là bệnh cảnh điển hình.",
+      "why_wrong": [
+        "Thường có đục thủy tinh thể, tim bẩm sinh, không có viêm mũi kéo dài.",
+        "Có thể gan lách to, vàng da nhưng không gây viêm mũi kéo dài và ban lòng bàn tay chân bong vảy.",
+        "Không giải thích được gan lách to và ban lòng bàn tay chân.",
+        null
+      ]
+    },
+    {
+      "id": "hb3a73968",
+      "type": "lam-sang",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "Bệnh nhi nữ, 2 tháng tuổi, 4,5 kg, đến khám vì không cử động tay trái.\nSinh thường, đủ tháng, không sang chấn sản khoa.\n3 ngày nay: không cử động tay trái, khóc thét khi bế hoặc chạm vào tay.\nTiền căn: mẹ có RPR (+) lúc sinh, chưa điều trị.\nKhám: tỉnh, quấy. Nhiệt độ 37,5 °C. Tay trái không cử động chủ động, đau khi vận động thụ động. Gan 2 cm dưới bờ sườn.\nX-quang: viêm màng xương thân xương cánh tay và xương đùi hai bên, dải thấu quang vùng hành xương.",
+      "lead": "Nguyên nhân giảm cử động tay trái phù hợp nhất là gì?",
+      "options": [
+        "Gãy xương do bạo hành trẻ em",
+        "Viêm xương tủy do tụ cầu vàng",
+        "Giả liệt do viêm xương giang mai",
+        "Liệt đám rối cánh tay do sinh khó"
+      ],
+      "answer": 2,
+      "explanation": "Tổn thương xương đối xứng, đa xương (viêm màng xương, dải thấu quang hành xương) cùng mẹ RPR (+) chưa điều trị gợi ý liệt giả Parrot.",
+      "why_wrong": [
+        "Tổn thương đối xứng, đa xương kiểu viêm màng xương phù hợp giang mai hơn.",
+        "Viêm xương tủy thường khu trú một xương, sốt cao, không đối xứng hai bên.",
+        null,
+        "Không có sang chấn sản khoa và trẻ đau khi chạm, không phải liệt thật."
+      ]
+    },
+    {
+      "id": "hbd48c981",
+      "type": "lam-sang",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "Bệnh nhi nam, 3 tháng tuổi, 5,5 kg, nhập viện vì nôn.\nN1–N2: bú kém, nôn sau bú, quấy khóc.\nN3: thóp phồng, nôn nhiều hơn.\nTiền căn: mẹ có giang mai trong thai kỳ, không điều trị.\nKhám: lừ đừ. Mạch 150 lần/phút, nhiệt độ 37,8 °C. Thóp trước phồng, khớp sọ giãn.\nDịch não tủy: bạch cầu 150/μL (lympho 85%), protein 80 mg/dL, đường bình thường, nhuộm Gram âm tính.",
+      "lead": "Chẩn đoán phù hợp nhất là gì?",
+      "options": [
+        "Viêm màng não do phế cầu",
+        "Giang mai màng não mạch mạn tính",
+        "Viêm màng não do lao",
+        "Viêm màng não cấp do giang mai"
+      ],
+      "answer": 3,
+      "explanation": "Viêm màng não cấp do giang mai gặp lúc 3–6 tháng: lâm sàng giống viêm màng não vi khuẩn nhưng DNT giống viêm màng não vô khuẩn (lympho, protein tăng nhẹ, đường bình thường).",
+      "why_wrong": [
+        "DNT viêm màng não phế cầu thường đa nhân, đường giảm.",
+        "Thể mạn tính gặp cuối năm đầu đời, biểu hiện não úng thủy tiến triển, liệt dây sọ.",
+        "Viêm màng não lao thường có đường giảm, protein tăng cao.",
+        null
+      ]
+    },
+    {
+      "id": "h1199e706",
+      "type": "lam-sang",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "Bệnh nhi nữ, 2 ngày tuổi, sinh 35 tuần, cân nặng lúc sinh 2.100 g.\nNgày 1: phù toàn thân, gan lách to.\nNgày 2: xuất hiện nhiều bọng nước ở lòng bàn tay, lòng bàn chân, lan ra thân.\nTiền căn: mẹ RPR 1:64, TP-PA (+), không điều trị.\nKhám: lừ đừ. Mạch 160 lần/phút, nhiệt độ 37,0 °C, SpO₂ 95%. Bọng nước căng, một số vỡ để lại nền trợt đỏ.",
+      "lead": "Tổn thương da phù hợp nhất là gì?",
+      "options": [
+        "Chốc lây bọng nước sơ sinh",
+        "Hội chứng bong vảy da do tụ cầu",
+        "Ly thượng bì bọng nước bẩm sinh",
+        "Pemphigus giang mai"
+      ],
+      "answer": 3,
+      "explanation": "Bọng nước lan tỏa, khởi đầu ở lòng bàn tay chân, xuất hiện sớm sau sinh, kèm phù thai, gan lách to, mẹ không điều trị là pemphigus syphiliticus; dịch bọng nước rất lây nhiễm.",
+      "why_wrong": [
+        "Thường khu trú, xuất hiện muộn hơn, không có bệnh cảnh toàn thân như trên.",
+        "Thường sau vài ngày đến tuần, bong da nông, không kèm phù thai và gan lách to.",
+        "Bệnh di truyền, bọng nước ở vùng sang chấn, không kèm gan lách to.",
+        null
+      ]
+    },
+    {
+      "id": "h7617523a",
+      "type": "lam-sang",
+      "section": "Lâm sàng giang mai bẩm sinh sớm",
+      "stem": "Bệnh nhi nam, 2 tháng tuổi, 5 kg, nhập viện vì phù.\nTuần 1: phù mi mắt.\nTuần 2: phù toàn thân, tiểu ít.\nKhám: tỉnh. HA 85/50 mmHg. Phù toàn thân, gan 3 cm dưới bờ sườn.\nCận lâm sàng: protein niệu 4+, albumin máu 18 g/L. RPR con 1:64, RPR mẹ 1:8 (cùng thời điểm).",
+      "lead": "Hướng xử trí tổn thương thận phù hợp nhất là gì?",
+      "options": [
+        "Cyclophosphamide phối hợp với Penicillin",
+        "Penicillin đủ liệu trình, thận tự hồi phục",
+        "Corticoid liều cao trước, Penicillin sau",
+        "Sinh thiết thận trước khi dùng Penicillin"
+      ],
+      "answer": 1,
+      "explanation": "Hội chứng thận hư trong giang mai bẩm sinh do phức hợp miễn dịch và đáp ứng tốt với Penicillin; hiệu giá con gấp 8 lần mẹ khẳng định nhiễm.",
+      "why_wrong": [
+        "Không cần ức chế miễn dịch; tổn thương đáp ứng với Penicillin.",
+        null,
+        "Corticoid không phải điều trị nền; nguyên nhân là nhiễm xoắn khuẩn.",
+        "Không cần trì hoãn điều trị để sinh thiết khi đã rõ nguyên nhân."
+      ]
+    },
+    {
+      "id": "h976c2a98",
+      "type": "nho",
+      "section": "Giang mai bẩm sinh muộn",
+      "stem": "",
+      "lead": "Tam chứng Hutchinson trong giang mai bẩm sinh muộn gồm những dấu hiệu nào?",
+      "options": [
+        "Răng Hutchinson, viêm giác mạc kẽ, điếc thần kinh",
+        "Răng Hutchinson, mũi yên ngựa, trán dô",
+        "Viêm giác mạc kẽ, khớp Clutton, xương chày lưỡi kiếm",
+        "Điếc thần kinh, rhagades, răng hàm dâu tây"
+      ],
+      "answer": 0,
+      "explanation": "Tam chứng Hutchinson: răng Hutchinson, viêm giác mạc kẽ và điếc thần kinh.",
+      "why_wrong": [
+        null,
+        "Mũi yên ngựa và trán dô là dấu hiệu khuôn mặt, không thuộc tam chứng.",
+        "Khớp Clutton và xương chày lưỡi kiếm là dấu hiệu xương khớp, không thuộc tam chứng.",
+        "Rhagades và răng hàm dâu tây không thuộc tam chứng."
+      ]
+    },
+    {
+      "id": "hbb3daa2d",
+      "type": "nho",
+      "section": "Giang mai bẩm sinh muộn",
+      "stem": "",
+      "lead": "Khớp Clutton trong giang mai bẩm sinh muộn có đặc điểm gì?",
+      "options": [
+        "Viêm khớp vai một bên, sưng nóng đỏ",
+        "Viêm khớp háng một bên, đau nhiều khi đi",
+        "Tràn dịch khớp gối hai bên, không đau",
+        "Viêm đa khớp nhỏ bàn tay, có biến dạng"
+      ],
+      "answer": 2,
+      "explanation": "Khớp Clutton là viêm khớp gối tràn dịch, không đau, có tính chất đối xứng.",
+      "why_wrong": [
+        "Khớp Clutton không đau, không viêm cấp, đối xứng hai bên.",
+        "Khớp Clutton ở gối, đối xứng và không đau.",
+        null,
+        "Không phải đặc điểm của khớp Clutton."
+      ]
+    },
+    {
+      "id": "h6cbe916a",
+      "type": "nho",
+      "section": "Giang mai bẩm sinh muộn",
+      "stem": "",
+      "lead": "Dấu hiệu Higoumenakis trong giang mai bẩm sinh muộn là gì?",
+      "options": [
+        "Thủng vòm khẩu cái cứng",
+        "Xương chày cong ra phía trước",
+        "Phì đại đầu trong xương đòn",
+        "Sẹo nứt tỏa ra quanh miệng"
+      ],
+      "answer": 2,
+      "explanation": "Higoumenakis là phì đại phần xương đòn gần khớp ức đòn.",
+      "why_wrong": [
+        "Là dấu hiệu răng miệng khác, không phải Higoumenakis.",
+        "Là xương chày lưỡi kiếm (saber shins).",
+        null,
+        "Là rhagades."
+      ]
+    },
+    {
+      "id": "ha71c8bba",
+      "type": "nho",
+      "section": "Giang mai bẩm sinh muộn",
+      "stem": "",
+      "lead": "Giang mai bẩm sinh muộn xảy ra ở khoảng bao nhiêu trẻ sinh ra từ mẹ không được điều trị trong thai kỳ?",
+      "options": [
+        "40%",
+        "70%",
+        "10%",
+        "90%"
+      ],
+      "answer": 0,
+      "explanation": "Khoảng 40% trẻ sinh từ mẹ không điều trị sẽ có biểu hiện giang mai bẩm sinh muộn.",
+      "why_wrong": [
+        null,
+        "Cao hơn số liệu trong bài.",
+        "Thấp hơn số liệu trong bài.",
+        "Cao hơn nhiều so với số liệu trong bài."
+      ]
+    },
+    {
+      "id": "hcf84a1b5",
+      "type": "lam-sang",
+      "section": "Giang mai bẩm sinh muộn",
+      "stem": "Bệnh nhi nam, 9 tuổi, 26 kg, đến khám vì nghe kém.\n2 tuần nay: nghe kém đột ngột cả hai tai, khó nghe giọng cao.\nTiền căn: mẹ có giang mai, không rõ điều trị.\nKhám: răng cửa giữa vĩnh viễn hình cái đục, có khía lõm bờ cắn, mọc thưa. Mũi yên ngựa.\nĐo thính lực: điếc tiếp nhận hai bên, ưu thế tần số cao.",
+      "lead": "Tổn thương mắt nào cần tầm soát kèm theo nhất?",
+      "options": [
+        "Viêm kết mạc dị ứng",
+        "Bong võng mạc",
+        "Viêm giác mạc kẽ",
+        "Đục thủy tinh thể bẩm sinh"
+      ],
+      "answer": 2,
+      "explanation": "Răng Hutchinson cùng điếc thần kinh lúc 8–10 tuổi gợi ý tam chứng Hutchinson; thành phần còn lại là viêm giác mạc kẽ, có thể gây sẹo giác mạc và mù.",
+      "why_wrong": [
+        "Không liên quan giang mai bẩm sinh.",
+        "Không phải tổn thương mắt đặc trưng của giang mai bẩm sinh muộn.",
+        null,
+        "Đục thủy tinh thể là biểu hiện của giang mai bẩm sinh sớm, không thuộc tam chứng."
+      ]
+    },
+    {
+      "id": "h5d78b8fd",
+      "type": "lam-sang",
+      "section": "Giang mai bẩm sinh muộn",
+      "stem": "Bệnh nhi nữ, 4 tuổi, 15 kg, được gia đình nhận nuôi đưa đến khám sức khỏe.\nKhông rõ tiền căn sản khoa của mẹ ruột.\nKhám: trán dô, mũi yên ngựa, xương hàm dưới nhô ra. Xương chày hai bên cong ra phía trước. Thủng vòm khẩu cái cứng.\nCận lâm sàng: RPR (+) 1:16, TP-PA (+). Canxi, phospho, phosphatase kiềm bình thường.",
+      "lead": "Chẩn đoán phù hợp nhất là gì?",
+      "options": [
+        "Còi xương thiếu vitamin D",
+        "Loạn sản sụn bẩm sinh",
+        "Giang mai bẩm sinh sớm",
+        "Giang mai bẩm sinh muộn"
+      ],
+      "answer": 3,
+      "explanation": "Trẻ trên 2 tuổi, có trán dô, mũi yên ngựa, xương chày lưỡi kiếm, thủng vòm khẩu cái cứng (gần như chắc chắn giang mai bẩm sinh) và huyết thanh (+).",
+      "why_wrong": [
+        "Còi xương có trán dô, chân cong nhưng sinh hóa bất thường và không có thủng vòm khẩu cái.",
+        "Không giải thích thủng vòm khẩu cái và huyết thanh giang mai (+).",
+        "Biểu hiện sau 2 tuổi là giang mai bẩm sinh muộn.",
+        null
+      ]
+    },
+    {
+      "id": "h141fbc86",
+      "type": "nho",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "",
+      "lead": "Xét nghiệm RPR/VDRL phát hiện kháng thể chống lại thành phần nào?",
+      "options": [
+        "Kháng nguyên bề mặt lympho bào",
+        "Cardiolipin từ tế bào tổn thương",
+        "Protein màng ngoài T. pallidum",
+        "Lipopolysaccharide của vi khuẩn"
+      ],
+      "answer": 1,
+      "explanation": "RPR/VDRL tìm kháng thể reagin chống cardiolipin, sản phẩm từ tế bào bị tổn thương, nên có thể dương tính giả.",
+      "why_wrong": [
+        "Không phải đích của RPR/VDRL.",
+        null,
+        "Đó là đích của nhóm xét nghiệm đặc hiệu (treponemal).",
+        "T. pallidum không có LPS điển hình; không phải đích của RPR/VDRL."
+      ]
+    },
+    {
+      "id": "h3e3a3656",
+      "type": "nho",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "",
+      "lead": "Xét nghiệm nào dùng để theo dõi hiệu quả điều trị giang mai?",
+      "options": [
+        "RPR định lượng",
+        "FTA-ABS định tính",
+        "TP-PA định tính",
+        "EIA tự động"
+      ],
+      "answer": 0,
+      "explanation": "RPR/VDRL trả kết quả hiệu giá, tỷ lệ với mức độ hoạt động của bệnh và giảm sau điều trị.",
+      "why_wrong": [
+        null,
+        "Test đặc hiệu, dương tính suốt đời.",
+        "Test đặc hiệu, dương tính suốt đời, không dùng theo dõi.",
+        "Test đặc hiệu tự động, dương tính suốt đời."
+      ]
+    },
+    {
+      "id": "h0c4fc19c",
+      "type": "nho",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "",
+      "lead": "Vì sao không dùng xét nghiệm đặc hiệu (TP-PA, EIA) để chẩn đoán xác định giang mai bẩm sinh ở trẻ sơ sinh?",
+      "options": [
+        "IgG của mẹ qua nhau thai, tồn tại ở con đến 18 tháng",
+        "Trẻ sơ sinh chưa tự tạo được kháng thể đặc hiệu",
+        "Xét nghiệm đặc hiệu có độ nhạy thấp ở trẻ sơ sinh",
+        "IgM của mẹ qua nhau thai, tồn tại ở con đến 6 tháng"
+      ],
+      "answer": 0,
+      "explanation": "Kháng thể IgG đặc hiệu của mẹ qua nhau thai và tồn tại ở con đến 18 tháng, nên test đặc hiệu (+) ở trẻ không phân biệt được kháng thể mẹ và con.",
+      "why_wrong": [
+        null,
+        "Trẻ bị nhiễm vẫn tự sản xuất kháng thể.",
+        "Vấn đề là thiếu đặc hiệu do kháng thể mẹ, không phải độ nhạy thấp.",
+        "IgM không qua nhau thai; chỉ IgG đi từ mẹ sang con."
+      ]
+    },
+    {
+      "id": "h8c49f85a",
+      "type": "nho",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "",
+      "lead": "Hiện tượng prozone trong xét nghiệm giang mai là gì?",
+      "options": [
+        "Dương tính giả RPR do thay đổi trong thai kỳ",
+        "Âm tính giả RPR do nồng độ kháng thể quá cao",
+        "Âm tính giả test đặc hiệu do điều trị sớm",
+        "Dương tính giả EIA do lỗi kỹ thuật của máy"
+      ],
+      "answer": 1,
+      "explanation": "Prozone xảy ra với RPR/VDRL khi kháng thể quá cao (thường giai đoạn 2), ức chế ngưng kết gây âm tính giả; cần pha loãng huyết thanh để làm lại.",
+      "why_wrong": [
+        "Đây là dương tính giả mạn tính, không phải prozone.",
+        null,
+        "Prozone xảy ra với test không đặc hiệu, do kháng thể quá cao.",
+        "Đây là dương tính giả kỹ thuật, không phải prozone."
+      ]
+    },
+    {
+      "id": "h2df67833",
+      "type": "nho",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "",
+      "lead": "Theo quy trình sàng lọc ngược, EIA (+) nhưng RPR (−) thì bước tiếp theo là gì?",
+      "options": [
+        "Kết luận âm tính, không làm thêm",
+        "Làm TP-PA để giải quyết mâu thuẫn",
+        "Lặp lại EIA sau 2 tuần",
+        "Làm VDRL dịch não tủy"
+      ],
+      "answer": 1,
+      "explanation": "Khi EIA (+) nhưng RPR (−), TP-PA đóng vai trò trọng tài để phân biệt tiền sử nhiễm đã điều trị với dương tính giả.",
+      "why_wrong": [
+        "Chưa đủ cơ sở kết luận khi EIA dương tính.",
+        null,
+        "Lặp lại cùng loại test không giải quyết được mâu thuẫn.",
+        "Chọc dò DNT không phải bước giải quyết mâu thuẫn huyết thanh."
+      ]
+    },
+    {
+      "id": "he34858e6",
+      "type": "nho",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "",
+      "lead": "Đặc điểm của VDRL dịch não tủy trong chẩn đoán giang mai thần kinh là gì?",
+      "options": [
+        "Độ nhạy cao, đặc hiệu khoảng 50%",
+        "Đặc hiệu cao, độ nhạy khoảng 50%",
+        "Độ nhạy và đặc hiệu đều trên 95%",
+        "Độ nhạy và đặc hiệu đều khoảng 50%"
+      ],
+      "answer": 1,
+      "explanation": "VDRL DNT có độ đặc hiệu cao (khoảng 90%) nhưng độ nhạy chỉ khoảng 50–54%; âm tính chưa loại trừ được giang mai thần kinh.",
+      "why_wrong": [
+        "Ngược với bài: đặc hiệu cao, nhạy thấp.",
+        null,
+        "Độ nhạy chỉ khoảng 50%.",
+        "Độ đặc hiệu cao, không phải 50%."
+      ]
+    },
+    {
+      "id": "h20bde92c",
+      "type": "nho",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "",
+      "lead": "Mẫu máu nào được dùng để làm RPR/VDRL cho trẻ sơ sinh nghi giang mai bẩm sinh?",
+      "options": [
+        "Máu mao mạch gót chân",
+        "Máu cuống rốn",
+        "Máu tĩnh mạch của trẻ",
+        "Máu tĩnh mạch của mẹ"
+      ],
+      "answer": 2,
+      "explanation": "Luôn dùng máu tĩnh mạch của trẻ; không dùng máu cuống rốn để làm RPR/VDRL.",
+      "why_wrong": [
+        "Bài khuyến cáo dùng máu tĩnh mạch của trẻ.",
+        "Bài nêu rõ không dùng máu cuống rốn.",
+        null,
+        "Máu mẹ dùng để so sánh, không thay cho mẫu của trẻ."
+      ]
+    },
+    {
+      "id": "h437fa46a",
+      "type": "lam-sang",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "Thai phụ 28 tuổi, thai 32 tuần, khám tiền sản định kỳ.\nTiền căn: lupus ban đỏ hệ thống 5 năm, đang điều trị ổn định.\nKhông có tổn thương da niêm, không có săng.\nCận lâm sàng: RPR (+) 1:2, TP-PA (−).",
+      "lead": "Diễn giải kết quả phù hợp nhất là gì?",
+      "options": [
+        "RPR dương tính giả",
+        "Giang mai giai đoạn 1",
+        "Giang mai kín sớm",
+        "Giang mai đã điều trị khỏi"
+      ],
+      "answer": 0,
+      "explanation": "RPR (+) hiệu giá thấp với TP-PA (−) ở thai phụ có lupus là dương tính giả mạn tính (thai kỳ, bệnh tự miễn).",
+      "why_wrong": [
+        null,
+        "Giang mai thật sẽ có test đặc hiệu (+); không có săng.",
+        "Giang mai thật sẽ có TP-PA (+).",
+        "Tiền sử đã điều trị có TP-PA (+), RPR thường (−)."
+      ]
+    },
+    {
+      "id": "h38515c9d",
+      "type": "lam-sang",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "Thai phụ 30 tuổi, thai 12 tuần, khám tiền sản lần đầu.\nTiền căn: điều trị giang mai bằng Benzathine penicillin G 3 năm trước, có hồ sơ.\nKhám: không có tổn thương da niêm.\nCận lâm sàng: EIA (+), RPR (−), TP-PA (+).",
+      "lead": "Diễn giải kết quả phù hợp nhất là gì?",
+      "options": [
+        "Giang mai hoạt động cần điều trị",
+        "Tiền sử giang mai đã điều trị",
+        "Dương tính giả do máy EIA",
+        "Giang mai thần kinh tiềm ẩn"
+      ],
+      "answer": 1,
+      "explanation": "RPR (−), TP-PA (+) ở người có hồ sơ điều trị phù hợp tiền sử đã điều trị khỏi; test đặc hiệu là \"sẹo miễn dịch\", dương tính suốt đời.",
+      "why_wrong": [
+        "Giang mai hoạt động thường có RPR (+).",
+        null,
+        "TP-PA (+) xác nhận EIA không phải dương tính giả.",
+        "Không có dữ kiện thần kinh; huyết thanh phù hợp tiền sử đã điều trị."
+      ]
+    },
+    {
+      "id": "h06683841",
+      "type": "lam-sang",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "Thai phụ 25 tuổi, thai 20 tuần, khám tiền sản.\nKhông có tiền căn giang mai, không có tổn thương da niêm.\nCận lâm sàng: EIA (+), RPR (−), TP-PA (−).",
+      "lead": "Diễn giải kết quả phù hợp nhất là gì?",
+      "options": [
+        "EIA dương tính giả",
+        "Tiền sử giang mai đã khỏi",
+        "Hiện tượng prozone của RPR",
+        "Giang mai giai đoạn rất sớm"
+      ],
+      "answer": 0,
+      "explanation": "EIA (+) nhưng TP-PA (−): đó là dương tính giả do lỗi kỹ thuật hoặc phản ứng chéo của máy; TP-PA là trọng tài.",
+      "why_wrong": [
+        null,
+        "Tiền sử đã khỏi thì TP-PA (+).",
+        "Prozone giải thích RPR âm tính giả khi kháng thể rất cao, không giải thích TP-PA (−).",
+        "Kết luận này cần TP-PA (+) hoặc theo dõi lại; ở đây TP-PA (−)."
+      ]
+    },
+    {
+      "id": "h0df084d7",
+      "type": "lam-sang",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "Trẻ sơ sinh nam, 1 ngày tuổi, sinh đủ tháng, 3.100 g.\nMẹ phát hiện giang mai lúc chuyển dạ.\nKhám: tỉnh, bú tốt. Không gan lách to, không phát ban, không viêm mũi.\nCận lâm sàng (máu tĩnh mạch, cùng thời điểm): RPR mẹ 1:16, RPR con 1:64.",
+      "lead": "Diễn giải kết quả huyết thanh phù hợp nhất là gì?",
+      "options": [
+        "Cần chờ TP-PA của trẻ để kết luận",
+        "Kháng thể IgG thụ động truyền từ mẹ",
+        "Gợi ý trẻ nhiễm giang mai thật sự",
+        "Dương tính giả do lẫn máu của người mẹ"
+      ],
+      "answer": 2,
+      "explanation": "Hiệu giá con gấp ≥ 4 lần mẹ (1:64 so với 1:16), cùng loại test, cùng thời điểm là tiêu chuẩn chẩn đoán xác định, dù khám bình thường.",
+      "why_wrong": [
+        "TP-PA ở sơ sinh không giúp chẩn đoán vì kháng thể mẹ.",
+        "Kháng thể thụ động thường có hiệu giá bằng hoặc thấp hơn mẹ.",
+        null,
+        "Mẫu là máu tĩnh mạch của trẻ, không phải máu cuống rốn."
+      ]
+    },
+    {
+      "id": "h9aec2aef",
+      "type": "lam-sang",
+      "section": "Xét nghiệm huyết thanh và chẩn đoán",
+      "stem": "Trẻ nữ, 20 tháng tuổi, tái khám theo dõi giang mai bẩm sinh.\nMẹ điều trị giang mai trong thai kỳ. Trẻ được điều trị lúc sinh.\nRPR của trẻ: 1:32 lúc sinh, 1:4 lúc 3 tháng, âm tính từ 6 tháng.\nKhám: phát triển bình thường.\nCận lâm sàng hiện tại: RPR (−), TP-PA (+).",
+      "lead": "Diễn giải phù hợp nhất là gì?",
+      "options": [
+        "TP-PA dương tính giả, cần làm lại EIA",
+        "Kháng thể thụ động của mẹ còn tồn tại",
+        "Trẻ đã từng nhiễm giang mai bẩm sinh",
+        "Tái nhiễm, cần điều trị lại 10 ngày"
+      ],
+      "answer": 2,
+      "explanation": "Sau 18 tháng kháng thể mẹ đã hết; TP-PA còn (+) khẳng định trẻ tự sinh kháng thể, tức đã nhiễm thật sự. RPR đã âm tính nên không cần điều trị thêm.",
+      "why_wrong": [
+        "TP-PA là trọng tài, không cần làm lại bằng EIA.",
+        "Kháng thể mẹ không tồn tại quá 18 tháng.",
+        null,
+        "RPR âm tính, không có bằng chứng bệnh hoạt động."
+      ]
+    },
+    {
+      "id": "hd870967f",
+      "type": "nho",
+      "section": "Đánh giá trẻ nghi ngờ",
+      "stem": "",
+      "lead": "Ngưỡng bạch cầu dịch não tủy được coi là bất thường ở trẻ dưới 29 ngày tuổi nghi giang mai bẩm sinh là bao nhiêu?",
+      "options": [
+        "> 5 tế bào/μL",
+        "≥ 50 tế bào/μL",
+        "≥ 20 tế bào/μL",
+        "> 10 tế bào/μL"
+      ],
+      "answer": 2,
+      "explanation": "Ở trẻ < 29 ngày, bạch cầu DNT ≥ 20 tế bào/μL là bất thường.",
+      "why_wrong": [
+        "Là ngưỡng của trẻ > 60 ngày.",
+        "Quá cao, bỏ sót trường hợp bất thường.",
+        null,
+        "Là ngưỡng của trẻ 29–60 ngày."
+      ]
+    },
+    {
+      "id": "h0e2e9007",
+      "type": "nho",
+      "section": "Đánh giá trẻ nghi ngờ",
+      "stem": "",
+      "lead": "Ngưỡng protein dịch não tủy được coi là bất thường ở trẻ dưới 29 ngày tuổi nghi giang mai bẩm sinh là bao nhiêu?",
+      "options": [
+        "> 90 mg/dL",
+        "> 120 mg/dL",
+        "> 40 mg/dL",
+        "> 170 mg/dL"
+      ],
+      "answer": 1,
+      "explanation": "Ở trẻ < 29 ngày, protein DNT > 120 mg/dL là bất thường.",
+      "why_wrong": [
+        "Là ngưỡng của trẻ 29–60 ngày.",
+        null,
+        "Là ngưỡng của trẻ > 60 ngày.",
+        "Quá cao so với ngưỡng trong bài."
+      ]
+    },
+    {
+      "id": "h67580232",
+      "type": "nho",
+      "section": "Đánh giá trẻ nghi ngờ",
+      "stem": "",
+      "lead": "Trường hợp nào sau đây cần đánh giá giang mai bẩm sinh cho trẻ?",
+      "options": [
+        "Mẹ sốt trong chuyển dạ, ối vỡ 20 giờ",
+        "Mẹ phát hiện giang mai 2 tháng sau sinh",
+        "Mẹ có HBsAg dương tính lúc chuyển dạ",
+        "Mẹ từng mắc thủy đậu lúc 10 tuổi"
+      ],
+      "answer": 1,
+      "explanation": "Mẹ phát hiện dương tính trong vòng 3 tháng đầu sau sinh (qua lâm sàng hoặc truy vết) là một chỉ định đánh giá giang mai bẩm sinh.",
+      "why_wrong": [
+        "Là yếu tố nguy cơ nhiễm khuẩn sơ sinh sớm.",
+        null,
+        "Là chỉ định dự phòng viêm gan B, không phải giang mai.",
+        "Không liên quan giang mai bẩm sinh."
+      ]
+    },
+    {
+      "id": "hd6884aff",
+      "type": "nho",
+      "section": "Đánh giá trẻ nghi ngờ",
+      "stem": "",
+      "lead": "Ở trẻ lớn có huyết thanh giang mai dương tính, bất thường trên X-quang xương dài giúp ích nhất cho việc gì?",
+      "options": [
+        "Khẳng định nguồn gốc bẩm sinh thay vì mắc phải",
+        "Xác định thời điểm người mẹ nhiễm bệnh",
+        "Đánh giá mức độ tổn thương thần kinh",
+        "Theo dõi đáp ứng với điều trị Penicillin"
+      ],
+      "answer": 0,
+      "explanation": "Bất thường xương giúp khẳng định giang mai \"bẩm sinh\" thay vì \"mắc phải\" (nghi lạm dụng tình dục).",
+      "why_wrong": [
+        null,
+        "X-quang xương không xác định được thời điểm mẹ nhiễm.",
+        "Tổn thương thần kinh đánh giá bằng DNT và hình ảnh thần kinh.",
+        "Theo dõi điều trị dựa vào hiệu giá RPR/VDRL."
+      ]
+    },
+    {
+      "id": "h01fd070a",
+      "type": "lam-sang",
+      "section": "Đánh giá trẻ nghi ngờ",
+      "stem": "Bệnh nhi nữ, 45 ngày tuổi, 4,2 kg, được đánh giá vì mẹ phát hiện giang mai sau sinh.\nKhám: tỉnh, bú tốt, không gan lách to.\nCận lâm sàng: RPR con 1:8.\nDịch não tủy (không dính máu): bạch cầu 15/μL, protein 95 mg/dL, đường bình thường, VDRL dịch não tủy âm tính.",
+      "lead": "Diễn giải kết quả dịch não tủy phù hợp nhất là gì?",
+      "options": [
+        "Bất thường; chưa loại trừ giang mai thần kinh",
+        "Bất thường nhưng VDRL âm nên loại trừ giang mai thần kinh",
+        "Chỉ protein bất thường; tế bào bình thường theo tuổi",
+        "Bình thường theo tuổi; loại trừ giang mai thần kinh"
+      ],
+      "answer": 0,
+      "explanation": "Trẻ 29–60 ngày: bạch cầu > 10/μL và protein > 90 mg/dL là bất thường. VDRL DNT nhạy chỉ khoảng 50% nên âm tính không loại trừ.",
+      "why_wrong": [
+        null,
+        "VDRL DNT độ nhạy thấp, âm tính không loại trừ được.",
+        "Bạch cầu 15/μL vượt ngưỡng > 10/μL của nhóm tuổi này.",
+        "Cả tế bào (15) và protein (95) đều vượt ngưỡng 29–60 ngày."
+      ]
+    },
+    {
+      "id": "he12b0188",
+      "type": "lam-sang",
+      "section": "Đánh giá trẻ nghi ngờ",
+      "stem": "Trẻ sơ sinh nam, 4 ngày tuổi, sinh 38 tuần, 3.000 g.\nMẹ RPR (+) 1:16, TP-PA (+) phát hiện lúc chuyển dạ, chưa điều trị.\nKhám: bình thường.\nSàng lọc thính lực OAE trước xuất viện: đạt hai tai.\nĐang được đánh giá đa cơ quan.",
+      "lead": "Đánh giá thính lực phù hợp nhất cho trẻ là gì?",
+      "options": [
+        "Đo nhĩ lượng hai tai",
+        "Không cần đo thêm vì OAE đạt",
+        "Lặp lại OAE lúc 3 tháng tuổi",
+        "Đo ABR chính thức"
+      ],
+      "answer": 3,
+      "explanation": "Trẻ nghi giang mai bẩm sinh cần đánh giá thính lực chính thức bằng ABR; không dựa vào OAE vì tỷ lệ âm tính giả cao.",
+      "why_wrong": [
+        "Nhĩ lượng đánh giá tai giữa, không đánh giá điếc thần kinh.",
+        "OAE có tỷ lệ âm tính giả cao trong trường hợp này.",
+        "Vẫn dựa vào OAE, không phải phương pháp được khuyến cáo.",
+        null
+      ]
+    },
+    {
+      "id": "he6ba5108",
+      "type": "lam-sang",
+      "section": "Đánh giá trẻ nghi ngờ",
+      "stem": "Bệnh nhi nam, 3 tháng tuổi, 5,8 kg, đến khám vì chảy mũi kéo dài.\nTuần 2–8: chảy mũi dịch trắng lẫn máu.\nTiền căn: mẹ không khám thai.\nKhám: tỉnh. Gan 3 cm dưới bờ sườn, lách 1 cm. Không dấu hiệu thần kinh khu trú.\nCận lâm sàng: RPR (+) 1:32.",
+      "lead": "Bộ đánh giá phù hợp nhất trước khi điều trị là gì?",
+      "options": [
+        "Lặp lại RPR sau 1 tháng rồi mới quyết định",
+        "CTM, chức năng gan, siêu âm bụng; chưa chọc dò",
+        "Làm TP-PA của trẻ, chờ kết quả rồi đánh giá",
+        "Chọc dò DNT, CTM, X-quang xương dài, khám mắt, ABR"
+      ],
+      "answer": 3,
+      "explanation": "Trẻ > 1 tháng nghi giang mai bẩm sinh phải đánh giá hệ thống: DNT, X-quang xương dài, chức năng gan, khám mắt và thính lực.",
+      "why_wrong": [
+        "Trì hoãn đánh giá ở trẻ có triệu chứng là không phù hợp.",
+        "Ở trẻ > 1 tháng, chọc dò DNT là bắt buộc để loại trừ giang mai thần kinh.",
+        "TP-PA ở trẻ < 18 tháng không giúp chẩn đoán.",
+        null
+      ]
+    },
+    {
+      "id": "h955832b7",
+      "type": "lam-sang",
+      "section": "Đánh giá trẻ nghi ngờ",
+      "stem": "Bệnh nhi nữ, 10 tuổi, 30 kg, đến khám vì tổn thương quanh hậu môn.\n3 tuần nay: nhiều nốt phẳng, mọng nước quanh hậu môn, không đau.\nKhông có hồ sơ khám thai của mẹ.\nKhám: không có dấu hiệu giang mai bẩm sinh muộn.\nCận lâm sàng: RPR (+) 1:64, TP-PA (+). X-quang xương dài bình thường.",
+      "lead": "Vấn đề quan trọng nhất cần đánh giá thêm là gì?",
+      "options": [
+        "Bệnh Crohn quanh hậu môn",
+        "Đồng nhiễm HPV vùng sinh dục",
+        "Khả năng trẻ bị lạm dụng tình dục",
+        "Giang mai bẩm sinh muộn thể da"
+      ],
+      "answer": 2,
+      "explanation": "Sùi phẳng (condylomata lata), RPR cao, không có dấu hiệu bẩm sinh muộn và xương bình thường gợi ý giang mai mắc phải, cần đánh giá lạm dụng tình dục.",
+      "why_wrong": [
+        "Huyết thanh giang mai (+) giải thích tổn thương.",
+        "Sùi phẳng do giang mai, khác sùi mào gà do HPV.",
+        null,
+        "Không có dấu hiệu bẩm sinh muộn, xương bình thường."
+      ]
+    },
+    {
+      "id": "he4f3e4e0",
+      "type": "nho",
+      "section": "Điều trị dự phòng ở mẹ",
+      "stem": "",
+      "lead": "Thuốc duy nhất được coi là điều trị đầy đủ giang mai cho thai phụ (để bảo vệ thai) là gì?",
+      "options": [
+        "Erythromycin base",
+        "Ceftriaxone TM",
+        "Azithromycin liều cao",
+        "Benzathine penicillin"
+      ],
+      "answer": 3,
+      "explanation": "Chỉ Benzathine penicillin G xuyên qua nhau thai với nồng độ đủ điều trị cho thai; kháng sinh khác không được coi là điều trị đầy đủ.",
+      "why_wrong": [
+        "Không được coi là điều trị đầy đủ cho con.",
+        "Không được coi là điều trị đầy đủ cho con.",
+        "Không được coi là điều trị đầy đủ cho con.",
+        null
+      ]
+    },
+    {
+      "id": "h9f0d6385",
+      "type": "nho",
+      "section": "Điều trị dự phòng ở mẹ",
+      "stem": "",
+      "lead": "Phác đồ điều trị giang mai sớm (giai đoạn 1, 2, kín sớm) ở thai phụ là gì?",
+      "options": [
+        "Benzathine 2,4 triệu đv TB, 3 liều cách 1 tuần",
+        "Benzathine 1,2 triệu đv TB, 1 liều",
+        "Benzathine 4,8 triệu đv TB, 1 liều",
+        "Benzathine 2,4 triệu đv TB, 1 liều"
+      ],
+      "answer": 3,
+      "explanation": "Giang mai sớm: Benzathine penicillin G 2,4 triệu đơn vị tiêm bắp, 1 liều duy nhất.",
+      "why_wrong": [
+        "Là phác đồ giang mai kín muộn hoặc không rõ thời gian.",
+        "Liều thấp hơn liều trong bài.",
+        "Liều cao hơn liều trong bài.",
+        null
+      ]
+    },
+    {
+      "id": "hef73632d",
+      "type": "nho",
+      "section": "Điều trị dự phòng ở mẹ",
+      "stem": "",
+      "lead": "Điều trị giang mai cho thai phụ phải hoàn tất ít nhất bao lâu trước sinh để được coi là đầy đủ?",
+      "options": [
+        "30 ngày",
+        "14 ngày",
+        "60 ngày",
+        "7 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Quy tắc 30 ngày: hoàn tất ít nhất 30 ngày trước sinh để thuốc kịp tiêu diệt xoắn khuẩn ở thai.",
+      "why_wrong": [
+        null,
+        "Quá ngắn so với quy tắc 30 ngày.",
+        "Dài hơn mốc yêu cầu trong bài.",
+        "Quá ngắn, chưa đủ thời gian điều trị cho thai."
+      ]
+    },
+    {
+      "id": "h63cf601d",
+      "type": "nho",
+      "section": "Điều trị dự phòng ở mẹ",
+      "stem": "",
+      "lead": "Thai phụ mắc giang mai có tiền sử dị ứng Penicillin thì xử trí thế nào?",
+      "options": [
+        "Ceftriaxone tiêm tĩnh mạch 10 ngày",
+        "Erythromycin uống trong 14 ngày",
+        "Azithromycin uống 1 liều duy nhất",
+        "Giải mẫn cảm, sau đó dùng Penicillin"
+      ],
+      "answer": 3,
+      "explanation": "Thai phụ dị ứng Penicillin bắt buộc giải mẫn cảm và dùng Penicillin; kháng sinh thay thế không được coi là điều trị đầy đủ cho thai.",
+      "why_wrong": [
+        "Không được công nhận là điều trị đầy đủ cho thai.",
+        "Không được công nhận là điều trị đầy đủ cho thai.",
+        "Không được công nhận là điều trị đầy đủ cho thai.",
+        null
+      ]
+    },
+    {
+      "id": "h756417d0",
+      "type": "lam-sang",
+      "section": "Điều trị dự phòng ở mẹ",
+      "stem": "Thai phụ 31 tuổi, PARA 1001, thai 20 tuần, khám tiền sản.\nKhông nhớ có tổn thương sinh dục trước đây. Không rõ thời điểm nhiễm.\nKhám: không có tổn thương da niêm, không dấu hiệu thần kinh.\nCận lâm sàng: RPR 1:16, TP-PA (+), HIV (−).",
+      "lead": "Phác đồ điều trị phù hợp nhất là gì?",
+      "options": [
+        "Penicillin G tinh thể TM × 10–14 ngày",
+        "Benzathine 2,4 triệu đv TB × 1 liều duy nhất",
+        "Benzathine 2,4 triệu đv TB × 2 liều, cách 2 tuần",
+        "Benzathine 2,4 triệu đv TB × 3 liều, cách 1 tuần"
+      ],
+      "answer": 3,
+      "explanation": "Giang mai không rõ thời gian nhiễm được xử trí như giang mai kín muộn: 3 liều Benzathine 2,4 triệu đơn vị, cách nhau 1 tuần.",
+      "why_wrong": [
+        "Dành cho giang mai thần kinh; không có dấu hiệu thần kinh.",
+        "Chỉ đủ cho giang mai sớm.",
+        "Không phải phác đồ trong bài.",
+        null
+      ]
+    },
+    {
+      "id": "h44908635",
+      "type": "lam-sang",
+      "section": "Điều trị dự phòng ở mẹ",
+      "stem": "Thai phụ 26 tuổi được chẩn đoán giang mai giai đoạn 2 lúc thai 37 tuần.\nĐiều trị: Benzathine penicillin G 2,4 triệu đơn vị TB, 1 liều, ngay khi chẩn đoán.\nSinh thường lúc 39 tuần (14 ngày sau tiêm).",
+      "lead": "Đánh giá tình trạng điều trị của mẹ phù hợp nhất là gì?",
+      "options": [
+        "Chưa đầy đủ vì kết thúc < 30 ngày trước sinh",
+        "Đầy đủ nếu RPR giảm 4 lần lúc sinh",
+        "Chưa đầy đủ vì giang mai sớm cần 3 liều",
+        "Đầy đủ vì đúng thuốc và đúng liều"
+      ],
+      "answer": 0,
+      "explanation": "Dù đúng thuốc và đúng liều, điều trị kết thúc < 30 ngày trước sinh được coi là chưa đầy đủ; trẻ phải xử trí như ca có nguy cơ.",
+      "why_wrong": [
+        null,
+        "Hiệu giá không thay thế điều kiện 30 ngày; 14 ngày cũng thường chưa kịp giảm.",
+        "Giang mai sớm chỉ cần 1 liều.",
+        "Còn thiếu điều kiện thời gian ≥ 30 ngày trước sinh."
+      ]
+    },
+    {
+      "id": "h02109e07",
+      "type": "lam-sang",
+      "section": "Điều trị dự phòng ở mẹ",
+      "stem": "Thai phụ 24 tuổi, giang mai sớm, điều trị Benzathine 2,4 triệu đơn vị lúc thai 16 tuần.\nRPR trước điều trị: 1:8.\nBạn tình chưa được điều trị.\nLúc chuyển dạ (39 tuần): RPR 1:64.",
+      "lead": "Diễn giải phù hợp nhất là gì?",
+      "options": [
+        "Dương tính giả do thai kỳ, không cần xử trí",
+        "Điều trị đầy đủ; trẻ thuộc nhóm nguy cơ thấp",
+        "Nghi tái nhiễm hoặc thất bại; trẻ nguy cơ cao",
+        "Hiện tượng serofast, chỉ cần theo dõi sau sinh"
+      ],
+      "answer": 2,
+      "explanation": "Hiệu giá mẹ tăng ≥ 4 lần so với trước điều trị là bằng chứng tái nhiễm hoặc thất bại; bạn tình chưa điều trị là nguồn tái nhiễm. Trẻ thuộc nhóm nguy cơ cao.",
+      "why_wrong": [
+        "Dương tính giả không giải thích hiệu giá tăng cao.",
+        "Hiệu giá tăng 8 lần loại trừ điều trị thành công.",
+        null,
+        "Serofast là hiệu giá thấp ổn định, không tăng."
+      ]
+    },
+    {
+      "id": "ha4d6987a",
+      "type": "nho",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "",
+      "lead": "Liều Penicillin G tinh thể cho trẻ sơ sinh ≤ 7 ngày tuổi mắc giang mai bẩm sinh chắc chắn là gì?",
+      "options": [
+        "50.000 đv/kg/liều TM mỗi 8 giờ",
+        "25.000 đv/kg/liều TM mỗi 12 giờ",
+        "100.000 đv/kg/liều TM mỗi 12 giờ",
+        "50.000 đv/kg/liều TM mỗi 12 giờ"
+      ],
+      "answer": 3,
+      "explanation": "≤ 7 ngày tuổi: 50.000 đv/kg/liều TM mỗi 12 giờ (100.000 đv/kg/ngày); sau 7 ngày tuổi chuyển mỗi 8 giờ.",
+      "why_wrong": [
+        "Là khoảng cách liều cho trẻ > 7 ngày tuổi.",
+        "Liều thấp hơn liều trong bài.",
+        "Liều cao gấp đôi liều trong bài.",
+        null
+      ]
+    },
+    {
+      "id": "h5c6fc240",
+      "type": "nho",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "",
+      "lead": "Thời gian điều trị Penicillin G tinh thể cho giang mai bẩm sinh chắc chắn hoặc khả năng cao là bao lâu?",
+      "options": [
+        "14 ngày",
+        "21 ngày",
+        "10 ngày",
+        "7 ngày"
+      ],
+      "answer": 2,
+      "explanation": "Phác đồ cho kịch bản 1 kéo dài tổng cộng 10 ngày.",
+      "why_wrong": [
+        "Dài hơn thời gian trong bài.",
+        "Dài hơn nhiều so với thời gian trong bài.",
+        null,
+        "Ngắn hơn thời gian trong bài."
+      ]
+    },
+    {
+      "id": "ha12998c2",
+      "type": "nho",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "",
+      "lead": "Benzathine penicillin G cho trẻ sơ sinh được dùng theo đường nào?",
+      "options": [
+        "Tiêm dưới da vùng bụng",
+        "Tiêm bắp mặt trước ngoài đùi",
+        "Tiêm tĩnh mạch chậm",
+        "Truyền tĩnh mạch trong 30 phút"
+      ],
+      "answer": 1,
+      "explanation": "Benzathine chỉ được tiêm bắp; tiêm tĩnh mạch có thể gây ngừng tim và tử vong.",
+      "why_wrong": [
+        "Không phải đường dùng của Benzathine.",
+        null,
+        "Tiêm tĩnh mạch Benzathine có thể gây ngừng tim, tử vong.",
+        "Benzathine tuyệt đối không dùng đường tĩnh mạch."
+      ]
+    },
+    {
+      "id": "hafc4248c",
+      "type": "nho",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "",
+      "lead": "Trong phác đồ Penicillin 10 ngày, nếu bỏ lỡ hơn 1 ngày điều trị thì xử trí thế nào?",
+      "options": [
+        "Thêm 1 liều Benzathine sau khi kết thúc",
+        "Tiếp tục và kéo dài thêm 1 ngày",
+        "Bắt đầu lại toàn bộ liệu trình",
+        "Bù số liều đã bỏ lỡ vào cuối đợt"
+      ],
+      "answer": 2,
+      "explanation": "Bỏ lỡ > 1 ngày điều trị thì phải bắt đầu lại toàn bộ liệu trình từ đầu.",
+      "why_wrong": [
+        "Không thay thế cho việc làm lại liệu trình.",
+        "Kéo dài thêm không đủ khi đã gián đoạn > 1 ngày.",
+        null,
+        "Bù liều không đảm bảo hiệu quả liên tục."
+      ]
+    },
+    {
+      "id": "h0815bfbc",
+      "type": "nho",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "",
+      "lead": "Phác đồ điều trị giang mai bẩm sinh ở trẻ trên 1 tháng tuổi là gì?",
+      "options": [
+        "Penicillin G tinh thể 50.000 đv/kg TM mỗi 4–6 giờ × 10 ngày",
+        "Penicillin G tinh thể 50.000 đv/kg TM mỗi 8 giờ × 7 ngày",
+        "Benzathine penicillin G 50.000 đv/kg TB, 1 liều duy nhất",
+        "Penicillin G tinh thể 50.000 đv/kg TM mỗi 12 giờ × 10 ngày"
+      ],
+      "answer": 0,
+      "explanation": "Trẻ > 1 tháng: 200.000–300.000 đv/kg/ngày TM, chia 50.000 đv/kg mỗi 4–6 giờ, trong 10 ngày.",
+      "why_wrong": [
+        null,
+        "Sai khoảng cách liều và thời gian điều trị.",
+        "Không đủ cho giang mai bẩm sinh ở trẻ > 1 tháng.",
+        "Là khoảng cách liều cho sơ sinh ≤ 7 ngày tuổi."
+      ]
+    },
+    {
+      "id": "h96fcedab",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Trẻ sơ sinh nữ, 3 ngày tuổi, sinh đủ tháng, 3 kg.\nNgày 2: vàng da, gan 3 cm dưới bờ sườn, lách 2 cm.\nNgày 3: ban sẩn hồng ở lòng bàn tay, bàn chân.\nTiền căn: mẹ không điều trị giang mai.\nCận lâm sàng (cùng thời điểm): RPR mẹ 1:8, RPR con 1:32. DNT: bạch cầu 25/μL.",
+      "lead": "Y lệnh điều trị phù hợp nhất là gì?",
+      "options": [
+        "Penicillin G tinh thể 150.000 đv TM mỗi 12 giờ × 7 ngày",
+        "Penicillin G tinh thể 150.000 đv TM mỗi 8 giờ × 10 ngày",
+        "Benzathine penicillin G 150.000 đv TB, 1 liều",
+        "Penicillin G tinh thể 150.000 đv TM mỗi 12 giờ × 10 ngày"
+      ],
+      "answer": 3,
+      "explanation": "Kịch bản 1 (lâm sàng bất thường, hiệu giá con gấp 4 lần mẹ). Trẻ 3 ngày tuổi, 3 kg: 50.000 × 3 = 150.000 đv/liều, mỗi 12 giờ, tổng 10 ngày.",
+      "why_wrong": [
+        "Thời gian phải đủ 10 ngày.",
+        "Mỗi 8 giờ dành cho trẻ > 7 ngày tuổi.",
+        "Benzathine 1 liều không đủ cho kịch bản 1.",
+        null
+      ]
+    },
+    {
+      "id": "h548bbbe1",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Trẻ sơ sinh nam, 1 ngày tuổi, sinh đủ tháng, 3.200 g.\nMẹ RPR 1:8, TP-PA (+), không được điều trị trong thai kỳ.\nKhám: bình thường, không gan lách to, không phát ban.\nCận lâm sàng (cùng thời điểm): RPR con 1:4.",
+      "lead": "Trẻ được xếp vào kịch bản nào?",
+      "options": [
+        "Không có khả năng mắc giang mai bẩm sinh",
+        "Ít khả năng mắc giang mai bẩm sinh",
+        "Có thể mắc giang mai bẩm sinh",
+        "Chắc chắn hoặc khả năng cao"
+      ],
+      "answer": 2,
+      "explanation": "Khám bình thường, hiệu giá con ≤ 4 lần mẹ, nhưng mẹ không được điều trị là kịch bản 2 (có thể mắc).",
+      "why_wrong": [
+        "Kịch bản 4 cần mẹ điều trị đầy đủ trước khi mang thai.",
+        "Kịch bản 3 cần mẹ điều trị đầy đủ trong thai kỳ.",
+        null,
+        "Không có lâm sàng bất thường và hiệu giá con không ≥ 4 lần mẹ."
+      ]
+    },
+    {
+      "id": "ha6b137e1",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Trẻ sơ sinh nữ, 2 ngày tuổi, sinh đủ tháng, 3.000 g.\nMẹ giang mai sớm, được điều trị bằng Erythromycin do lo ngại dị ứng.\nKhám: bình thường.\nCận lâm sàng: RPR mẹ 1:16, RPR con 1:8. DNT, CTM, X-quang xương dài đều bình thường.\nGia đình ở gần bệnh viện, cam kết tái khám đầy đủ.",
+      "lead": "Lựa chọn điều trị nào sau đây là phù hợp?",
+      "options": [
+        "Erythromycin uống trong 14 ngày",
+        "Benzathine 50.000 đv/kg TB, 1 liều",
+        "Ceftriaxone tiêm tĩnh mạch 10 ngày",
+        "Không điều trị, chỉ theo dõi RPR định kỳ"
+      ],
+      "answer": 1,
+      "explanation": "Mẹ điều trị bằng thuốc khác Penicillin là kịch bản 2. Đánh giá đầy đủ bình thường và chắc chắn theo dõi được nên có thể dùng Benzathine 1 liều (hoặc phác đồ 10 ngày).",
+      "why_wrong": [
+        "Erythromycin không phải điều trị được chấp nhận.",
+        null,
+        "Ceftriaxone chưa đủ dữ liệu, chỉ dùng khi không có Penicillin.",
+        "Kịch bản 2 cần điều trị cho trẻ."
+      ]
+    },
+    {
+      "id": "h39f1a2a6",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Trẻ sơ sinh nam, 2 ngày tuổi, sinh đủ tháng, 3.300 g.\nMẹ RPR 1:16, không được điều trị.\nKhám: bình thường.\nCận lâm sàng: RPR con 1:8. CTM, X-quang xương dài bình thường.\nChọc dò tủy sống: dịch dính máu, hồng cầu 8.000/μL, không đánh giá được bạch cầu.",
+      "lead": "Xử trí phù hợp nhất là gì?",
+      "options": [
+        "Chưa điều trị, chọc dò lại sau 1 tháng",
+        "Benzathine 1 liều và theo dõi RPR",
+        "Penicillin G tinh thể TM × 10 ngày",
+        "Benzathine 1 liều vì lâm sàng bình thường"
+      ],
+      "answer": 2,
+      "explanation": "Kịch bản 2 nhưng DNT không đánh giá được (chọc dò sang chấn), nên phải điều trị phác đồ 10 ngày.",
+      "why_wrong": [
+        "Trì hoãn điều trị ở trẻ kịch bản 2 là không phù hợp.",
+        "Không đủ điều kiện dùng Benzathine 1 liều.",
+        null,
+        "Benzathine 1 liều chỉ khi toàn bộ đánh giá bình thường."
+      ]
+    },
+    {
+      "id": "hecb2ee38",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Trẻ sơ sinh nữ, 1 ngày tuổi, sinh đủ tháng, 3.100 g.\nMẹ giang mai sớm, tiêm Benzathine 2,4 triệu đơn vị lúc thai 20 tuần.\nRPR mẹ: 1:32 trước điều trị, 1:4 lúc sinh. Bạn tình đã được điều trị.\nKhám trẻ: bình thường.\nCận lâm sàng: RPR con 1:2.",
+      "lead": "Xử trí phù hợp nhất là gì?",
+      "options": [
+        "Procaine penicillin G TB × 10 ngày",
+        "Benzathine 50.000 đv/kg TB, 1 liều",
+        "Penicillin G tinh thể TM × 10 ngày",
+        "Chọc dò DNT, CTM, X-quang rồi quyết định"
+      ],
+      "answer": 1,
+      "explanation": "Mẹ điều trị đầy đủ trong thai kỳ, ≥ 30 ngày trước sinh, hiệu giá giảm 8 lần, con khám bình thường: kịch bản 3, dùng Benzathine 1 liều, không cần đánh giá thêm.",
+      "why_wrong": [
+        "Phác đồ 10 ngày dành cho kịch bản 1 hoặc 2.",
+        null,
+        "Phác đồ 10 ngày dành cho kịch bản 1 hoặc 2.",
+        "Kịch bản 3 không bắt buộc đánh giá thêm."
+      ]
+    },
+    {
+      "id": "hc37cecc6",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Trẻ sơ sinh nam, 1 ngày tuổi, sinh đủ tháng, 3.400 g.\nMẹ điều trị giang mai đầy đủ bằng Benzathine 2 năm trước khi mang thai.\nRPR mẹ ổn định 1:2 trong suốt thai kỳ và lúc sinh.\nKhám trẻ: bình thường.\nCận lâm sàng: RPR con 1:1. Gia đình tái khám đầy đủ.",
+      "lead": "Xử trí phù hợp nhất là gì?",
+      "options": [
+        "Chọc dò DNT trước khi quyết định điều trị",
+        "Penicillin G tinh thể TM × 10 ngày",
+        "Benzathine 50.000 đv/kg TB, bắt buộc",
+        "Không điều trị, theo dõi RPR định kỳ"
+      ],
+      "answer": 3,
+      "explanation": "Mẹ điều trị đầy đủ trước khi mang thai, hiệu giá thấp ổn định: kịch bản 4, không cần điều trị, nhưng trẻ có RPR (+) phải theo dõi đến khi âm tính.",
+      "why_wrong": [
+        "Kịch bản 4 không cần đánh giá thêm.",
+        "Phác đồ 10 ngày không chỉ định cho kịch bản 4.",
+        "Benzathine chỉ cân nhắc khi không chắc theo dõi được.",
+        null
+      ]
+    },
+    {
+      "id": "hd8a8aa18",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Bệnh nhi nữ, 2 tháng tuổi, 5 kg, nhập viện vì không cử động chân phải.\nTuần 2–6: chảy mũi kéo dài.\nKhám: gan 3 cm dưới bờ sườn, đau khi vận động chân phải.\nCận lâm sàng: RPR 1:64. X-quang: viêm màng xương nhiều xương. DNT bình thường.\nChẩn đoán: giang mai bẩm sinh.",
+      "lead": "Y lệnh điều trị phù hợp nhất là gì?",
+      "options": [
+        "Penicillin G tinh thể 250.000 đv TM mỗi 12 giờ × 10 ngày",
+        "Penicillin G tinh thể 250.000 đv TM mỗi 8 giờ × 7 ngày",
+        "Penicillin G tinh thể 250.000 đv TM mỗi 4–6 giờ × 10 ngày",
+        "Benzathine penicillin G 250.000 đv TB, 1 liều"
+      ],
+      "answer": 2,
+      "explanation": "Trẻ > 1 tháng: 50.000 đv/kg/liều (5 kg = 250.000 đv) TM mỗi 4–6 giờ, trong 10 ngày.",
+      "why_wrong": [
+        "Mỗi 12 giờ là khoảng cách liều cho sơ sinh ≤ 7 ngày tuổi.",
+        "Sai khoảng cách liều và thời gian.",
+        null,
+        "Benzathine 1 liều không đủ cho giang mai bẩm sinh có triệu chứng."
+      ]
+    },
+    {
+      "id": "h8d1be1bf",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Trẻ sơ sinh nam, 5 ngày tuổi, 3,2 kg, giang mai bẩm sinh có gan lách to, pemphigus giang mai.\nGiờ 0: liều Penicillin G tinh thể TM đầu tiên.\nGiờ 6: sốt 38,8 °C, quấy khóc, ban đỏ da rõ hơn.\nKhám: mạch 170 lần/phút, HA 65/40 mmHg, CRT 2 giây, SpO₂ 97%. Không phù mặt, không khò khè.",
+      "lead": "Xử trí phù hợp nhất là gì?",
+      "options": [
+        "Hạ sốt, theo dõi sát, tiếp tục Penicillin",
+        "Ngừng Penicillin, tiêm Adrenaline TB",
+        "Thêm Vancomycin vì nhiễm khuẩn bệnh viện",
+        "Ngừng Penicillin, chuyển sang Ceftriaxone"
+      ],
+      "answer": 0,
+      "explanation": "Sốt, quấy, ban tăng trong 24 giờ đầu sau liều đầu là phản ứng Jarisch-Herxheimer; xử trí hỗ trợ, không ngừng Penicillin.",
+      "why_wrong": [
+        null,
+        "Không có dấu hiệu phản vệ (phù, khò khè, sốc).",
+        "Thời điểm sau liều đầu phù hợp phản ứng Jarisch-Herxheimer hơn nhiễm khuẩn bệnh viện.",
+        "Không phải dị ứng thuốc; không cần đổi kháng sinh."
+      ]
+    },
+    {
+      "id": "h76a2319b",
+      "type": "lam-sang",
+      "section": "Điều trị giang mai bẩm sinh",
+      "stem": "Trẻ sơ sinh nữ, 10 ngày tuổi, 3 kg, giang mai bẩm sinh cần điều trị 10 ngày.\nBệnh viện tạm thời hết Penicillin G tinh thể và Procaine.\nSau hội chẩn chuyên khoa Nhiễm, quyết định dùng Ceftriaxone.\nTrẻ đang được nuôi ăn tĩnh mạch có Canxi gluconat.",
+      "lead": "Lưu ý quan trọng nhất khi dùng Ceftriaxone cho trẻ là gì?",
+      "options": [
+        "Chỉ cần dùng trong 5 ngày là đủ",
+        "Phối hợp thêm Benzathine trong ngày đầu",
+        "Pha Ceftriaxone với Lidocain khi tiêm TM",
+        "Không truyền cùng lúc với dịch chứa Canxi"
+      ],
+      "answer": 3,
+      "explanation": "Ở trẻ sơ sinh, Ceftriaxone không được dùng chung đường truyền hoặc cùng lúc với dịch chứa Canxi do nguy cơ kết tủa; tránh dùng khi tăng bilirubin.",
+      "why_wrong": [
+        "Từ tuyệt đối, sai; thời gian điều trị không ngắn như vậy.",
+        "Không phải khuyến cáo trong bài; trường hợp này đang thiếu Penicillin.",
+        "Lidocain chỉ dùng pha tiêm bắp, không dùng tiêm tĩnh mạch.",
+        null
+      ]
+    },
+    {
+      "id": "hbd951e61",
+      "type": "nho",
+      "section": "Theo dõi sau điều trị",
+      "stem": "",
+      "lead": "Sau điều trị giang mai bẩm sinh, RPR/VDRL của trẻ được theo dõi với tần suất nào?",
+      "options": [
+        "Mỗi 2–3 tháng đến khi âm tính",
+        "Chỉ một lần lúc 18 tháng tuổi",
+        "Mỗi 6 tháng đến 18 tháng tuổi",
+        "Mỗi tháng trong 12 tháng đầu"
+      ],
+      "answer": 0,
+      "explanation": "Trẻ có RPR/VDRL (+) lúc sinh cần khám và làm RPR/VDRL định lượng mỗi 2–3 tháng cho đến khi âm tính.",
+      "why_wrong": [
+        null,
+        "Không đủ để theo dõi diễn tiến hiệu giá.",
+        "Quá thưa, dễ bỏ sót thất bại điều trị.",
+        "Không phải tần suất trong bài."
+      ]
+    },
+    {
+      "id": "h8c81aed4",
+      "type": "nho",
+      "section": "Theo dõi sau điều trị",
+      "stem": "",
+      "lead": "Ở trẻ không nhiễm hoặc đã điều trị đầy đủ, RPR/VDRL thường âm tính trước bao nhiêu tháng tuổi?",
+      "options": [
+        "12 tháng",
+        "18 tháng",
+        "3 tháng",
+        "6 tháng"
+      ],
+      "answer": 3,
+      "explanation": "Hiệu giá giảm rõ trước 3 tháng và âm tính trước 6 tháng tuổi.",
+      "why_wrong": [
+        "Muộn hơn mốc trong bài.",
+        "18 tháng là mốc của test đặc hiệu.",
+        "3 tháng là mốc hiệu giá giảm rõ, chưa phải âm tính.",
+        null
+      ]
+    },
+    {
+      "id": "h53fe4f77",
+      "type": "nho",
+      "section": "Theo dõi sau điều trị",
+      "stem": "",
+      "lead": "Xét nghiệm đặc hiệu (TP-PA, FTA-ABS) không nên làm cho trẻ trước bao nhiêu tháng tuổi?",
+      "options": [
+        "12 tháng",
+        "3 tháng",
+        "6 tháng",
+        "18 tháng"
+      ],
+      "answer": 3,
+      "explanation": "Trước 18 tháng, test đặc hiệu (+) có thể do kháng thể IgG của mẹ còn tồn tại.",
+      "why_wrong": [
+        "Kháng thể mẹ có thể còn đến 18 tháng.",
+        "Quá sớm; kháng thể mẹ còn tồn tại.",
+        "Quá sớm; kháng thể mẹ còn tồn tại.",
+        null
+      ]
+    },
+    {
+      "id": "had503256",
+      "type": "lam-sang",
+      "section": "Theo dõi sau điều trị",
+      "stem": "Trẻ nữ, 9 tháng tuổi, 8 kg, tái khám theo dõi.\nĐã điều trị giang mai bẩm sinh bằng Penicillin G tinh thể TM 10 ngày lúc sơ sinh.\nRPR: 1:16 lúc sinh, 1:16 lúc 3 tháng, 1:16 lúc 6 tháng, 1:16 lúc 9 tháng.\nKhám: phát triển bình thường, không gan lách to.",
+      "lead": "Xử trí phù hợp nhất là gì?",
+      "options": [
+        "Benzathine 1 liều bổ sung, theo dõi tiếp",
+        "Làm TP-PA để quyết định điều trị",
+        "Tiếp tục theo dõi RPR đến 18 tháng",
+        "Đánh giá lại gồm DNT, điều trị lại 10 ngày"
+      ],
+      "answer": 3,
+      "explanation": "Hiệu giá ổn định không giảm sau 6–12 tháng: đánh giá lại toàn diện (gồm DNT) và điều trị lại phác đồ 10 ngày.",
+      "why_wrong": [
+        "Không phải khuyến cáo khi hiệu giá không giảm.",
+        "TP-PA trước 18 tháng không giúp ích.",
+        "Hiệu giá không giảm sau 6 tháng là bất thường, cần xử trí.",
+        null
+      ]
+    },
+    {
+      "id": "hf07ec1ad",
+      "type": "lam-sang",
+      "section": "Theo dõi sau điều trị",
+      "stem": "Trẻ nam, 6 tháng tuổi, tái khám theo dõi.\nLúc sinh: giang mai bẩm sinh chắc chắn, DNT bạch cầu 40/μL, protein 150 mg/dL. Đã điều trị Penicillin G tinh thể TM 10 ngày.\nRPR: 1:64 lúc sinh, 1:8 lúc 3 tháng, âm tính lúc 6 tháng.\nKhám: bình thường.",
+      "lead": "Kế hoạch chọc dò tủy sống phù hợp nhất là gì?",
+      "options": [
+        "Chọc dò lại mỗi 6 tháng đến khi bình thường",
+        "Không cần chọc dò lại thường quy",
+        "Chọc dò lại ngay để xác nhận khỏi bệnh",
+        "Chọc dò lại lúc 18 tháng tuổi"
+      ],
+      "answer": 1,
+      "explanation": "Trẻ có DNT bất thường ban đầu không cần chọc dò lại thường quy; chỉ chọc dò lại khi RPR còn (+) dai dẳng ở 6–12 tháng. Trẻ này RPR đã âm tính.",
+      "why_wrong": [
+        "Là khuyến cáo cũ, đã thay đổi.",
+        null,
+        "Không có chỉ định khi RPR đã âm tính.",
+        "Không có chỉ định khi RPR đã âm tính."
+      ]
+    },
+    {
+      "id": "h8a471726",
+      "type": "lam-sang",
+      "section": "Theo dõi sau điều trị",
+      "stem": "Sản phụ 22 tuổi vừa sinh con mắc giang mai bẩm sinh, trẻ đã hoàn tất điều trị.\nMẹ được điều trị giang mai sau sinh.\nChồng chưa được xét nghiệm hay điều trị.\nGia đình dự định sinh thêm con trong 2 năm tới.",
+      "lead": "Biện pháp quan trọng nhất để phòng giang mai bẩm sinh ở lần mang thai sau là gì?",
+      "options": [
+        "Tiêm Benzathine cho trẻ mỗi 3 tháng",
+        "Mẹ ngừng cho con bú đến 6 tháng tuổi",
+        "Cho mẹ uống Azithromycin dự phòng mỗi năm",
+        "Truy vết, xét nghiệm và điều trị chồng"
+      ],
+      "answer": 3,
+      "explanation": "Bạn tình của mẹ phải được điều trị để tránh tái nhiễm; kèm sàng lọc lại giang mai khi mang thai.",
+      "why_wrong": [
+        "Không liên quan phòng bệnh ở lần mang thai sau.",
+        "Không phải biện pháp phòng tái nhiễm cho mẹ.",
+        "Không phải biện pháp phòng ngừa được khuyến cáo.",
+        null
+      ]
+    }
+  ]
+}

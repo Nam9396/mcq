@@ -1,7 +1,14 @@
 {
   "title": "Ôn trắc nghiệm",
-  "updated": "2026-10-31",
+  "updated": "2026-11-05",
   "lessons": [
+    {
+      "id": "giang-mai-bam-sinh",
+      "title": "Giang mai bẩm sinh",
+      "topic": "Truyền nhiễm",
+      "count": 70,
+      "updated": "2026-11-05"
+    },
     {
       "id": "cmv-bam-sinh",
       "title": "Nhiễm CMV bẩm sinh (cCMV)",
